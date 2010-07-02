@@ -1,0 +1,4 @@
+In this experiment, we examine the effects of spatial attention on object recognition accuracy.
+In the isolate condition, a single image containing the target at one of three locations is shown.
+The identity of the stimulus 
+

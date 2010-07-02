@@ -1,0 +1,17 @@
+Fixation Analysis for:	C:\finalcut\2.jpg
+
+Fixation parameters:
+Minimum point count: 3
+Maximum gap between gazepoints (seconds): 0.500
+Minimum fixation time (seconds): 0.200
+Minimum fixation diameter (pixels): 50
+
+Number of fixations: 2
+
+Fixation Listing: (fixation number, x position, y position, begin time, end time, duration)
+
+1. 507, 328, 1.272, 1.572, 0.300
+2. 56, 489, 3.205, 3.405, 0.200
+Average fixation duration (seconds):	0.250
+Total fixation duration (seconds):	0.500
+Total number of LookZones fixated upon:	0

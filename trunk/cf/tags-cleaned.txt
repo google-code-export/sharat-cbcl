@@ -1,0 +1,2400 @@
+highway,mountain,car,sky,tree,verge,sing,road
+highway,building,street light,sky,tree,sign,pole,car,sidewalk,central reservation,road
+highway,mountain,fence,tree,sky,sign,vegetation,car,road,ground
+highway,bridge,car,sign
+highway,car,sky,truck,vegetation,ground
+highway,sky,road,fence
+highway,car,road
+highway,mountain,sky,road,vegetation,sing
+highway,car,road
+highway,car,tree,sign,truck,road,bus,central reservation,vegetation
+highway,bridge,mountain,sky,pole,truck,road,vegetation
+highway,van,car,sign,truck,central reservation,grass,road
+highway,building,car,sky,sign,vehicle,vegetation,ground
+highway,street light,fence,wall,sky,tree,hill,car,sidewalk,road
+highway,building,wire,sky,tree,sidewalk,road
+highway,building,mountain,fence,street light,tree,sky,sign,car,road
+highway,car,truck
+highway,bridge,car,tree,sign,central reservation,road,sky
+highway,ground,sign,sky,vehicle
+highway,mountain,fence,bridge,tree,sky,sign,vegetation,car,central reservation,road,hill
+highway,car
+highway,car,sky,road
+highway,street light,fence,car,sky,tree,sign,pole,road
+highway,field,grass,sky,road,mountain
+highway,van,car,tree,vegetation,central reservation,sky
+highway,building,mountain,fence,bridge,wall,tree,sky,car,road
+highway,car
+highway,car,tree,sign,central reservation,road,sky
+highway,building,sky,tree,sign,car,sidewalk,road
+highway,tree,sign,sky,road,ground
+highway,mountain,fence,sky,tree,truck,car,toll gate,road,ground
+highway,car,sky,road
+highway,pole,sky,vegetation,road
+highway,car,sky,tree,sign,grass,road
+highway,street light,van,car,tree,pole,truck,central reservation,ground,road,sky
+highway,car
+highway,bridge,fence,car,sky,tree,pole,hand rail,sing,central reservation
+highway,bridge,fence,street light,bus,sky,tree,sign,car,road
+highway,building,street light,fence,car,sky,road
+highway,bridge,fence,mountain,tunnel,car,sky,tree,sign,road,ground
+highway,street light,sky,traffic light,tree,car,road
+highway,building,street light,sky,tree,sign,car,central reservation,road
+highway,car,sky,road
+highway,building,mountain,fence,wall,car,sky,sign,pylon,road
+highway,person,road,car
+highway,car
+highway,bridge,street light,car,sky,tree,sign,road
+highway,mountain,van,fence,tree,sky,sign,truck,house,central reservation,road
+highway,car,tree,road,sign
+highway,mountain,fence,tunnel,tree,sky,car,central reservation,road
+highway,building,car,tree,sign,road,ground,vegetation,sky
+highway,car,sky,tree,sign,central reservation,road
+highway,mountain,tree,sky,pole,vegetation,sing,road
+highway,sky,tree,vegetation,car,path,road
+highway,bridge,fence,street light,sky,tree,sign,pole,car,road
+highway,car,sky,tree,sign,central reservation,road
+highway,sky,vehicle,sign,ground
+highway,car,road,sky,truck,tree
+highway,car,sky,road
+highway,car
+highway,street light,van,sky,tree,sign,car,central reservation,road,ground
+highway,street light,car,sky,tree,sign,road,vegetation
+highway,building,slope,bridge,car,sky,street light,road
+highway,car,van,road
+highway,car,ground
+highway,mountain,fence,street light,wall,tree,sky,sign,truck,hill,car,sidewalk,road
+highway,mountain,van,fence,car,sky,tree,sign,road
+highway,car,road,sign
+highway,mountain,car,sky,truck,road,vegetation
+highway,car
+highway,car
+highway,building,bridge,fence,street light,sky,tree,pole,central reservation,road
+highway,car,truck
+highway,building,mountain,fence,tree,sky,road,ground
+highway,bridge,mountain,street light,wall,car,sky,sign,central reservation,road
+highway,building,bridge,fence,street light,tree,sky,truck,car,slope,road
+highway,building,van,car,traffic light,sky,tree,person,pole,sidewalk,road
+highway,slope,mountain,fence,tree,sky,sign,car,road,ground
+highway,car,sky,sign
+highway,car
+highway,slope,mountain,van,bridge,tree,sky,sign,central reservation,road
+highway,sky,tree,sign,vegetation,central reservation,road
+highway,car,truck
+highway,car,sky,road,bridge
+highway,mountain,fence,tree,sky,sign,truck,road,car,vegetation
+highway,building,sky,traffic light,tree,car,road
+highway,car,tree,sign,sidewalk,central reservation,road,sky
+highway,mountain,car,sky,tree,sign,vegetation,road
+highway,building,bridge,van,fence,wall,tree,sky,sign,car,road
+highway,car,sky,tree,sign,central reservation,road
+highway,mountain,fence,truck,vegetation,central reservation,road,pylon
+highway,mountain,wall,car,sky,vegetation,road
+highway,building,mountain,street light,tree,sky,sign,car,road,ground
+highway,mountain,sky,hill,road,vegetation
+highway,building,mountain,van,street light,tree,sky,sign,person,pole,car,sidewalk,road
+highway,car,sky,tree,road,mountain
+highway,building,mountain,plant,street light,car,sky,tree,sign,sidewalk,road
+highway,mountain,fence,bridge,tree,sky,sign,car,road,ground
+highway,van,car,sky,tree,sign,central reservation,road
+highway,bridge,mountain,car,sky,tree,central reservation,road
+highway,car,sky,tree,sign,road,central reservation,vegetation
+highway,building,mountain,bridge,wall,car,sky,road,vegetation
+highway,car,sky,tree,central reservation,sidewalk,road
+highway,building,street light,fence,wall,car,sky,sign,road,ground
+highway,building,street light,fence,tree,sky,sign,road
+highway,building,street light,van,car,sky,tree,sign,truck,central reservation,road,ground
+highway,building,sky,traffic light,tree,car,road
+highway,mountain,road,sky,tree,vegetation
+highway,bridge,tree,sky,sign,pole,car,hand rail,central reservation,road
+highway,street light,sky,tree,sign,pole,car,sidewalk,road
+highway,car,road
+highway,building,street light,wall,tree,sky,sign,road
+highway,building,street light,sky,tree,sign,central reservation,road
+highway,car,sky,road,bridge
+highway,tree,central reservation,sky,road,car
+highway,car
+highway,mountain,fence,tree,sky,vegetation,road
+highway,mountain,fence,tree,sky,snow,pole,house,road,ground
+highway,mountain,fence,bridge,tree,sky,sign,pole,road,car,vegetation
+highway,car,sky,road
+highway,building,mountain,fence,sky,tree,road,car,vegetation
+highway,building,street light,sky,tree,car,sidewalk,road
+highway,motorbike,wall,sky,tree,sign,car,road
+highway,van,car,traffic light,sign,truck,verge,road,ground
+highway,building,mountain,house,sky,window,tree,snow,pole,road
+highway,car,van,truck
+highway,van,car,tree,sign,pole,truck,central reservation,road,ground
+highway,bridge,fence,street light,car,sky,tree,sign,central reservation,road
+highway,building,bridge,fence,mountain,car,sky,tree,sing,road
+highway,building,car,sign,tall building
+highway,bridge,street light,car,sky,tree,sign,road
+highway,bridge,fence,car,sky,tree,sign,hand rail,central reservation,road
+highway,building,mountain,fence,bridge,tree,sky,sign,road,car,vegetation
+highway,tree,sky,road,car,ground
+highway,van,sky,tree,sign,car,central reservation,grass,road
+highway,street light,fence,house,sky,hill,road
+highway,mountain,fence,sky,pole,vegetation,central reservation,road
+highway,slope,mountain,bridge,wall,tree,sky,sign,car,road,ground
+highway,car,road
+highway,mountain,fence,tree,sky,car,road
+highway,car,sign
+highway,car,tree,sign
+highway,building,mountain,fence,tree,sky,sign,road,car,vegetation
+highway,car,sky,tree,sign,pole,central reservation,road
+highway,building,street light,van,fence,bridge,car,parking,road
+highway,mountain,fence,car,sky,sign,house,toll gate,road
+highway,car,traffic light,person
+highway,building,bridge,fence,street light,car,sky,tree,pole,central reservation,sidewalk,road
+highway,cyclist,mountain,plant,tree,sky,sign,sidewalk,road,ground
+highway,building,car,road,arrow
+highway,street light,bridge,car,sky,tree,sign,pole,truck,hand rail,road
+highway,slope,mountain,building,fence,wall,sky,pole,road
+highway,mountain,fence,car,sky,tree,sign,pylon,central reservation,road
+highway,street light,fence,sky,tree,sign,pylon,car,road,ground
+highway,car,truck,van
+highway,building,mountain,slope,bridge,bus,sky,tree,sign,car,central reservation,road
+highway,car,sign
+highway,mountain,fence,tree,sky,water,road,vegetation
+highway,car
+highway,mountain,wire,fence,sky,tree,pole,road
+highway,car
+highway,building,street light,van,sky,tree,person,pole,car,sidewalk,road
+highway,van,car,sky,tree,central reservation,road
+highway,car,placard,road
+highway,car,sign
+highway,building,bridge,fence,sky,tree,sign,car,road
+highway,building,mountain,fence,tree,sky,sign,flag,road,car,vegetation
+highway,car,central reservation,vegetation,road
+highway,building,sky,road,fence
+highway,mountain,car,tree,road,sing,central reservation,sky
+highway,building,bridge,street light,wall,car,sky,tree,hand rail,road,ground
+highway,mountain,van,fence,car,sky,tree,sign,grass,road
+highway,car,tree,sign,central reservation,road,sky
+highway,building,street light,plant,house,sky,tree,pylon,car,road,sidewalk,vegetation
+highway,car
+highway,mountain,urban,sky,water,central reservation,grass,city,road
+highway,car,sign
+highway,building,street light,fence,car,sky,tree,sign,truck,road,ground
+highway,mountain,van,fence,tree,sky,truck,vegetation,car,road
+highway,car,sky,road,tree
+highway,bridge,fence,car,tree,sign,road,sky
+highway,car,road
+highway,car,text
+highway,sky,pole,grass,tree,road
+highway,building,bridge,wall,sky,tree,sign,car,road
+highway,mountain,tree,sky,vegetation,car,road
+highway,mountain,pole,sky,road,vegetation
+highway,wall,mountain,sky,road,verge
+highway,car
+highway,street light,vegetation,car,traffic light,sky,sign,hill,house,sidewalk,road
+highway,car,sky,ground
+highway,building,mountain,plant,street light,tree,sky,sign,poster,central reservation,road,car
+highway,slope,sky,tree,truck,vegetation,car,central reservation,road
+highway,street light,tree,sky,sign,pole,truck,car,sidewalk
+highway,car,truck
+highway,car,sky,tree,ground
+highway,bridge,tree,sky,sign,pole,car,hand rail,central reservation,sidewalk,road
+highway,slope,mountain,fence,sky,verge,road
+highway,street light,fence,house,sky,tree,car,toll gate,road
+highway,mountain,fence,tree,sky,sign,road,car,vegetation
+highway,bus,tree,sign,car,central reservation,road,sky
+highway,car
+highway,water,mountain,sky,road,vegetation
+highway,car,sky,road
+highway,car,van,road,sign
+highway,bridge,wall,car,sky,tree,pole,poster,hand rail,road,ground
+highway,bridge,tree,sky,car,central reservation,road,ground
+highway,mountain,fence,car,sky,tree,sign,road
+highway,mountain,plant,sky,tree,vegetation,car,sing,central reservation
+highway,car,lamp
+highway,slope,sky,sign,water,grass,road
+highway,car,sky,road
+highway,mountain,fence,house,tree,pole,car,toll gate,road,sky
+highway,car,tree,sign,central reservation,road,sky
+highway,person,hand railing,sky,car,sign
+highway,bridge,car,sky,tree,sign,road,ground
+highway,slope,mountain,car,sky,vegetation,central reservation,road
+highway,slope,mountain,fence,bridge,tree,sky,sign,car,road
+highway,car,road
+highway,bridge,car,sky,pole,road,central reservation,vegetation
+highway,street light,fence,car,sky,tree,sign,central reservation,road
+highway,slope,mountain,fence,bridge,tree,sky,sign,truck,hill,car,road
+highway,car
+highway,slope,car,sky,road,sign
+highway,building,street light,van,bus,sky,tree,hand rail,tall building,sidewalk,road
+highway,street light,bridge,car,sky,tree,pylon,road
+highway,street light,van,sky,tree,car,sing,road
+highway,mountain,fence,car,sky,tree,sign,truck,grass,road
+highway,car,arrow,text
+highway,building,mountain,fence,street light,wall,car,sky,sign,road,chimney,ground
+highway,bridge,tree,sky,hand rail,road,ground
+highway,building,sky,traffic light,tree,car,road
+highway,building,sky,road
+highway,bridge,street light,sky,tree,car,central reservation,sidewalk,road
+highway,car,sign
+highway,mountain,sky,road,vegetation
+highway,bridge,fence,mountain,tree,sky,sign,road,car,vegetation
+highway,sky,vegetation,road
+highway,building,mountain,fence,bridge,sky,tree,sign,street light,car,road,ground
+highway,car,sign
+highway,car,sky,road,sign
+highway,building,mountain,fence,car,tree,road,sky
+highway,car
+highway,building,street light,van,car,traffic light,sky,tree,sign,sidewalk,road
+highway,mountain,fence,tree,sky,sign,pole,car,road
+highway,car,person
+highway,building,mountain,fence,street light,wall,car,sky,sign,truck,hill,sidewalk,road
+highway,building,car,fence,street light,sky,tree,sign,bus,central reservation,road,ground
+highway,car,sky,tree,sign,central reservation,road
+highway,building,fence,car,sky,sing,road
+highway,van,car,sky,sign,vegetation,verge,road
+highway,tree,sky,sign,pole,road,house,vegetation
+highway,car
+highway,car,ground,sky,vegetation,sign
+highway,car
+highway,car
+highway,car,sign
+highway,building,street light,van,wall,car,sky,zebra crossing,sculpture,road
+highway,building,van,fence,car,sky,tree,person,zebra crossing,sidewalk,road
+highway,building,street light,car,sky,sign,poster,central reservation,road
+highway,building,sky,tree,sign,car,road,ground
+highway,building,mountain,car,sky,sign,vegetation,vehicle,road
+highway,mountain,fence,car,sky,tree,sign,pole,road
+highway,fence,car,sky,sign,house,road
+highway,car,truck,road,sign
+highway,car,road
+highway,car,road
+highway,car,sky,tree,sign,central reservation,sidewalk,road
+highway,car
+highway,tree,sky,road,vegetation
+highway,building,mountain,wall,sky,water,sand,sea,sidewalk,beach,road
+highway,building,car,traffic light,sky,tree,road
+highway,bridge,truck,road,sign
+highway,mountain,car,sky,sign,truck,cone,road
+highway,building,street light,van,fence,car,sky,sign,central reservation,road,ground
+highway,vehicle,ground
+highway,truck,tree,sky,road,vegetation
+highway,road,van,street light,sky,tree,sign,hill,car,sidewalk,grass,vegetation
+highway,car,cone,road
+highway,car,sky,sign,pole,truck,central reservation,road
+highway,bridge,fence,car,tree,sign,arrow,road,sky
+highway,mountain,fence,tree,sky,truck,car,road,ground
+highway,sky,tree,truck,car,central reservation,road
+highway,motorbike,sky,tree,car,central reservation,road
+highway,street light,sky,tree,vegetation,car,central reservation,road
+highway,mountain,car,sky,road,vegetation,ground
+highway,sky,tree,truck,car,central reservation,road
+highway,building,street light,wall,bus,sky,tree,truck,tall building,road
+highway,car,tree,sign,truck,house,central reservation,road,ground
+highway,street light,car,sky,tree,central reservation,road
+highway,building,mountain,fence,bridge,wall,sky,tree,road,car,vegetation
+highway,car,tree
+highway,building,street light,car,sky,sign,pole,sidewalk,road
+highway,slope,bridge,fence,mountain,tunnel,car,sky,street light,truck,road
+highway,mountain,tree,sky,house,toll gate,road,car
+highway,building,wall,sky,sign,water,pole
+highway,wall,sky,tree,sign,car,sidewalk,road
+highway,building,mountain,stair,fence,car,tree,pole,road,sky
+highway,building,street light,wire,wall,car,traffic light,tree,sign,poster,sidewalk,road,sky
+highway,building,van,fence,wall,car,tree,sign,central reservation,road,ground
+city,building,door,attic,poster,sky,window,pane,awning,balcony
+city,building,sky,dome,roof,window,fountain
+city,building,poster,window,plant
+city,building,door,poster,sky,trash can,road
+city,building,grill,door,light,person,lamp,pane,badge,road
+city,building,tree,window,door
+city,building,door,stair,wall,tree,sky,person,trash can,pane,path,grass,vegetation
+city,building,door,car,sky,tree,window,poster,road
+city,building,street light,door,sky,window,person,pole,pane,sidewalk,balcony
+city,building,grill,door,garden,light,sky,window,lamp,grass,ground
+city,building,street light,door,car,tree,window,parking meter,central reservation,sidewalk,road
+city,building,street light,door,tree,sky,pole,sidewalk,grass,badge
+city,building,plant,garden,stair,sky,pane,tree,entrance,person,window,bus,path,sidewalk,pedestal,road
+city,plant,door,stair,house,tree,window,curb,terrace,animal,path,grass,road,ground
+city,building,plant,entrance,sign,window,awning,sidewalk,badge,road,balcony
+city,building,mountain,clock,tree,sky,person,window,car,road
+city,building,plant,balcony,tree,sky,dome,window,path,grass,ground
+city,building,street light,entrance,umbrella,car,traffic light,sky,tree,sign,person,window,pane,poster,sidewalk,road
+city,building,clock,bus,traffic light,pole,sign,person,window,pane,car,sidewalk,road
+city,building,door,tree,sky,window,pane,poster,path,sidewalk,road
+city,building,street light,door,wall,tree,person,window,sidewalk,balcony
+city,building,pole,door,pane,road
+city,building,plant,door,car,tree,roof,person,window,awning,sidewalk,badge,road
+city,building,plant,door,stair,sky,window,sidewalk,grass
+city,building,plant,door,pot,sidewalk,road
+city,building,street light,door,sky,window,grass
+city,building,door,hand railing,sky,pane,awning,road
+city,building,door,car,sky,pole,person,window,sidewalk,road,balcony
+city,building,poster,window,door,awning
+city,building,street light,plant,door,hydrant,car,sky,pole,window,terrace,sidewalk,road,hill
+city,door,house,sky,pipe,window,grass,chimney,ground
+city,building,plant,van,car,tree,window,terrace,road
+city,building,plant,door,sky,tree,sign,window,pane,poster,sidewalk,road,ground
+city,building,wheel,van,poster,sky,garage,window,car,door,road
+city,building,entrance,car,tree,window,pane,awning
+city,building,entrance,stair,car,sky,person,window,hill,awning,sidewalk,road,balcony
+city,building,cyclist,plant,stair,column,car,tree,person,window,pane,sidewalk,road
+city,building,street light,plant,column,traffic light,sky,entrance,flag,window,road
+city,building,door,stair,wall,car,sky,tree,road
+city,mountain,plant,door,stair,porch,tree,sky,window,house,sidewalk,grass,road,car
+city,building,car,sky,mailbox,window,parking meter,awning,sidewalk,road,balcony
+city,tree,plant,door,stair,house,sky,roof,window,chimney,car,grass,road
+city,building,plant,door,tree,trash can,chair,grass,road,balcony
+city,building,door,person,window,awning,sidewalk,road
+city,building,door,window,sky,column
+city,building,plant,wall,tree,sky,sign,window,trash can,terrace
+city,mountain,plant,door,stair,porch,house,tree,lamp,joint,window,terrace,light,hand rail,sidewalk,road
+city,building,plant,stair,arcade,sky,fountain,pane,pond,sidewalk,road
+city,building,mountain,car,sky,window,road
+city,building,door,light,pole,lamp,window,sidewalk,badge,road,balcony
+city,building,door,car,window,pane,sidewalk,road
+city,building,mountain,plant,van,car,tree,joint,window,truck,terrace,awning,sidewalk,road
+city,building,light,lamp,door,road
+city,building,door,stair,light,lamp,person,window,pane,sidewalk
+city,building,wheel,door,tree,sky,sign,garage,window,van,road
+city,building,door,pane,car,window,terrace,parking meter,sidewalk,road,balcony
+city,building,mountain,door,poster,sky,person,window,bike,stand,awning,sidewalk,road
+city,building,door,stair,porch,sky,tree,window,terrace,grass
+city,building,door,stair,arcade,sky,tree,window,poster,pole,car,hand rail,sidewalk,road
+city,building,arcade,bench,window,fountain,sidewalk
+city,building,car,window,door,road
+city,building,street light,door,stair,column,tree,sky,person,window,car,sidewalk,road
+city,building,plant,porch,poster,sky,tree,window,sidewalk,road
+city,building,door,sky,person,window,fountain,pane,awning,ground
+city,building,sky,window,sidewalk,grass,road
+city,building,door,sky,person,window,sidewalk
+city,building,door,car,sign,person,window,sidewalk,road,balcony
+city,building,door,column,poster,pot,lamp,pane,light,sidewalk,chair,road
+city,building,awning,window,sky,road
+city,building,street light,fence,wall,tree,sky,sign,person,flag,sidewalk,grass,road
+city,building,door,sign,window,hand rail,sidewalk,badge,balcony
+city,building,door,stair,wall,person,window,trash can,pane,sidewalk,road
+city,building,column,sky,door,stair
+city,building,door,stair,column,flag,pole,window,sculpture,balcony
+city,building,plant,door,stair,porch,column,sky,tree,dome,window,hand rail,chimney
+city,building,street light,plant,door,sky,window,sidewalk,grass
+city,building,AC,door,stair,car,tree,plant,person,window,sidewalk,road
+city,building,van,traffic light,sky,window,bench,pole,awning,door,sidewalk,road
+city,building,door,sidewalk,sky,window
+city,building,person,sky,pulley
+city,building,door,car,sign,person,window,bike,sidewalk,road,balcony
+city,building,sidewalk,door,window,pane
+city,building,tree,window,sky,balcony
+city,plant,stair,wall,house,pillar,sky,window,grass,plank
+city,building,arcade,car,tree,person,window,terrace,awning,road,sky
+city,building,door,pot,pole,pane,badge,road
+city,building,window,sky,chimney,road
+city,door,stair,attic,house,sky,window,sidewalk,road
+city,building,street light,door,stair,tree,sky,window,sidewalk
+city,building,plant,arcade,car,traffic light,tree,person,window,sidewalk,hall,road
+city,building,mountain,door,street light,car,sky,sign,person,window,van,sidewalk,road,balcony
+city,building,plant,door,car,sky,tree,window,curb,path,grass
+city,building,door,poster,sky,trash can,pane,sidewalk
+city,building,door,stair,sky,window,sidewalk
+city,building,mountain,arcade,porch,sky,window,sidewalk,road
+city,building,AC,door,stair,car,sign,person,window,pane,sidewalk
+city,building,door,stair,sky,pane,hand rail,sidewalk,road
+city,building,door,sky,window,person,pole
+city,building,door,sky,window,umbrella,sidewalk,road
+city,building,plant,door,pane,car,tree,window,parking meter,sidewalk,road
+city,building,plant,door,attic,tree,water,person,window,mast,hill,boat,wall,balcony
+city,building,wire,door,clock,light,sky,pole,person,lamp,pane,awning,sidewalk,grass
+city,porch,sky,tree,window,flag,curb,house,hand rail,grass,road
+city,building,street light,door,car,person,window,sidewalk,road,balcony
+city,building,door,car,sky,sign,window,pane,chimney
+city,building,door,stair
+city,building,door,stair,car,sky,sign,person,window,truck,terrace,placard,sidewalk,road
+city,building,street light,plant,fence,sky,tree,window,road
+city,building,umbrella,car,tree,sign,person,window,poster,door,sidewalk,road
+city,building,plant,car,sky,stone,person,window,fountain,rock,awning,road,balcony
+city,building,box,plant,van,street light,car,traffic light,sign,window,door,sidewalk,road
+city,building,door,car,lamp,sign,window,light,awning,sidewalk,badge,road
+city,building,car,person,window,pane,sidewalk,balcony
+city,building,street light,car,sky,tree,pole,sidewalk,grass,spotlight,road
+city,building,door,light,tree,lamp,bench,person,window,fountain,poster
+city,building,entrance,door,sky,tree,pane,sidewalk,sculpture
+city,building,street light,plant,sky,traffic light,tree,person,window,sidewalk,road
+city,building,car,tree,window,poster,road,trash can
+city,building,sidewalk,window,road
+city,building,door,garden,stair,sky,person,window,path
+city,building,plant,garden,sky,tree,pole,flag,sidewalk,road
+city,building,grill,door,window,pane,sidewalk,badge
+city,building,door,arcade,light,window,lamp,street,terrace,balcony
+city,building,mountain,stone,van,street light,car,sky,AC,window,bike,pane,door,grass,road
+city,building,door,window,sky
+city,building,door,poster,sign,window,text,road
+city,building,door,poster,traffic light,lamp,sign,person,window,trash can,light,sidewalk,road
+city,building,door,arcade,fence,attic,chimney,sky,window,vegetation,grass,road
+city,building,street light,door,tree,window,awning,sidewalk,road
+city,building,car,window,road
+city,building,door,poster,sky,telephone booth,sidewalk
+city,building,door,column,mailbox,window,pane,sidewalk
+city,building,door,stair,clock,tree,sky,dome,window,terrace
+city,building,door,car,traffic light,sky,dome,tree,sign,window,road,balcony
+city,building,door,stair,car,sky,water,window,boat,balcony
+city,cyclist,building,attic,poster,sign,person,window,car,awning,sidewalk,road
+city,building,stair,fence,attic,tree,sky,window,grass,balcony
+city,building,door,poster,sign,person,window,sidewalk,sculpture,road
+city,building,door,car,sky,sign,window,poster,awning,sidewalk,road,balcony
+city,building,door,stair,tree,sky,window,car,sidewalk,sculpture,road
+city,building,window,sidewalk
+city,building,plant,door,awning,stair,tree,sky,person,terrace,pane,hand rail,table,grass
+city,building,van,car,traffic light,sign,window,truck,terrace,awning,door,road
+city,building,plant,door,car,sky,tree,window,terrace,path
+city,building,door,car,sky,window,terrace,pole,hill,sidewalk,grass,road,ground
+city,building,door,car,sky,pole,window,plank
+city,building,plant,door,fence,sky,tree,window,terrace,pane,sidewalk,grass,road,balcony
+city,building,mountain,door,car,sky,sign,window,road
+city,building,person,sky,road,sign
+city,building,street light,door,car,traffic light,person,window,sidewalk,road
+city,building,plant,arcade,car,sky,dome,window,grass
+city,building,wheel,AC,door,stair,car,tree,window,plant,pole,awning,sidewalk,road
+city,building,van,car,window,door,road,balcony
+city,building,plant,door,car,sign,person,window,pane,poster,awning,van,balcony
+city,building,AC,door,car,tree,lamp,person,window,light,sidewalk,road
+city,building,door,sky,tree,dome,window,grass
+city,building,door,car,traffic light,sky,pole,flag,window,sidewalk,road
+city,building,door,porch,wall,sky,tree,window,chimney,ground
+city,building,plant,door,stair,attic,tree,sky,window,pane,path,grass
+city,building,mountain,stair,wall,tree,sky,person,window,pane,grass,sculpture,road
+city,building,street light,plant,wall,tree,sky,person,window,fountain,trash can,awning,sidewalk
+city,building,wheel,column,tree,poster,sky,flag,roof,person,window,car,road,ground
+city,building,mountain,door,car,sky,roof,window,wheel,poster,hand rail,road
+city,building,door,bag,window,manhole,road
+city,building,door,car,sky,window,poster,awning
+city,plant,door,stair,house,tree,window,road,sidewalk,grass,chimney
+city,building,street light,door,car,sky,tree,person,window,truck,road
+city,building,street light,entrance,sky,plant,window,grass,road
+city,building,door,car,sky,tree,sign,window,pane,awning,sidewalk,road
+city,building,door,light,pot,lamp,window,pane,sidewalk
+city,building,mountain,plant,door,sky,sign,trash can,road
+city,building,entrance,door,poster,sky,sign,person,window,pane,car,sidewalk,road
+city,building,mountain,plant,door,stair,grill,tree,sky,person,window,ground
+city,mountain,porch,house,sky,window,parking meter,car,hand rail,grass,road
+city,building,street light,door,stair,window,road
+city,building,street light,window,sky,door
+city,building,door,poster,sky,sign,window,sidewalk,road
+city,building,street light,column,car,tree,sign,person,window,pane,awning,sidewalk,road
+city,building,mountain,plant,door,hydrant,street light,house,pot,sky,sign,person,window,awning,sidewalk,road
+city,building,street light,plant,door,stair,tree,window,path,grass
+city,building,plant,door,stair,tree,window
+city,building,street light,window,door,poster
+city,building,window,door,road
+city,building,door,person,window,pane,road
+city,building,clock,car,traffic light,sign,window,poster,awning,sidewalk,road
+city,building,door,car,sky,sign,person,window,terrace,road,balcony
+city,building,window,grass,sky
+city,building,plant,door,car,sky,window,terrace,sidewalk,road
+city,building,sidewalk,door,window,stair
+city,building,door,stair,column,sky,window,pane,road
+city,building,door,fence,car,sign,person,window,pane,awning,sidewalk,plank,road
+city,building,wall,sky,tree,window,car,sidewalk,road
+city,building,plant,light,door,car,lamp,sign,person,window,poster,sidewalk,road
+city,building,road,plant,tree,sky,entrance,person,window,trash can,vegetation,ground
+city,building,door,window,terrace,pane,grass,road
+city,building,sidewalk,door
+city,building,door,stair,sky,dome,sidewalk,grass,vegetation
+city,building,grill,door,stair,wall,sky,tree,flag,person,window,hand rail,path,grass,ground
+city,building,door,poster,sky,sign,window,stand,aerial,badge,road
+city,building,door,car,window,badge,road
+city,cyclist,building,door,traffic light,sign,person,window,awning,sidewalk,road
+city,building,car,sky,flag,text,road
+city,building,door,road
+city,building,plant,door,column,tree,sky,window,path,chimney
+city,building,plant,door,stair,car,sky,person,window,hand rail,sidewalk,road
+city,building,plant,door,window,pane,sidewalk,road
+city,building,street light,door,column,poster,sky,sign,window,pane,awning,road
+city,building,AC,door,column,car,sky,lamp,sign,window,poster,sidewalk,road
+city,building,window,door
+city,building,mountain,van,car,sky,window,road
+city,building,grill,plant,door,stair,sky,window,pane,hand rail,sidewalk,road
+city,building,plant,clock,tree,sky,dome,bench,person,window,fountain,sidewalk
+city,building,awning,window,column
+city,building,door,stair,wall,house,sky,pole,tree,window,car,hand rail
+city,building,mountain,plant,door,street light,sign,window,sidewalk,road
+city,building,plant,door,sidewalk,pane
+city,building,plant,car,pole,window,telephone booth,road
+city,building,mountain,ball,clock,wall,poster,sky,person,window,curb,sidewalk,grass,road,ground
+city,building,door,car,sky,sign,person,window,bike,terrace,awning,sidewalk,spotlight,road,balcony
+city,building,street light,plant,door,stair,sky,dome,window,satellite dish
+city,building,plant,door,column,sky,window,pane,road,ground
+city,building,plant,door,stair,window,path,balcony,ground
+city,building,plant,stair,tree,entrance,window,hand rail,grass
+city,mountain,plant,door,stair,house,sky,window,path,grass
+city,building,column,window,grass,sky
+city,building,door,window,sign,pole,sidewalk,road
+city,building,door,window,person,pole,hand rail,sidewalk,road
+city,building,street light,door,column,poster,sky,window,sidewalk,road,balcony
+city,building,door,wall,light,sky,window,lamp,pane,grass,spotlight,ground
+city,building,plant,door,stair,tree,pot,sky,person,car,sidewalk,road,balcony
+city,building,tree,AC,door,street light,car,sky,entrance,fire escape,window,terrace,awning,sidewalk,road,balcony
+city,building,street light,wire,door,car,sky,sign,person,window,awning,balcony
+city,building,window,sky,road,arcade
+city,building,mountain,door,tree,sky,poster,window,terrace,car,awning,sidewalk,central reservation,road,balcony
+city,building,door,wall,house,sky,tree,column,window,road,balcony
+city,building,door,poster,lamp,window,pane,light
+city,building,door,car,lamp,sign,person,window,bike,pane,light,sidewalk,road
+city,building,mountain,door,car,sign,window,wheel,sidewalk,road,balcony
+city,building,mountain,van,arcade,car,sky,person,window,truck,poster,sidewalk,road
+city,building,street light,car,sky,person,window,road,balcony
+city,building,street light,entrance,door,motorbike,car,sky,window,poster,sidewalk,road
+city,building,door,car,traffic light,window,person,pole,pane,sidewalk,road
+city,building,mountain,plant,van,motorbike,house,tree,window,road,car,door,grass,chimney
+city,building,door,stair,car,sky,pole,tree,person,window,telephone booth,poster,sidewalk,road
+city,building,mountain,plant,door,stair,street light,wall,car,sky,tree,window,grass,road
+city,building,attic,car,person,window,sidewalk,road,balcony
+city,building,grill,plant,door,street light,tree,sky,window,terrace,grass
+city,building,box,lamp,door,street light,poster,tree,window,mailbox,pole,light,sidewalk,road,sky
+city,building,wheel,car,window,awning,sidewalk,road
+city,building,arcade,column,sky,dome,window
+city,building,plant,pot,pane,awning,sidewalk
+city,building,door,car,person,window,poster,sidewalk,road
+city,plant,door,stair,porch,house,tree,window,pane,sidewalk,grass,road
+city,building,door,car,sky,window,terrace,road,balcony
+city,building,street light,van,car,traffic light,sky,person,window,door,road,balcony
+city,mountain,plant,house,sky,window,car,sidewalk,grass,road
+city,building,pedestal,sculpture,window,road
+city,building,door,arcade,sky,dome,window,sidewalk,grass,pedestal,road
+city,building,door,parking meter,terrace,pane,sidewalk,road,balcony
+city,building,sidewalk,door
+city,building,mountain,door,grill,car,sky,window,wheel,sidewalk,road,balcony
+city,building,street light,plant,door,column,sky,window,terrace,grass,road
+city,building,stair,porch,sky,window,pane,hand rail,path,grass,chimney
+city,building,umbrella,poster,sky,sign,person,window,stand,awning,sidewalk,road
+city,building,umbrella,arcade,tree,person,window,fountain,awning,door,sidewalk
+city,building,street light,door,stair,tree,sky,person,window,pane,hand rail,road,ground
+city,building,door,clock,car,sky,sign,person,poster,sidewalk,road
+city,building,mountain,door,tree,sky,terrace,window,road,car,sidewalk,vegetation,ground
+city,building,plant,door,stair,fence,tree,AC,window,hand rail,sidewalk,badge,road
+city,building,plant,door,stair,poster,sky,sign,window,curb,grass,balcony
+city,mountain,plant,door,stair,porch,wall,house,tree,window,car,hand rail,sidewalk,grass,road
+city,building,street light,door,stair,column,sky,tree,person,window,fountain,sidewalk,road
+city,building,door,car,sky,sign,person,window,satellite dish,awning,van,balcony
+city,building,door,wall,sky,window,terrace,grass
+city,building,plant,door,window,pane,balcony
+city,building,plant,sky,window,parking,sidewalk,road
+city,building,wheel,van,car,zebra crossing,sign,person,window,sidewalk,road,balcony
+city,building,plant,door,window,trash can,sidewalk
+city,building,mountain,hydrant,car,sign,person,window,poster,sidewalk,road
+city,building,arcade,sky,person,terrace,awning,sidewalk,balcony
+city,building,street light,house,sky,flag,person,pole,stand,pane,car,sidewalk,road
+city,building,door,car,sky,sign,hand rail,window,terrace,awning,sidewalk,road
+city,building,plant,door,sign,window,sidewalk,road
+city,building,door,stair,sign,person,window,bike,awning,placard,sidewalk,road
+city,building,grill,car,window,wheel,road
+city,building,street light,fence,clock,sky,tree,window,spotlight,road,ground
+city,wheel,mountain,plant,door,stair,street light,attic,house,tree,crop,window,car,path,sidewalk,grass,road
+city,building,street light,plant,door,poster,sign,window,sidewalk,road
+city,building,plant,door,stair,column,tree,window,trash can,sidewalk,road,balcony
+city,building,street light,entrance,van,clock,column,bus,pole,sky,flag,bench,plant,person,window,text,sidewalk
+city,building,street light,door,motorbike,sky,window,road,balcony
+city,building,door,purse,person,trash can,sidewalk,terrace
+city,building,plant,stair,column,poster,traffic light,sky,flag,person,window,fountain,sidewalk,road
+city,building,door,stair,wall,sign,window,pane,hand rail
+city,building,sidewalk,door,window
+city,building,plant,door,sky,sign,window,sidewalk,road
+city,box,building,plant,door,street light,sky,tree,sign,window,awning,sidewalk,road
+city,building,AC,door,car,flag,sign,person,window,pane,sidewalk,road
+city,building,person,sidewalk,pole,clock
+city,building,door,car,sign,person,window,sidewalk,road,balcony
+tall building,building,street light,plant,sky,mast,boat
+tall building,building,tree,sky
+tall building,building,tree,sky
+tall building,building,tree,sky
+tall building,building,city,sky
+tall building,building,box,plant,car,sky,tree,person,poster,awning,sidewalk
+tall building,building,car,sky,person,sidewalk,road
+tall building,building,sky,water,dock,parking,ship,road
+tall building,building,street light,wall,bus,sky,truck,car,road
+tall building,building,tree,sky,sculpture,sidewalk
+tall building,building,sky
+tall building,building,bridge,stair,street light,wall,sky,tree,car,road
+tall building,building,tree,sky,road
+tall building,building,tree
+tall building,building,obelisk,sky,road
+tall building,building,sky,clock
+tall building,building,tree,sky
+tall building,building,aerial,sky
+tall building,building,sky
+tall building,building,window
+tall building,building,bridge,tree,sky,grass
+tall building,building,tree,sky
+tall building,building,sky
+tall building,building,sculpture,sky
+tall building,building,mountain,tree,sky,car,sidewalk,road
+tall building,building,bridge,sky,road
+tall building,building,tree,sky
+tall building,building,tree,sky
+tall building,building,mountain,sidewalk,sky,tree
+tall building,building,sky
+tall building,building,car,fountain,sky,tree
+tall building,building,sky,road
+tall building,building,sky,dome,clock
+tall building,building,tree,sky,water
+tall building,building,mast,sky,flag
+tall building,building,sky
+tall building,building,street light,aerial,sky,traffic light,tree
+tall building,building,street light,tree,sky,road
+tall building,building,sky
+tall building,building,clock,sky,tree,dome,window
+tall building,building,tree,street light,sky,sign
+tall building,building,tree,sky
+tall building,building,tree,sky
+tall building,building,tree,sky,dome
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,window,sky
+tall building,sky,pylon,chimney
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,sky,window
+tall building,building,car,traffic light,sky,dome,sidewalk,road
+tall building,building,city
+tall building,building,tree,sky
+tall building,building,sky
+tall building,building,plant,sky,tree,sidewalk,road
+tall building,building,tree,sky,bus,person,road,car
+tall building,building,sky
+tall building,building,sky
+tall building,building,fountain,sky,road
+tall building,building,plant,sky,water,dock,road,boat
+tall building,building,sky,road
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,sky,tree,car,grass,sidewalk,road
+tall building,building,mountain,sky
+tall building,building,plant,tunnel,car,sky,tree,sign,truck,road,wall
+tall building,building,sky,sidewalk,road
+tall building,building,flag,sky
+tall building,building,sky
+tall building,building,sky,dome
+tall building,building,sky
+tall building,building,sky,water,boat
+tall building,building,sky
+tall building,building,column,sky,tree
+tall building,building,road,ground
+tall building,building,sky,hall
+tall building,building,plant,tree
+tall building,building,sky
+tall building,building,tree,sky,ground
+tall building,building,water,sky
+tall building,building,street light,plant,car,sky,window,awning,sing,sidewalk,road
+tall building,building,bridge,wall,tree,sky,grass
+tall building,building,street light,van,car,sky,tree,sign,pole
+tall building,building,mountain,tree,sky,water,sand,beach
+tall building,building,tree,sky
+tall building,building,van,car,sky,tree,road
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,sky
+tall building,building,grass,sky,sign
+tall building,building,sky,tree,water,boat
+tall building,building,tree,sky
+tall building,building,aerial,sky,tree
+tall building,building,sky
+tall building,building,plant,garden,sky,tree,sidewalk
+tall building,building,sky
+tall building,building,water,sky
+tall building,building,van,clock,tree,sky,window,car,road
+tall building,building,street light,sky
+tall building,building,tree,sky
+tall building,building
+tall building,building,tree,sky
+tall building,building,aerial,sky,tree,sidewalk,road
+tall building,building,wall,car,sky,tree,path,grass,sidewalk,road
+tall building,building,water
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,street light,car,sky,crane,poster,sidewalk,road
+tall building,building,street light,sky
+tall building,building,tree,sky
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,bridge,sky,street light
+tall building,building,street light,tree,sky,water,street
+tall building,building,bridge,street light,sky,tree,truck,car,sidewalk,road
+tall building,building,street light,poster,sky,telephone booth
+tall building,building,bridge,plant,tree,sky,road,car,sidewalk,vegetation
+tall building,building,bridge,aerial,tree,sky
+tall building,building,tree,sky,window
+tall building,building,mountain,sky,sign,water,road
+tall building,building,sky
+tall building,building,sky,crane
+tall building,building,bus,sky,tree,stand,path
+tall building,building,sky
+tall building,building,tree,sky,poster
+tall building,building,tree,sky
+tall building,building,tree,sky,car
+tall building,building,tree,sky
+tall building,building,car,sky,tree,road
+tall building,building,sky,water,pole,sidewalk
+tall building,building,obelisk,sky,aerial
+tall building,building,sky,sign
+tall building,building,sky,clock
+tall building,building,sky,tree,water,dock,stand
+tall building,building,tree,sky
+tall building,building,sky
+tall building,building,street light,sky,fire escape
+tall building,building,tree,sky
+tall building,building,ground,sky,rock
+tall building,building,city,water,dock,boat
+tall building,building,tree,sky,path
+tall building,building,street light,van,sky,tree,car,road
+tall building,building,tree,sky,street light
+tall building,building,bus,sky,bridge
+tall building,building,wall,sky,tree,water,street
+tall building,building,aerial,sky
+tall building,building,tree,sky,bus
+tall building,building,mountain,tree,sky,bus,road
+tall building,building,water,city
+tall building,building,city,car,sky,tree,sidewalk,road,ground
+tall building,building,aerial,sky,crane
+tall building,building,tree,sky
+tall building,building,tree,sky
+tall building,building,door,stair,wall,sky,person,window,sidewalk,grass,road
+tall building,building,bridge,tree,road
+tall building,building,sky
+tall building,building,tree,grass,sky
+tall building,building,wall,sky,tree,path,grass,road
+tall building,building,car,traffic light,sky,tree,sign,vegetation
+tall building,building,tree,sky
+tall building,building,street light,plant,car,sky,person,sidewalk
+tall building,building,tree,sky,water
+tall building,building,van,bus,tree,car,sidewalk,road
+tall building,building,car,sky,person,truck,stand,sidewalk
+tall building,building,tree,sky
+tall building,building,mast,sky
+tall building,building,mountain,tree,sky,bus,car
+tall building,building,bridge,aerial,sky,tree,water
+tall building,building,path,sky,tree
+tall building,building,sky
+tall building,building
+tall building,building,sky
+tall building,building,bridge,sky,tree,water,bank,hand rail,sculpture,road,ground
+tall building,building,sky
+tall building,building,sky,hall
+tall building,building,sky
+tall building,building,bridge,city,water,dock,road
+tall building,building,bridge,tree,sky,water
+tall building,building,bridge,sky,water,dock
+tall building,building,car,sky,wall
+tall building,building,sky,window
+tall building,water,island,satellite dish,building
+tall building,building,aerial,sky,tree,water
+tall building,building,sky,sign
+tall building,building,tree,sky
+tall building,building,sky,tree,water,road
+tall building,building,sky,sidewalk,hall,road
+tall building,building,tree,flag,sky
+tall building,building,water,sky,aerial
+tall building,building,tree,sky,sidewalk
+tall building,building,sky
+tall building,building,aerial,sky,tree,sidewalk
+tall building,building,street light,sky,tree,sign,person,path,ground
+tall building,building,tree,sky
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,sky,window
+tall building,building,sky
+tall building,building,tree,sky,water
+tall building,building,aerial,sky
+tall building,building,sky,tree,road,vegetation
+tall building,building,mountain,wall,tree,sky,person,grass,vegetation
+tall building,building,motorbike,sky,tree,poster,sign,person,truck,car,sidewalk,sculpture,road
+tall building,building,bridge,sky,tree
+tall building,building,tree,sky,water
+tall building,water,city,building,dock
+tall building,building,tree,plant,sky
+tall building,building,sky,tree,water,boat
+tall building,building,mountain,tree,sky,water
+tall building,building,bridge,van,wall,tree,sky,car,grass,central reservation,road
+tall building,building,bridge,aerial,clock,wall,tree,sky,dome
+tall building,building,tree,sky
+tall building,building,water
+tall building,building,road
+tall building,building,sky,road
+tall building,building,van,bus,sky,sign,person,road
+tall building,building,sky,traffic light,tree,truck,car,sidewalk,road
+tall building,building,tree,sky,sign
+tall building,building,sky
+tall building,building,umbrella,sky,person,stand
+tall building,building,street light,car,sky,tree,sidewalk,road
+tall building,tree,sky
+tall building,building,wall,tree,sky,sign,path,grass,sculpture
+tall building,building,sky,tree,car,road
+tall building,building,sky
+tall building,building,aerial,sky,tree,sculpture
+tall building,building,tree,water,street,sidewalk,road
+tall building,building,tree,sky
+tall building,building,street,sky,ground
+tall building,building,tree,sky
+tall building,building,street light,garden,tree,sky,flag,mast,path,ground
+tall building,building,water,sky
+tall building,building,grass,sky,road
+tall building,building,sky
+tall building,building,aerial,sky,flag
+tall building,building,car,sky,tree,road
+tall building,building,garden,tree,sky,path,sculpture
+tall building,building,tree,grass,sky
+tall building,building,van,car,sky,person,truck,poster,sidewalk,road
+tall building,building,sky
+tall building,building,car,grass,sky,tree
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,sky
+tall building,building,bridge,plant,stair,wall,sky,water
+tall building,building,street light,umbrella,sky,traffic light,tree,dome,person,window,car,sidewalk,road
+tall building,building,garden,city,tree,road
+tall building,building,sky
+tall building,building,sky,tree,person,window
+tall building,building,tree,sky
+tall building,building,bridge,sky
+tall building,building,sky
+tall building,building,aerial,sky,tree,water,dock
+tall building,building,sky,road
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,aerial,sky,tree,flag,pole,road
+tall building,building,wall,sky,traffic light,tree,sidewalk,car,central reservation,road
+tall building,building,sky
+tall building,building,sky
+tall building,building,tree,sky
+tall building,building,wall,sky,tree,water,dock,boat,ground
+tall building,building,sky
+tall building,building,aerial,sky,tree,poster,bus,road,car
+tall building,building,door,sky,dome,window,hand rail
+tall building,building,sidewalk,tree,road
+tall building,building,street light,aerial,tree,sky,water
+tall building,building,sky,tree
+tall building,building,sky,water,boat
+tall building,building,water,sky
+tall building,building,aerial,sky,tree,mast,boat
+tall building,building,mountain,sky,tree
+tall building,building,sky,tree,water,mast,boat
+tall building,building,tree,fountain,sky
+tall building,building,street light,sky,tree,road
+tall building,building,sky
+tall building,building,tree,sky,sidewalk
+tall building,building,sky,sign
+tall building,building,aerial,sky,tree,water,road
+tall building,building,sky
+tall building,building,sky
+tall building,building,sky
+tall building,building,sky
+tall building,building,aerial,sky
+tall building,building,tree,sky
+tall building,building,tree,sky,street light
+tall building,building,tree,sky
+tall building,building,aerial,sky,flag,mast,boat
+tall building,building,tree,sky
+tall building,building,tree,traffic light,sky
+tall building,building,tree,grass,sky
+tall building,building,bridge,aerial,sky,tree,grass
+tall building,building,street light,sky
+tall building,building,window,sky
+tall building,building,sky
+tall building,building,aerial,sky,tree
+tall building,building,sky,tree,path,grass
+tall building,building,tree,sky
+tall building,building,sky,tree,sidewalk,road
+street,text,purse,head,sign,curb,arm,person,sky,window,bike,stand,plant,leg,flag,building,light,tree,face,pipe,mast,awning,torso
+street,car,sign
+street,building,head,leg,column,car,sky,face,person,sidewalk,torso,arm,road
+street,building,plant,bag,text,leg,head,face,person,sidewalk,torso,arm
+street,tree,person,window,truck,trash can,road
+street,house,sign,satellite dish,curb,mirror,balcony,traffic light,sky,window,branch,text,AC,chimney,building,street light,car,arrow,awning,road
+street,car,parking meter,sign
+street,building,car,sidewalk,sky,road
+street,building,car,sidewalk,sky,road
+street,building,head,door,car,tree,window,face,license plate,lamp,manhole,poster,sidewalk,sign,road
+street,building,flower,fence,bag,car,pot,lamp,zebra crossing,sign,license plate,person,pole,light,sidewalk,road
+street,head,leg,tree,face,torso,arm
+street,door,column,tree,sign,wall,window,bike
+street,wheel,car,sign,person,flag,manhole,bus
+street,building,head,leg,car,face,window,torso,road
+street,head,leg,face,person,torso,arm
+street,text,sign,license plate,arm,sky,window,lamp,wheel,head,leg,flag,building,street light,car,face,shutter,person,awning,sidewalk,torso,road
+street,street light,sidewalk,car
+street,building,plant,door,leg,tree,head,sign,person,window,handle,sidewalk,face,torso,arm
+street,street light,car,lamp,window,bird
+street,building,door,sidewalk,sky,window
+street,building,street light,door,wind shield,clock,wall,car,traffic light,sky,tree,sign,license plate,attic,window,wheel,zebra crossing,sidewalk,tall building,road,manhole
+street,building,head,leg,text,sign,person,sidewalk,face,torso,arm
+street,door,lamp,sky,trash can,person
+street,building,door,car,sign,window,road,balcony
+street,pot,parking meter,sign
+street,building,mountain,plant,stair,wall,car,sky,tree,sign,lamp,truck,road,sidewalk,vegetation
+street,building,lamp post,door,motorbike,street light,car,sky,tree,sign,person,sidewalk,road
+street,car,sidewalk,grass,sky,road
+street,building,door,stair,wall,car,sky,license plate,window,sidewalk,road
+street,shutter,building,sky
+street,building,street light,sky,vehicle,tree,bus,car,tall building,sidewalk,road
+street,bridge,bus,person,window,manhole
+street,car
+street,tree,sky,person,car,chair,road
+street,tree,truck
+street,head,leg,face,person,trash can,torso,arm
+street,building,head,leg,face,person,lamp,torso,arm
+street,head,window,face
+street,car,window,garage
+street,building,umbrella,car,sign,person,trash can
+street,building,plant,stair,fence,column,house,sky,snow,tree,sign,window,car,hand rail
+street,building,street light,antenna,car,traffic light,tree,sign,window,wheel,arrow,curb,trash can,road,sky
+street,cyclist,street light,car,tree,person,grass,road
+street,building,head,van,torso,wall,car,leg,sky,tree,face,person,poster,hand rail,sidewalk,grass,sculpture,arm
+street,mountain,plant,door,stair,wall,sky,tree,window,house,sidewalk,road,car
+street,wheel,car,pot,zebra crossing,sign,license plate,window
+street,car
+street,building,street light,motorbike,car,traffic light,sky,tree,sign,truck,trash can,parking,sidewalk,central reservation,road
+street,building,number plate,door,column,car,sign,window,curb,driveway,parking,sidewalk,road,balcony
+street,sky,window,tree,trash can,cone
+street,building,wheel,van,car,sky,sign,license plate,person,truck,road
+street,building,car,window,sidewalk,person
+street,building,sidewalk,grass,sky
+street,building,street light,plant,wind shield,grill,car,tree,window,sign,license plate,entrance,lamp,mirror,grass,road,sky
+street,hand rail,bag,window,clock
+street,building,car,sidewalk,wheel,road
+street,car,road
+street,attic,sign,license plate,curb,trash can,balcony,van,wind shield,traffic light,sky,window,lamp,plant,poster,building,street light,car,tree,person,awning,sidewalk,grass,road
+street,building,pole,road,sign
+street,building,sand,car,sky,pole,tree,sign,license plate,person,lamp,window,sidewalk,road
+street,building,door,car,person,window,poster,awning,sidewalk,central reservation,road,balcony
+street,building,mountain,plant,wire,door,wall,tree,traffic light,sky,window,sign,pole,satellite dish,chimney,car,road,vegetation
+street,building,text,sky,sign,sidewalk,road
+street,building,person,stair
+street,plant,door,stair,wall,house,pot,sky,window,road,hand rail,leaves
+street,head,leg,face,person,window,animal,sign,torso,arm
+street,car
+street,building,house,person,car,ad
+street,building,head,door,leg,tree,face,shutter,person,trash can,sidewalk,torso,arm,road,balcony
+street,street light,ad,car,tree,curb,house,hand rail,path,sidewalk,sculpture,road,sky
+street,building,street light,head,door,person,car,leg,sky,tree,face,license plate,bag,window,trash can,mirror,awning,sidewalk,torso,arm,road
+street,building,street light,van,fence,car,sky,person,cross walk,sidewalk,road
+street,building,street light,door,wall,poster,mirror,sky,window,license plate,lamp,car,road,balcony
+street,building,wheel,car,traffic light,tree,sign,vegetation
+street,building,street light,door,stair,column,tree,sky,pole,lamp,window,sidewalk,grass,vegetation,balcony
+street,building,hydrant,car,pot,sign,window,curb,sidewalk,road
+street,building,grill,aerial,street light,wall,tree,sky,window,chimney,awning,gate,blind,balcony
+street,building,traffic light,tree,sign,truck,road
+street,house,fence
+street,wheel,car
+street,building,head,motorbike,leg,traffic light,tree,sign,person,chair,torso,arm
+street,building,head,leg,car,face,person,window,sidewalk,sign,torso,arm
+street,building,van,car,sky,sign,person,sidewalk,road
+street,car,van,person
+street,trash can,mirror,pedestal,wind shield,traffic light,sky,window,lamp,gate,central reservation,wheel,plant,door,chimney,building,street light,stair,car,tree,roof,person,sidewalk,grass,road
+street,door,stair,light,lamp,window
+street,building,street light,sidewalk,sky,tree
+street,car,window,flower
+street,building,grill,door,car,pole,lamp,pipe,person,window,wheel,parking meter,mirror,sidewalk,road
+street,building,bike,tree,traffic light,sky,mailbox,shutter,person,telephone booth,car,sidewalk,sign,road
+street,car,head,tree,face
+street,building,car,traffic light
+street,building,street light,door,sky,sign,person,truck,sidewalk,road
+street,head,leg,bus,face,person,sign,torso,arm
+street,car,road
+street,fence,purse,sign,license plate,mirror,stair,person,sky,window,lamp,vegetation,wheel,plant,door,hand rail,building,car,tree,roof,bag,sidewalk,road
+street,building,wheel,AC,wire,door,stair,fence,tree,mirror,sky,lamp,sign,license plate,window,manhole,rock,plant,sidewalk,road,car
+street,person,window,door
+street,door,stair,sign,hand rail,hall
+street,building,mountain,door,fence,house,sky,snow,tree,water,person,window,text,bus,hand rail,road
+street,car,tree,road,fence
+street,building,tree,sky,lake,person,grass,boat
+street,building,car
+street,stair,wall,sky,tree,rock
+street,head,leg,car,pole,face,person,window,trash can,sign,torso,arm
+street,building,grass,tree
+street,building,street light,plant,door,hydrant,wind shield,column,car,sky,lamp,tree,sign,person,window,wheel,manhole,sidewalk,central reservation,road
+street,building,van,person,car,sky,lamp,sign,bag,window,tile,door,mailbox,road,manhole
+street,building,street light,wind shield,car,traffic light,sky,lamp,tree,sign,person,window,wheel,awning,sidewalk,road
+street,building,head,bag,car,leg,face,person,torso,arm
+street,building,street light,cross walk,fence,wall,sky,tree,sign,parking,sidewalk,road,car
+street,mountain,house,tree,sky,snow,window,car,road
+street,wheel,building,head,leg,car,tree,face,license plate,person,window,torso,arm
+street,head,leg,face,person,torso,arm
+street,person
+street,tree,sky,pavement,bench,person,pole
+street,building,head,door,stair,leg,torso,face,person,tall building,sculpture,arm
+street,person,window,lamp,sign
+street,pole,tree
+street,building,van,car,sky,sign,window,sidewalk,road,balcony
+street,person
+street,fence,attic,text,plant,sign,trash can,mirror,sky,lamp,window,wheel,AC,door,manhole,hand rail,building,car,shutter,person,sidewalk,road
+street,car,traffic light,zebra crossing,sign,window,trash can,sidewalk
+street,building,wheel,door,wind shield,car,tree,lamp,license plate,window,sidewalk,road
+street,car,sidewalk,sky,road,person
+street,wheel,door,stair,car,tree,roof,window,road,sidewalk,driveway
+street,wall,house,wreath,sign,curb,driveway,balcony,stair,sky,window,gate,plant,door,building,arrow,sidewalk,road
+street,building,road,tree,car,sky,roof,person,window,satellite dish,chimney,tall building
+street,building,door,car,hand railing,lamp,license plate,window,light,sidewalk,road
+street,house,car,window,tree,sign
+street,building,motorbike,sky,person,table,road
+street,fence,sign,license plate,terrace,arcade,traffic light,sky,lamp,window,bike,poster,wheel,cyclist,bus,hand rail,building,column,car,tree,person,awning,sidewalk,road
+street,person,hydrant,car
+street,building,wheel,lamp,door,hydrant,stair,street light,car,sky,pole,fire escape,sign,license plate,window,mirror,flag,sidewalk,AC,road
+street,building,mountain,plant,street light,tree,sky,person,awning,road
+street,building,wheel,attic,car,tree,zebra crossing,sign,person,window,text,awning,gate,sidewalk,road,sky
+street,sky,tree,garage
+street,building,head,sky,face,person,window
+street,building,head,leg,car,roof,sign,person,window,face,torso,arm
+street,building,street light,cross walk,tree,sky,sign,person,window,poster,awning,sidewalk,road,balcony
+street,trash can,shade
+street,car,person
+street,street light,AC,door,stair,mountain,wall,house,sign,person,window,car,sing,sidewalk,road,balcony
+street,fence,wall,sign,license plate,mirror,stair,sky,window,lamp,vegetation,wheel,plant,door,hand rail,path,building,street light,car,tree,sidewalk,grass,road
+street,building,motorbike,car,sky,person,bike,poster,road
+street,head,leg,face,person,torso,arm
+street,street light,car,sign,person,window,camera,road
+street,wheel,building,bus,person,car,sidewalk,sculpture,road
+street,building,wheel,AC,door,column,car,sky,lamp,attic,window,bike,text,cone,parking meter,mirror,sidewalk,road,terrace
+street,building,tree,sky,water,dock,window,hand rail,boat
+street,building,car,tree,person,parking meter,sidewalk
+street,head,leg,face,person,sign,torso,arm
+street,building,license plate,van,wind shield,street light,poster,tree,sign,shutter,window,fountain,trash can,car,door,sidewalk,traffic light,road
+street,car,parking,motorbike,road,person
+street,head,leg,face,arm,person,manhole,sidewalk,sign,torso
+street,person
+street,building,mountain,car,sky,window,sidewalk,road
+street,building,text
+street,car
+street,traffic light,parking meter
+street,building,fence,sign,lamp,cone,crane,road
+street,window,camera,sky,road
+street,
+street,building,car,sky,person,sidewalk,road
+street,building,car,tree,arrow,road
+street,building,mountain,car,tree,person,road
+street,wheel,building,light,door,car,tree,lamp,window,mirror,handle,road
+street,building,mountain,plant,van,street light,car,sky,sign,window,door,sidewalk,road
+street,building,street light,tree,sky,pole,shutter,person,window,bike,trash can,awning,sidewalk,hand rail,road,ground
+street,car,sign
+street,building,van,wall,car,tree,truck,chimney
+street,building,hydrant,car,traffic light,sign,license plate,chimney
+street,building,door,arcade,text,sky,lamp,truck,awning,chair,sidewalk
+street,car,zebra crossing
+street,car,sky,street light
+street,head,umbrella,leg,flag,face,person,window,sign,torso,arm
+street,head,leg,face,person,trash can,torso,arm
+street,building,wall,house,sky,tree,road,vegetation,ground
+street,house,flag,tree
+street,building,plant,door,fence,wall,car,sky,tree,license plate,pole,sidewalk,road
+street,building,wheel,door,shield,antenna,handle,column,car,tree,roof,license plate,window,bike,pane,gate,sidewalk,sculpture,road,sky
+street,building,wheel,plant,door,wind shield,entrance,car,traffic light,mirror,tree,window,lamp,person,flag,mast,text,bus,awning,road
+street,building,door,text,sky,tree,sign,person,window,car,sidewalk,road
+street,person,face
+street,car,road
+street,wheel,building,plant,door,pipe,fence,street light,car,tree,AC,lamp,license plate,terrace,window,truck,trash can,mirror,wind shield,sign,road,sky
+street,building,head,face,car,traffic light,leg,sky,lamp,tree,sign,license plate,person,window,animal,sidewalk,torso,arm,road
+street,car
+street,building,wheel,AC,door,wind shield,car,traffic light,mirror,tree,lamp,fire escape,sign,license plate,window,text,sidewalk,balcony,road,sky
+street,building,street light,ball,door,fence,player,tree,sky,person,window
+street,building,car,traffic light,sky,tree,sign,person,flag,road
+street,head,leg,torso,arm,face
+street,building,grill,wind shield,fence,street light,car,tree,lamp,sign,license plate,window,wheel,mirror,sidewalk,road
+street,car
+street,trash can
+street,head,leg,face,person,torso,arm
+street,building,lamp,sign,person,window,trash can,rock,road
+street,building,wheel,AC,door,fence,car,sky,lamp,tree,window,sidewalk,road
+street,head,leg,face,person,torso,arm
+street,building,street light,plant,door,motorbike,sky,person,window
+street,building,fence,house,sky,tree,sign,window,sidewalk,road
+street,AC,sign,chair,balcony,stair,window,lamp,gate,hat,wheel,plant,door,parking meter,building,wind shield,car,tree,person,shade,sidewalk,sculpture,road
+street,building,person,sidewalk,sky,road
+street,car
+street,car,window,truck,traffic light,person
+street,car,window,sign
+street,building,car,tree,person
+street,person,bike,sign
+street,water,wall
+street,head,leg,face,person,torso,arm
+street,building,door,car,person,window,road
+street,car,sky,person
+street,door,car,pole,zebra crossing,sign,license plate,window,parking meter,sidewalk
+street,ad,fence,wall,car,sign,pole
+street,sign
+street,car,tree,sign,person,parking meter,sidewalk,road
+street,sidewalk,hat,road,animal
+street,building,door,tree,pole,window,sidewalk,grass
+street,wall,license plate,arm,boat,van,wind shield,traffic light,sky,bench,window,bike,head,leg,building,street light,car,tree,face,person,sand,truck,arrow,sidewalk,torso,road
+street,building,door,fence,sky,person,window,sidewalk,balcony
+street,building,mountain,car,sky,person,sidewalk,road
+street,house,sidewalk,tree,road,car
+street,building,arcade,obelisk,car,sky,truck,awning,sidewalk,road
+street,building,AC,number plate,door,car,sky,zebra crossing,sign,window,trash can,sidewalk,bird,road
+street,attic,sign,trash can,chair,flower,van,motorbike,wind shield,clock,sky,window,zebra crossing,lamp,bike,wheel,plant,door,sing,building,light,tree,person,car,awning,sidewalk,road
+street,building,car,traffic light,sky,zebra crossing,sign,sidewalk,road
+street,building,street light,van,wall,car,sky,pole,tree,bench,decoration,window,curb,stand,sidewalk,sign,road
+street,building,car,traffic light
+street,building,wheel,plant,wind shield,car,tree,pole,sign,license plate,sand,window,road,mirror,sidewalk,lamp,vegetation,sky
+street,building,van,car,sky,person,sidewalk,road
+street,building,street light,plant,hydrant,car,pole,wreath,tree,box,sign,person,flag,awning,bench,tall building,pillar
+street,building,head,van,motorbike,stair,leg,wall,car,traffic light,purse,sign,arm,person,window,trash can,crane,face,torso,sidewalk,road
+street,building,grill,door,motorbike,poster,pot,pole,sign,pipe,person,window,vegetation,text,sidewalk,road
+street,building,street light,motorbike,car,tree,mailbox,person,truck,trash can,vegetation
+street,head,leg,torso,sky,face,person,pavement,pylon,arm,boat
+street,building,grill,plant,door,stair,wall,tree,sky,person,grass,road
+street,head,leg,face,person,torso,arm
+street,building,street light,plant,van,tree,sky,window,truck,road,curb,grass,vegetation
+street,head,leg,face,person,torso,arm
+street,car,window
+street,head,leg,tree,face,person,torso,arm
+street,building,street light,fence,car,sky,person,window,sidewalk,road
+street,building,person,sky,street light
+street,head,leg,face,person,sign,torso,arm
+street,head,leg,car,tree,face,person,pole,chair,torso,arm
+street,building,head,door,face,tree,pole,leg,sky,sign,person,window,bike,awning,sidewalk,torso,arm
+street,building,car,tree,road
+street,building,street light,wall,car,pole,sky,lamp,tree,sign,license plate,window,wheel,road,hand rail,central reservation,grass,sidewalk,vegetation
+street,wheel,street light,building,car,tree,sign,window,sidewalk,road,sky
+street,building,wheel,AC,door,wind shield,stair,car,mirror,window,lamp,license plate,pole,curb,house,hand rail,sidewalk,road
+street,building,umbrella,tree,sky,window,bench,lamp,pavement,chair
+street,building,car,water,person,sidewalk
+street,building,blind,tile,door,motorbike,car,window,sign,person,lamp,trash can,awning,sidewalk,road,balcony
+street,blind,purse,sign,trash can,arm,balcony,motorbike,bag,sky,window,camera,head,leg,poster,hand rail,building,street light,tree,face,person,torso
+street,car,bike,window
+street,building,car,sky,poster,awning,road
+street,building,head,van,leg,car,tree,face,person,pole,pane,bus,sidewalk,torso,arm,road
+street,building,pole,road,chimney
+street,wheel,building,car,sign,person,road
+street,building,car,traffic light,sky,tree,person,truck,sidewalk,road
+street,wall,person,head
+street,building,street light,fence,wall,tree,sky,sign,person,curb,poster,hand rail,sidewalk,grass,road
+street,building,car,sidewalk
+street,building,car,sky,person,cross walk,sidewalk,road
+street,car,traffic light,road,zebra crossing
+street,house,plant,leaf,rock
+street,building,tree,wall,car,sky,snow,roof,window,sidewalk,road
+street,head,leg,face,person,torso,arm
+street,car,sign
+street,building,mountain,fence,car,sky,person,window,curb,sidewalk,road
+street,building,balcony,wall,tree,sky,poster,person,curb,trash can,car,awning,sidewalk,grass,road,terrace
+street,building,car,sky,road,street light
+street,wheel,van,hydrant,car,sign,window
+street,car,window,sign
+street,building,street light,van,wall,car,traffic light,tree,spotlight,person,sidewalk,trash can,poster,hand rail,tall building,crane,road,sky
+street,building,lamp post,head,clock,leg,tree,window,sign,arm,person,pole,sidewalk,face,torso,tall building
+street,wall,sign,pole,trash can,arm,person,sky,window,lamp,head,door,leg,manhole,building,street light,car,tree,face,bag,sidewalk,grass,torso,road
+street,building,door,car,sign,sidewalk,road
+street,license plate,car,sign
+street,building,street light,sky,lamp,sign,decoration,person,window,awning,hand rail
+street,person,head,face
+street,building,car,sky,tree,window,road
+street,building,cyclist,van,car,tree,window,zebra crossing,person,lamp,sidewalk,road,sky
+street,door,clock,car,sky,tree,window,bus,road
+street,building,window,ground
+street,building,street light,wind shield,attic,text,window,mirror,sky,lamp,sign,person,pole,bike,wheel,trash can,parking meter,car,sidewalk,road,chimney
+street,van,tree,lamp,tile,sidewalk,road
+street,building,door,car,tree,window,sidewalk,road
+street,building,cyclist,wire,fence,antenna,wall,window,pole,bike,sign,person,lamp,block,sing,crane,sidewalk,chimney,balcony
+street,building,mountain,wall,tree,sky,water,curb,grass,ground
+street,head,torso,bus,leg,tree,face,person,window,animal,arm
+street,wall,sign,pole,trash can,arm,van,wind shield,traffic light,sky,window,white bar,head,door,leg,mailbox,building,street light,car,tree,face,person,truck,sidewalk,torso,road
+street,car,person
+street,building,entrance,leg,wall,purse,sky,head,tree,person,bike,sidewalk,face,torso,arm
+street,building,sky,person,lamp,sidewalk,grass
+street,building,crane,fence,wall,sky,tree,sign,license plate,lamp,car,tall building,central reservation,road
+street,building,wheel,plant,door,pane,street light,column,sky,mirror,tree,sign,person,window,vegetation,parking meter,car,sidewalk,road
+street,wheel,car,tree,pole,sidewalk,road
+street,building,street light,car,sky,sign,person,window,poster,road
+forest,leaves,sky,rock
+forest,path,sky,tree,vegetation,ground
+forest,tree,sky
+forest,tree,grass,sky
+forest,tree,leaves,sky,branch
+forest,tree,rock
+forest,water,tree
+forest,water,stone,tree,rock
+forest,grass,tree
+forest,water,tree,vegetation
+forest,tree,vegetation,rock
+forest,sky,grass,tree
+forest,path,mountain,tree,vegetation,rock
+forest,tree,sky,ground
+forest,tree,vegetation
+forest,water,stone,grass,tree,rock
+forest,stone,tree,sky,water,rock,vegetation
+forest,tree
+forest,tree,vegetation
+forest,rock,tree,stick,vegetation,ground
+forest,house,sky,tree,path,vegetation,ground
+forest,path,plant,sky
+forest,mountain,sky,tree
+forest,tree,grass,sky
+forest,sky,tree
+forest,house,tree,vegetation,ground
+forest,tree,sky,branch,vegetation
+forest,water,stone,tree,rock
+forest,tree,sky,ground
+forest,tree,stick,branch,rock
+forest,house,grass,sky,vegetation
+forest,water,tree,sky
+forest,mountain,stone,sky,tree,water,rock
+forest,mountain,grass,sky,tree
+forest,water,path,tree,vegetation,rock
+forest,tree,sky,vegetation
+forest,path,sky,tree,vegetation
+forest,house,sky,tree,water,rock,grass,vegetation
+forest,bridge,plant,house,sky,tree,ground
+forest,tree,grass,sky,bench
+forest,tree,sky,ground
+forest,tunnel,bridge,grass,water,tree
+forest,tree,grass,sky,branch,mountain
+forest,wall,tree,ground
+forest,mountain,grass,tree
+forest,grass,tree
+forest,tree,ground
+forest,tree,vegetation,ground
+forest,sun,tree,root,ground
+forest,tree,ground
+forest,grass,tree,vegetation,ground
+forest,tree,ground
+forest,water,tree,vegetation,ground
+forest,path,grass,tree,vegetation,sky
+forest,grass,tree,rock
+forest,tree,sky
+forest,sky,tree,vegetation
+forest,tree
+forest,sky,tree
+forest,bridge
+forest,tree
+forest,path,mountain,rock,tree,sky
+forest,tree
+forest,tree
+forest,leaves,tree,branch
+forest,water,stone,tree,vegetation,rock
+forest,sky,grass,tree,path
+forest,tree,vegetation
+forest,path,grass,tree,vegetation,sky
+forest,water,tree,sky
+forest,bridge,tree
+forest,water,stone,tree,vegetation
+forest,mountain,sky,tree,rock
+forest,wall,grass,tree
+forest,mountain,sky,tree
+forest,tree
+forest,water,stone,tree,rock
+forest,tree,sky,branch
+forest,tree,vegetation
+forest,bridge,plant,flower,tree,water,person
+forest,house,plant,tree,ground
+forest,sun,sky,tree,ground
+forest,path,tree
+forest,tree,grass,sky
+forest,water,tree,sky,rock
+forest,tree,sky,rock
+forest,sky,grass,tree
+forest,tree,ground
+forest,tree,leaves,leaf,sky
+forest,tree,vegetation
+forest,tree,sky,fence,road,ground
+forest,tree,branch
+forest,tree,rock,sky,ground
+forest,tree
+forest,tree,ground
+forest,house,grass,tree,vegetation
+forest,tree
+forest,sky,tree,ground
+forest,water,vegetation,rock
+forest,water,stone,tree
+forest,water,sky,tree,vegetation,rock
+forest,tree
+forest,water,sky,tree,vegetation
+forest,tree,sky
+forest,path,tree,house
+forest,water,house,grass,sky,tree
+forest,water,person,tree,rock
+forest,path,grass,sky,vegetation,tree
+forest,sky,tree
+forest,path,tree,vegetation,sky
+forest,water,stone,vegetation,rock
+forest,tree
+forest,water,tree,sky,vegetation
+forest,mountain,sky,tree
+forest,mountain,sky,tree
+forest,tree
+forest,water,rainbow,grass,tree,rock
+forest,water,tree,vegetation
+forest,sky,tree,water,rock,grass,vegetation
+forest,water,tree,rock
+forest,sun,sky,tree
+forest,sun,sky,tree
+forest,tree,sky,ground
+forest,tree,sky,ground
+forest,tree
+forest,tree,sky,water,boat,branch,house,vegetation
+forest,path,plant
+forest,tree,ground
+forest,bridge,tree,person
+forest,mountain,sky,tree
+forest,tree,vegetation,rock
+forest,sky,tree,ground
+forest,tree,vegetation,rock
+forest,tree
+forest,tree,grass,sky
+forest,car,tree,ground
+forest,sky,tree,branch
+forest,mountain,tree,sky,water,vegetation,ground
+forest,tree,plant,stake,sky,path
+forest,sky,tree,vegetation,ground
+forest,path,grass,tree
+forest,tree,sky,vegetation
+forest,mountain,stone,tree,sky,water,rock
+forest,water,tree,sky,vegetation
+forest,tree,vegetation
+forest,tree,ground
+forest,water,tree,ground
+forest,mountain,sky,tree
+forest,sky,tree
+forest,sky,tree,mountain
+forest,tree,sky,ground
+forest,stone,sky,plant,tree,water,rock
+forest,water,stone,tree,vegetation
+forest,bag,car,tree,sign,person
+forest,plant,sky,tree,stone,water,root,vegetation,ground
+forest,sky,tree
+forest,path,grass,sky,vegetation,tree
+forest,tree,sky,mountain
+forest,tree
+forest,path,stone,tree,vegetation,rock
+forest,sky,tree
+forest,tree,sky
+forest,sky,tree,fence,road,ground
+forest,water,tree,ground
+forest,path,sky,tree,vegetation,rock
+forest,tree,sky,branch,ground
+forest,water,tree,sky
+forest,water,mountain,tree
+forest,path,sky,tree,vegetation,rock
+forest,person,grass,sky,tree,animal
+forest,path,sky,tree,ground
+forest,tree,plant,sky,stone,vegetation
+forest,water,tree,rock
+forest,water,mountain,stone,tree,rock
+forest,sky,tree,vegetation
+forest,mountain,sky,tree
+forest,bridge,tree,sky,water,branch,ground
+forest,water,tree,sky,vegetation
+forest,tree,ground
+forest,water,tree,vegetation,ground
+forest,slope,path,sky,tree,vegetation
+forest,water,sky,tree,rock
+forest,tree,sky,branch,vegetation,ground
+forest,water,tree,stone,sky,rock
+forest,plant,tree,vegetation,ground
+forest,tree
+forest,tree,sky,ground
+forest,sky,tree,ground
+forest,tree,sky
+forest,mountain,plant,sky,tree,stone,vegetation
+forest,water,stone,ground,vegetation,rock
+forest,water,stone,stick,vegetation,rock
+forest,mountain,sky,tree
+forest,sky,tree,ground
+forest,path,tree,vegetation,rock
+forest,tree
+forest,mountain,tree,sky,path,vegetation,ground
+forest,mountain,sky,tree
+forest,tree,sky,vegetation,rock
+forest,tree
+forest,fence,sky,tree,curb,road,ground
+forest,mountain,sky,tree,sign
+forest,truck,tree
+forest,mountain,tree,sky,person,rock,path,ground
+forest,stone,tree,vegetation
+forest,stone,tree,water,branch,rock,vegetation
+forest,mountain,sky,branch,tree
+forest,path,tree,vegetation,fence,sky
+forest,water,tree
+forest,water,person,plant,tree,vegetation
+forest,tree,sky
+forest,mountain,plant,sky
+forest,house,tree,vegetation,mountain
+forest,mountain,sky,tree
+forest,path,tree
+forest,tree,plant,sky,rock
+forest,mountain,sky,tree
+forest,sky,house,ground,tree,car
+forest,tree,vegetation
+forest,path,grass,tree
+forest,tree,ground
+forest,sky,tree
+forest,tree,sky,person,path,vegetation,ground
+forest,sun,sky,tree
+forest,water,stone,tree,vegetation,ground
+forest,path,tree,branch
+forest,tree,sky,ground
+forest,water,stone,vegetation
+forest,path,sky,vegetation,tree
+forest,sky,branch
+forest,tree,sky,ground
+forest,water,stone,tree,vegetation,rock
+forest,water,sky,tree,vegetation
+forest,building,stone,tree,path,grass,ground
+forest,tree,ground,sky,mountain
+forest,water,mountain,sky,tree,ground
+forest,person,grass,tree
+forest,sky,tree
+forest,tree
+forest,path,grass,sky,tree,fence
+forest,tree,sky
+forest,water,tree,sky,boat
+forest,stone,tree,water,stick,branch,rock,vegetation
+forest,bridge,plant,tree,vegetation,sky
+forest,grass,tree
+forest,path,tree,vegetation
+forest,water,stone,tree,rock
+forest,sky,grass,tree
+forest,mountain,tree
+forest,water,tree,rock
+forest,mountain,sky,branch,tree
+forest,tree,plant,sky
+forest,tree,vegetation
+forest,tree,sky,vegetation
+forest,tree,rock
+forest,water,tree,sky,vegetation,rock
+forest,path,tree,vegetation
+forest,
+forest,person,grass,tree,animal,umbrella
+forest,sky,rock
+forest,valley,rock
+forest,sky,tree
+forest,tree,ground
+forest,tree
+forest,water,stone,stick,vegetation,rock
+forest,tree
+forest,tree,ground
+forest,tree,ground
+forest,path,tree,ground
+forest,path,stone,tree,stick
+forest,tree,sky
+forest,water,sky,stone,tree,vegetation
+forest,sky,tree,branch,ground
+forest,water,tree,vegetation
+forest,grass,tree
+forest,head,leg,face,person,torso,arm
+forest,tree,vegetation
+forest,water,stone,tree,vegetation
+forest,person,road,rock
+forest,water,stone,ground,tree,rock
+forest,wall,path,grass,tree
+forest,house,tree,vegetation,mountain
+forest,tree,vegetation,animal
+forest,sky,tree
+forest,water,tree,grass,sky,rock
+forest,water,mountain,sky,tree,person
+forest,water,house,tree,vegetation,ground
+forest,water,tree,sky,mountain
+forest,water,bridge,stone,tree,vegetation
+forest,path,sky,tree,person
+forest,tree,sky,vegetation
+forest,ground,tree,stick,rock
+forest,tree,grass,sky
+forest,tree,ground
+forest,sky,tree,vegetation,ground
+forest,tree,vegetation
+forest,fence,tree,person,animal,grass,ground
+forest,tree,sky,ground
+forest,water,grass,tree
+forest,water,stone,tree,rock
+coast,water,beach,sand,sky
+coast,building,mountain,sky,water,rock
+coast,water,sand,sky
+coast,water,tree,sand,beach,sky
+coast,water,mountain,sand,beach,sky
+coast,water,beach,sand,sky,boat
+coast,water,beach,sand,sky,rock
+coast,water,sun,ship,sky,mountain
+coast,water,beach,sand,sky,rock
+coast,water,tree,sand,beach,sky
+coast,water,mountain,sand,sky,tree
+coast,water,mountain,sky
+coast,sky,water,sand,rock,beach,vegetation
+coast,water,sky,rock
+coast,mountain,tree,sky,water,sand,rock,beach,vegetation
+coast,cow,boat
+coast,desert,vegetation
+coast,mountain,sky,water,sand,rock,beach,vegetation
+coast,water,mountain,sky
+coast,building,mountain,sky,water,sand,beach
+coast,sky,rock
+coast,sky,water,boat,rock,light house
+coast,mountain,sky,water,sand,beach,bird
+coast,water,beach,sand,sky,bird
+coast,mountain,sky,tree,water,rock,ship
+coast,water,mountain,sky,rock
+coast,water,tree,sand,beach,sky
+coast,sky,water,person,sand,sea,boat
+coast,water,sun,ship,sky
+coast,water,mountain,sky,boat,rock
+coast,water,mountain,sky,house
+coast,house,sky,tree,water,rock,ground
+coast,building,mountain,sky,water,sand,vegetation,beach,boat
+coast,water,mountain,sky
+coast,building,mountain,sky,water,sand,rock,beach,boat
+coast,water,sky,sea
+coast,door,wall,tree,sign,water
+coast,sun,sky,water,sand,rock,beach
+coast,building,sidewalk,window,road,sign
+coast,water,mountain,sky,rock
+coast,water,mountain,sky
+coast,sky,beach,tree,sea
+coast,water,sun,sky,mountain
+coast,water,sky,vegetation,rock
+coast,water,sky,sea
+coast,water,mountain,sand,beach,sky
+coast,sun,sky,water,sand,rock,beach,bird
+coast,water,mountain,sky,tree,rock
+coast,building,mountain,sky,boat,water
+coast,water,rock,sky,ground
+coast,water,mountain,sky
+coast,car,tree
+coast,water,sky
+coast,water,beach,sand,sky,rock
+coast,building,bridge,mountain,sky,water,light house,boat
+coast,water,mountain,sky,rock
+coast,water,mountain,sky,tree
+coast,house,sky,tree,water,sand,beach,boat
+coast,water,sky,fence,ground
+coast,water,mountain,light house,sky
+coast,water,wall,ground,sky,rock
+coast,water,mountain,sky,vegetation
+coast,water,ship,sky
+coast,water,mountain,sky,rock
+coast,water,sky
+coast,water,mountain,sand,beach,sky
+coast,water,mountain,rock,sky,ground
+coast,water,mountain,sky
+coast,building,water,sky,boat,rock
+coast,sun,sky,water,person,sand,beach
+coast,water,beach,sand,sky,boat
+coast,water,sky
+coast,mountain,sun,sky,tree,water,sand,rock,beach
+coast,water,sky,rock
+coast,water,mountain,sand,beach,sky
+coast,water,sun,sky,mountain
+coast,mountain,sky,water,person,sea,ship,beach
+coast,water,tree,sky,sea
+coast,bridge,mountain,tree,sky,water,sea
+coast,building,sidewalk,sky,antenna,road
+coast,water,person,sand,sky
+coast,water,sun,sky
+coast,house,mountain,rock
+coast,water,mountain,sky
+coast,water,beach,sand,sky,boat
+coast,water,sky,boat,rock
+coast,building,mountain,house,sky,tree,water,sand,beach
+coast,water,mountain,sky,sea
+coast,building,mountain,sky,water,sand,beach
+coast,water,sky,vegetation,rock
+coast,water,sky,vegetation
+coast,ball,leg,head,face,person,torso,arm
+coast,water,sun,sand,beach,sky
+coast,water,sky,boat,sea
+coast,building,mountain,sky,water,sand,rock,ship,beach
+coast,bridge,sky,tree,water,person,sand,sea,beach,bird,bank
+coast,building,mountain,sky,water,sand,rock,beach
+coast,water,beach,sand,sky
+coast,water,beach,sand,sky,rock
+coast,sun,sky,tree,water,sand,beach,boat
+coast,water,tree,sky
+coast,car
+coast,water,person,sky,boat
+coast,head,sky,face,water,person,boat
+coast,water,sky
+coast,building,mountain,sky,water,sand,rock,beach,boat
+coast,water,person,sand,beach,sky
+coast,mountain,sky,water,sand,rock,beach
+coast,water,person,sand,sky
+coast,water,person,sky
+coast,mountain,sky,water,person,road,boat
+coast,water,beach,sand,sky,person
+coast,water,beach,sand,sky
+coast,building,mountain,sky,water,rock,vegetation
+coast,water,sky,boat
+coast,building,bridge,mountain,sky,water,sand,beach
+coast,building,tree,sky,water,person,sand,beach
+coast,water,house,sky,rock
+coast,building,mountain,sky,water,sand,beach
+coast,water,sky
+coast,water,mountain,sky
+coast,water,island,rock,sky,mountain
+coast,water,beach,sand,sky
+coast,water,mountain,sky
+coast,water,mountain,sand,sky,boat
+coast,sky,water,person,sand,rock,beach
+coast,building,mountain,sky,water,sand,beach,ground
+coast,water,mountain,sky,rock
+coast,sky,water,sea,rock,beach,vegetation
+coast,wall,sky
+coast,water,sky,bird,rock
+coast,water,mountain,sand,beach,sky
+coast,water,sun,sky,mountain
+coast,building,sidewalk,stair
+coast,building,mountain,sky,boat,water
+coast,water,ship,sky,boat
+coast,water,sky,vegetation
+coast,building,mountain,house,sky,water,sand,rock,beach
+coast,building,mountain,sky,water,sand,beach,ground
+coast,water,sun,sky
+coast,sky,water,sand,rock,beach,boat
+coast,water,person,flag,sky,boat
+coast,building,mountain,sky,water
+coast,building,mountain,sky,water,rock,vegetation
+coast,sun,sky,water,sand,beach,bird
+coast,mountain,sun,sky,water,person,boat
+coast,cyclist,stair,sky,tree,water,person,bike
+coast,cyclist,sky,water,person,sand,bike,beach
+coast,water,sky,vegetation,boat,rock
+coast,water,sun,sky
+coast,wall,tree,rock
+coast,water,sun,sky,ground
+coast,water,island,rock,sky,ground
+coast,sky,stake,tree,water,sand,beach,boat
+coast,mountain,sky,water,sand,ship,beach
+coast,water,mountain,sky,tree
+coast,water,mountain,sky,tree
+coast,water,tree,sand,beach,sky
+coast,water,sun,pole,sky,mountain
+coast,water,mountain,sky,vegetation
+coast,water,mountain,sky,rock
+coast,mountain,house,sky,water,sand,beach,vegetation
+coast,mountain,tree,sky,water,sand,beach
+coast,water,beach,sand,sky,boat
+coast,head,leg,island,face,person,torso,arm,boat
+coast,building,flower,wall,sky,water,boat
+coast,building,sculpture,sky,water
+coast,water,sky,boat,rock
+coast,water,mountain,grass,sky
+coast,building,mountain,sky,water,ground
+coast,water,beach,sand,sky,rock
+coast,mountain,tree,sky,water,sand,beach,vegetation
+coast,water,ship,light house,sky,rock
+coast,water,tree,mountain,sky,rock
+coast,mountain,umbrella,fence,street light,sky,tree,water,boat
+coast,water,tree,sky,rock
+coast,water,mountain,sky
+coast,water,mountain,light house,sky,boat
+coast,water,sun,sky
+coast,water,sun,sand,beach,sky
+coast,water,beach,sand,sky
+coast,water,mountain,sky
+coast,water,sky,rock
+coast,water,sky,rock
+coast,water,sun,sand,beach,sky
+coast,rainbow,sky,water,sand,beach,vegetation
+coast,building,tree,sky,water,sand,beach
+coast,building,tree,sky,water,sand,sea,beach,boat
+coast,water,light house,sky,vegetation,road
+coast,mountain,sky,leaves,tree,water,sea
+coast,building,mountain,house,roof,window
+coast,mountain,sky,water,sand,beach,vegetation
+coast,water,mountain,sand,beach,sky
+coast,water,sun,sky,boat,mountain
+coast,water,mountain,sky
+coast,water,sun,sky,tree,mountain
+coast,building,water,sky,tree,boat
+coast,water,sun,mountain,sky,house
+coast,water,mountain,sky
+coast,water,beach,sand,sky,boat
+coast,building,bridge,sky,water,person,rock,vegetation
+coast,water,sky,rock
+coast,mountain,bridge,sun,sky,water,sand,beach
+coast,water,beach,sand,sky
+coast,sky,water,sand,chair
+coast,water,animal
+coast,gate,tree,vegetation,road
+coast,water,mountain,ground,sky,house
+coast,building,water,sky,tree,vegetation
+coast,beach,sky,boat,rock
+coast,water,sun,sky,mountain
+coast,building,sun,sky,water
+coast,water,sky
+coast,building,mountain,sky,water,sand,rock,beach
+coast,house,sky,tree,water,rock,boat
+coast,sky,water,sand,rock,beach,vegetation
+coast,water,ship,sky
+coast,water,sun,sky
+coast,water,mountain,sky,vegetation,rock
+coast,water,person,sky,rock
+coast,water,sky,sea
+coast,water,sky,sand,tree,boat
+coast,water,beach,sand,sky,rock
+coast,water,sky
+coast,building,water,sky
+coast,mountain,sky,tree,water,vegetation,ground
+coast,water,mountain,sky
+coast,water,sky,rock
+coast,water,sky,ground
+coast,water,beach,sand,sky,rock
+coast,sky,water,person,sea,boat
+coast,lamp post,pole,boat
+coast,sky,water,sand,beach,ground
+coast,water,mountain,sky,animal
+coast,water,sky,rock
+coast,water,mountain,sky
+coast,sun,sky,water,sand,beach,bird
+coast,building,bridge,tree,sky,water,truck
+coast,water,sun,sky,tree
+coast,building,mountain,sky,water,sand,beach
+coast,building,mountain,sky,water,sand,boat,rock,beach,vegetation
+coast,person
+coast,sun,sky,water,sand,beach,ground
+coast,building,beach,sand,sky,water
+coast,water,sky,rock
+coast,water,sun,sky,sea
+coast,mountain,sun,sky,water,sand,beach
+coast,water,sun,sky,boat,mountain
+coast,mountain,house,sky,water,rock,light house
+coast,water,sky,sea
+coast,building,water,sky,rock
+coast,water,bridge,sky,building,mountain
+coast,building,mountain,sky,water,rock
+coast,water,mountain,sky,rock
+coast,sky,rock
+coast,water,boat,rock
+coast,building,mountain,house,sky,tree,water,sand,beach,boat
+coast,water,mountain,sky,rock
+coast,head,sky,face,water,person,sand,beach
+coast,water,beach,sand,sky,boat
+coast,water,sky,boat
+coast,water,mountain,sand,beach,sky
+coast,mountain,tree,sky,water,sand,rock,beach
+coast,water,mountain,tall building,building
+coast,mountain,sky,water,person,sand,rock,beach,ground
+coast,water,person,rock
+coast,water,sky,rock
+coast,water,window,pavement
+coast,water,sky,rock
+coast,water,person,sand,beach,sky
+coast,water,crane,flag
+coast,water,mountain,sky,rock
+coast,water,mountain,sky
+coast,water,mountain,sky,rock
+coast,water,person,sky,sea
+coast,water,sky,rock
+coast,mountain,sky,water,sand,boat,beach,ground
+coast,water,mountain,sky,tree,rock
+coast,water,mountain,sand,beach,sky
+coast,water,mountain,light house,sky,rock
+coast,tree,sky,water,sand,beach,vegetation
+coast,water,mountain,sky,rock
+coast,water,sky,road
+coast,sky,water,person,sea,hat,boat
+coast,mountain,sky,water,sand,beach,vegetation
+coast,boat
+coast,mountain,sky,water,flag,rock,boat
+coast,building,mountain,sky,water,sand,beach
+coast,ship,flower,sign
+coast,water,sky,ground
+coast,building,mountain,sky,water
+coast,sky,tree,water,sand,sea,beach
+coast,water,mountain,light house,sky
+coast,water,beach,sand,sky,rock
+coast,water,sky,sand,beach,rock
+coast,water,mountain,sky
+coast,road,rock
+coast,building,water,sky,bird,rock
+coast,water,sky
+coast,head,leg,face,water,person,torso,arm
+mountain,fog bank,sky
+mountain,sky
+mountain,fog bank,sky
+mountain,sky,tree
+mountain,sky,refuge
+mountain,water,sky
+mountain,sky,tree
+mountain,sky
+mountain,sky,tree
+mountain,person,sky,tree
+mountain,fog bank,sky
+mountain,sky,snow
+mountain,water,sky,rock
+mountain,sky
+mountain,sky,tree
+mountain,sky,snow,tree
+mountain,sky,snow
+mountain,sky
+mountain,water,sky,tree
+mountain,sky,ground
+mountain,tree,sky,water,branch,vegetation
+mountain,building,tree,sky,pole,valley
+mountain,sky,snow,tree
+mountain,sky
+mountain,sky,snow,tree,vegetation
+mountain,tree,snow
+mountain,building,sky,hill,tree
+mountain,sky,snow,tree
+mountain,sky
+mountain,sky,snow
+mountain,slope,sky
+mountain,sky,snow,tree,person
+mountain,sky,snow,tree
+mountain,sky,tree,house
+mountain,sky,snow
+mountain,sky
+mountain,sky
+mountain,sky,tree
+mountain,sky
+mountain,water,valley,sky,person
+mountain,sky
+mountain,sky
+mountain,plain,sky,tree
+mountain,water,sky,bank,plain
+mountain,water,sky
+mountain,tree,sky
+mountain,sky,moon
+mountain,sky,tree
+mountain,rock
+mountain,sky
+mountain,sky,tree,rock
+mountain,sky
+mountain,valley,sky
+mountain,
+mountain,sky,tree
+mountain,sky
+mountain,sky,forest,tree
+mountain,sky,refuge
+mountain,sky
+mountain,sky,rock
+mountain,sky
+mountain,water,sky,vegetation
+mountain,fog bank,sky
+mountain,tree,sky,snow,sign,road,ground
+mountain,tree,sky,pole,house,vegetation
+mountain,person,sky,refuge
+mountain,water,sky
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,water,sky,tree
+mountain,rock,sky,plain
+mountain,water,sky,snow
+mountain,sky,tree
+mountain,sky
+mountain,sky,snow,tree,plain
+mountain,sky
+mountain,sky
+mountain,sky,tree
+mountain,water,sky
+mountain,sky
+mountain,sky,tree
+mountain,fog bank,sky
+mountain,sky
+mountain,sky,road,car
+mountain,sky
+mountain,sky
+mountain,sky,rock
+mountain,slope,sky,water
+mountain,sky,vegetation,tree
+mountain,sky,tree
+mountain,sky,tree
+mountain,sky
+mountain,sky,person
+mountain,sky,tree
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,sky,tree
+mountain,fog bank,sky,tree
+mountain,sky,tree
+mountain,sky,person
+mountain,building,sky
+mountain,
+mountain,sky
+mountain,water,sky
+mountain,sky
+mountain,tree,sky
+mountain,water,sky,tree,rock
+mountain,sky
+mountain,sky,tree
+mountain,sky,tree
+mountain,sky,ground
+mountain,tree,sky,pole,road,ground
+mountain,sky,road
+mountain,sky,snow,ground
+mountain,sky,snow
+mountain,water,sky
+mountain,sky,rock
+mountain,sky,tree
+mountain,door,bridge,house,sky,snow,window
+mountain,sky,tree
+mountain,sky
+mountain,house,tree,sky,car,road,ground
+mountain,ground
+mountain,sky,refuge
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,water,plant,sky
+mountain,sky
+mountain,sky,tree
+mountain,sun,sky
+mountain,sky
+mountain,tree,sky
+mountain,sky,road,plain
+mountain,water,sky,tree
+mountain,sky
+mountain,sky,ground
+mountain,sky,snow,rock
+mountain,sky,bird,path
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,water,sky
+mountain,sky,snow
+mountain,path,sky,person
+mountain,sky,tree
+mountain,snow
+mountain,sky,water,sand,beach,vegetation
+mountain,sky,tree
+mountain,sky
+mountain,sky
+mountain,tree,sky,vegetation,road
+mountain,sky
+mountain,water,sky,snow,ground
+mountain,sky
+mountain,sky,tree
+mountain,sky
+mountain,sky,tree
+mountain,fog bank,sky
+mountain,
+mountain,plant,sky,vegetation
+mountain,sky
+mountain,tree
+mountain,sky
+mountain,sky,forest
+mountain,building,sky,vegetation,road
+mountain,person,sky,snow,plain
+mountain,water,sky
+mountain,sky,lake
+mountain,sky,tree
+mountain,sky
+mountain,sky,tree,plain
+mountain,sky,snow
+mountain,sky
+mountain,vegetation
+mountain,sky
+mountain,sky,rock
+mountain,water,sky
+mountain,sky
+mountain,water,sky
+mountain,rock
+mountain,tree,sky,snow,road
+mountain,building,sky,road
+mountain,sky,person
+mountain,water,island,sky,ground
+mountain,sky
+mountain,sky
+mountain,fog bank,sky,snow,tree
+mountain,sky
+mountain,sky
+mountain,sky,rock
+mountain,sky,animal,vegetation
+mountain,sky,tree
+mountain,sky,snow,tree,person
+mountain,sky
+mountain,sky
+mountain,sky,tree
+mountain,sky,tree,rock
+mountain,sky
+mountain,sky,tree
+mountain,sky
+mountain,sky
+mountain,sky,tree
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,water,sky,tree
+mountain,sky,snow
+mountain,sky,road,car,sign
+mountain,pole,sky
+mountain,sky
+mountain,sky
+mountain,sky,forest,tree
+mountain,sky,snow
+mountain,building,sky,snow,lake
+mountain,building,sky,water,valley
+mountain,sky
+mountain,sky
+mountain,house,valley,sky,moon
+mountain,fog bank,sky,snow,tree
+mountain,water,sky
+mountain,sky
+mountain,sky,snow
+mountain,sky,tree
+mountain,sky
+mountain,sky,tree
+mountain,fog bank,sky
+mountain,sky,tree
+mountain,sky,tree
+mountain,sky,plain
+mountain,sky,tree,crop
+mountain,sky,vegetation,ground
+mountain,valley,sky,rainbow
+mountain,valley,sky,vegetation,house
+mountain,sky
+mountain,sky
+mountain,sky
+mountain,door,sky,tree,crop,house,chimney
+mountain,building,sky,door,road
+mountain,rock
+mountain,sky,snow
+mountain,sky,tree
+mountain,sky,rock
+mountain,sky,snow
+mountain,fog bank,sky
+mountain,sky,snow,plain
+mountain,sky,snow,person
+mountain,house,sky
+mountain,sky,snow
+mountain,sky
+mountain,building,sky,road
+mountain,sky,tree
+mountain,sun,person,sky,snow
+mountain,sky,rock
+mountain,sky
+mountain,building,stair,tree,sky,ground
+mountain,sky,tree
+mountain,sky,snow,rock
+mountain,sky,vegetation,rock
+mountain,sky,rock
+mountain,rock
+mountain,sky,tree,car
+mountain,sky,snow,tree,vegetation
+mountain,sky,tree
+mountain,sky,tree
+mountain,sky
+mountain,sky,snow
+mountain,sky
+mountain,sky
+mountain,sky,tree,snow,crop,ground
+mountain,water,sky,snow,rock
+mountain,sky,rock
+mountain,water,sky,snow,rock
+mountain,sky
+mountain,sky
+mountain,sky,vegetation
+mountain,sky,snow
+mountain,sky
+mountain,sky
+mountain,wall,tree,sky,pole,road
+mountain,sky,tree
+mountain,sky,forest,tree
+mountain,fog bank,sky,vegetation,road
+mountain,sky
+mountain,sky,tree
+mountain,sky,snow
+mountain,sky,moon
+mountain,sky
+mountain,sky,tree,road,rock
+mountain,sky,snow
+mountain,sky,snow
+mountain,sky
+mountain,sky,tree
+open country,sky,tree,field,path,grass,vegetation
+open country,mountain,sky,tree,person
+open country,mountain,sky,vegetation
+open country,building,mountain,fence,sky,tree,sign,pole,vegetation,road
+open country,mountain,stone,tree,sky,water,ground
+open country,building,mountain,wall,tree,sky,water,field,machine,bank,path,grass,vegetation
+open country,mountain,sky,vegetation,tree
+open country,mountain,sky,desert,ground
+open country,tree,sky,vegetation
+open country,building,mountain,tree,sky,water,vegetation
+open country,mountain,grass,sky,vegetation,field
+open country,mountain,tree,sky,field,animal,grass,bird
+open country,building,tree,sky,snow
+open country,building,sky,water,sand,beach,road,ground
+open country,tree,sky
+open country,mountain,sky,vegetation,rock
+open country,plain,sky,desert,ground
+open country,plant,sky,vegetation
+open country,mountain,valley,sky,grass,tree
+open country,water,sky,hill
+open country,tree,sky,vegetation
+open country,water,mountain,sky,vegetation,tree
+open country,tree,grass,sky,vegetation,field
+open country,mountain,sky,rock,desert,vegetation,ground
+open country,tree,sky,vegetation
+open country,tree,sky,road,vegetation
+open country,sky,vegetation
+open country,mountain,sky,tree,vegetation
+open country,water,tree,stone,sky,ground
+open country,building,mountain,sky,water,table,vegetation
+open country,plant,sky,vegetation
+open country,tree,grass,sky,field
+open country,tree,grass,sky,field,mountain
+open country,tree,grass,sky,field
+open country,mountain,stone,sky,rock,desert,vegetation,ground
+open country,building,wall,sky,tree,field,grass
+open country,water,mountain,sky,tree,ground
+open country,mountain,sky,tree
+open country,mountain,city,house,sky,tree,urban,water,sand,road,boat,beach,vegetation
+open country,sky,vegetation
+open country,tree,sky,vegetation,mountain
+open country,building,mountain,plant,tree,sky,water
+open country,building,mountain,sky,tree,water,vegetation,ground
+open country,mountain,sky,tree,vegetation,ground
+open country,mountain,stone,tree,sky,water,field,grass,vegetation
+open country,field,grass,sky,vegetation,path
+open country,building,mountain,sky,tree,vegetation
+open country,mountain,sky,animal,vegetation
+open country,building,water,sky,tree,vegetation
+open country,mountain,fence,tree,sky,water,grass
+open country,tree,flower,sky,vegetation
+open country,water,person,sand,sky,vegetation
+open country,mountain,sky,plain
+open country,tree,sky,bird,vegetation,path
+open country,mountain,tree,sky,water,grass,ground
+open country,mountain,tree,sky,water,person,vegetation,ground
+open country,plant,flower,tree,sky,path,grass
+open country,building,mountain,plain,sky,tree,water
+open country,mountain,sky,desert,vegetation
+open country,building,mountain,aerial,sky,field,grass,road
+open country,building,mountain,plain,sky,tree,person,pole,vegetation,rock,road,ground
+open country,mountain,tree,sky,field,pole,rock,grass
+open country,field,grass,sky,vegetation
+open country,mountain,sky,vegetation,tree
+open country,mountain,plant,sky,desert,vegetation,ground
+open country,tree,sky,vegetation
+open country,water,mountain,valley,sky
+open country,mountain,sky,tree,person
+open country,mountain,sky,desert,path
+open country,mountain,sky,vegetation,tree
+open country,field,grass,tree
+open country,sky,tree,water,rock,grass,bank
+open country,tree,sky,vegetation
+open country,water,mountain,grass,sky,tree
+open country,fence,tree,sky,snow,field,hill
+open country,tree,sky,vegetation
+open country,mountain,sky,tree,water,rock,vegetation
+open country,building,mountain,tree,sky,desert,ground
+open country,tree,mountain,sky,desert,ground
+open country,person,sky,vegetation
+open country,mountain,sky,tree,vegetation
+open country,mountain,plant,tree,sky,stone,water,rock,ground
+open country,tree,sky,cow,vegetation
+open country,mountain,tree,sky,house,valley,vegetation
+open country,mountain,tree,sky,water,sand,beach
+open country,light house,sky,vegetation
+open country,mountain,sky,tree,vegetation,animal
+open country,water,flower,sky,ground
+open country,mountain,valley,sky
+open country,door,sky,tree,window,house,vegetation
+open country,water,mountain,sky,plain
+open country,mountain,grass,sky,field
+open country,sky,tree,field,path,grass,vegetation
+open country,building,mountain,fence,house,sky,plain,vegetation
+open country,water,mountain,sky
+open country,tree,grass,sky,field
+open country,mountain,grass,sky,tree,field
+open country,building,pond,plant,sky,vegetation
+open country,mountain,sky,road,vegetation
+open country,water,mountain,grass,sky,tree
+open country,mountain,plain,sky,desert,vegetation,ground
+open country,mountain,sky,tree
+open country,mountain,pole,sky,vegetation,path
+open country,fence,tree,sky,water,field,pole,grass
+open country,building,vegetation
+open country,flower,sky,vegetation
+open country,sky,tree,water,bank,boat,stick
+open country,mountain,stone,tree,sky,water,rock,grass
+open country,mountain,ground,sky,vegetation,rock
+open country,water,mountain,sky,rock
+open country,building,mountain,sky,snow,plain
+open country,mountain,sky,vegetation
+open country,mountain,sky,vegetation
+open country,tree,grass,sky
+open country,water,tree,sky,bank
+open country,slope,mountain,cow,sky,field,grass
+open country,mountain,plant,tree,sky,water,sand,beach
+open country,building,fence,sky,tree,field,grass,bird,vegetation
+open country,house,sky,vegetation,tree
+open country,mountain,tree,sky,water,rock,ground
+open country,building,tree,sky,water,path,ground
+open country,building,sky,tree,water,vegetation,grass,road,ground
+open country,mountain,sky,tree,plain
+open country,mountain,plant,sky,vegetation,tree
+open country,mountain,sky,vegetation
+open country,building,mountain,sky,vegetation
+open country,mountain,sky,vegetation,tree
+open country,tree,sky,vegetation
+open country,building,stone,sky,tree,field,grass
+open country,mountain,tree,sky,desert,vegetation,ground
+open country,water,sky,tree
+open country,water,mountain,sky,vegetation,rock
+open country,tree,plant,sky,vegetation
+open country,fence,sky,tree,field,animal,grass,vegetation
+open country,water,mountain,sky,tree,vegetation
+open country,building,mountain,sky,vegetation,tree
+open country,mountain,tree,sky,water,bank,boat
+open country,water,mountain,valley,sky,tree
+open country,mountain,door,fence,tree,sky,pole,house,grass,road
+open country,mountain,sky,desert
+open country,plain,sky,tree,mountain
+open country,tree,vegetation
+open country,mountain,sky,plain
+open country,mountain,sky,vegetation
+open country,house,sky,vegetation
+open country,building,plant,sky,tree,water,vegetation
+open country,mountain,wire,sky
+open country,building,sky,tree,field,grass,vegetation
+open country,building,mountain,cow,bridge,sky,field,animal,grass
+open country,tree,grass,sky,field
+open country,mountain,valley,sky,desert,tree
+open country,mountain,sky,desert,vegetation
+open country,water,tree,pole,sky,mountain
+open country,mountain,ground,sky,snow,desert
+open country,path,tree,vegetation
+open country,sky,vegetation
+open country,water,mountain,sky,tree,bank
+open country,mountain,car,sky,dune,sand,desert
+open country,water,tree,sky,vegetation,house
+open country,tree,sky,vegetation,field
+open country,tree,plant,grass,sky,table
+open country,cow,sky,tree,field,house,grass,vegetation
+open country,mountain,flower,sky,vegetation
+open country,tree,plant,sky,vegetation
+open country,mountain,fence,sky,vegetation,tree
+open country,tree,stone,sky
+open country,mountain,sky,tree
+open country,water,tree,sky
+open country,building,mountain,sky,field,grass,vegetation
+open country,mountain,sky,vegetation,tree
+open country,sky,tree,vegetation
+open country,mountain,sky,vegetation
+open country,building,mountain,tree,person,rock,vegetation
+open country,mountain,sky,vegetation,road
+open country,field,grass,tree,cow
+open country,water,mountain,sky
+open country,water,mountain,sky,tree,ground
+open country,mountain,sky,water,vegetation,path,road
+open country,tree,sky,mountain
+open country,mountain,sky,desert,vegetation,ground
+open country,tree,sky,vegetation,rock
+open country,tree,sky,vegetation,mountain
+open country,mountain,grass,sky,tree,field
+open country,mountain,fence,sky,vegetation,tree
+open country,house,tree,grass,sky,field
+open country,building,plain,sky,vegetation,path
+open country,water,tree,sky,boat,bank
+open country,water,grass,sky,vegetation,ground
+open country,wall,field,grass,sky,tree
+open country,tree,sky,field,grass,vegetation
+open country,van,car,tree,field,vegetation,grass,road,sky
+open country,water,tree,sky
+open country,mountain,sky,tree,vegetation
+open country,water,mountain,sky,vegetation,tree
+open country,mountain,sky,vegetation
+open country,mountain,sky,tree,ground
+open country,mountain,tree,sky,water,vegetation,ground
+open country,building,mountain,tree,sky,vegetation,road
+open country,plant,flower,wall,sky,tree,vegetation
+open country,mountain,sky,tree
+open country,water,sky,rock
+open country,mountain,house,sky,tree,field,car,grass,road
+open country,mountain,tree,sky,water,grass,boat
+open country,mountain,fog bank,sky
+open country,water,tree,grass,sky,field
+open country,sky,desert,vegetation
+open country,water,mountain,sky,tree,ground
+open country,building,city,urban,car,sky,tree,field,plain,grass,road,ground
+open country,tree,grass,sky,vegetation,field
+open country,slope,mountain,sky,tree,path
+open country,water,mountain,sky
+open country,sky,vegetation
+open country,mountain,plant,sky,snow,water,vegetation
+open country,tree,sky,vegetation
+open country,field,grass,tree,vegetation,path
+open country,building,sky,tree,bench,water,table,grass,ground
+open country,sky,tree,vegetation,path,grass,road
+open country,mountain,sky,vegetation
+open country,house,sky,tree,vegetation
+open country,mountain,valley,sky,tree
+open country,sky,vegetation
+open country,mountain,sky,tree
+open country,building,mountain,house,sky,field,path,grass
+open country,mountain,sky,vegetation,road
+open country,tree,sky,vegetation,path
+open country,mountain,sky,tree,vegetation
+open country,mountain,sky,desert,vegetation
+open country,mountain,sky,plain
+open country,water,mountain,sky,vegetation
+open country,building,mountain,tree,sky,path,vegetation
+open country,water,mountain,sky,tree,bridge
+open country,mountain,sky,vegetation,hay
+open country,building,mountain,tree,sky,valley,road
+open country,tree,sky,vegetation
+open country,sky,hill,road,vegetation
+open country,mountain,sky,vegetation
+open country,building,tree,sky,vegetation
+open country,mountain,sky,vegetation,tree
+open country,water,tree,sky,vegetation
+open country,mountain,fence,tree,sky,field,grass
+open country,sky,vegetation
+open country,field,grass,sky,tree
+open country,water,mountain,ship,sky
+open country,plant,fence,sky,tree,water,field,house,grass,vegetation
+open country,mountain,sky,tree,vegetation
+open country,path,grass,vegetation,field
+open country,water,mountain,sky,vegetation,tree
+open country,plant,sky,tree,bench,field,pond,path,grass
+open country,field,grass,sky,tree,mountain
+open country,mountain,sky,vegetation,tree
+open country,tree,sky,vegetation
+open country,tree,sky,vegetation
+open country,water,mountain,sky,tree
+open country,mountain,sky,desert,vegetation,ground
+open country,building,mountain,stone,sky,water,rock,vegetation
+open country,mountain,tree,vegetation
+open country,water,mountain,tree,vegetation,bank
+open country,mountain,sky,vegetation
+open country,path,tree,vegetation
+open country,water,tree,sky,mountain
+open country,mountain,flower,sky,tree
+open country,tree,pole,sky,vegetation
+open country,mountain,sky,ground
+open country,sky,grass,tree
+open country,building,mountain,stone,tree,sky,water,person
+open country,slope,mountain,house,sky,tree,water,grass
+open country,building,mountain,flower,tree,sky,field,grass
+open country,tree,sky,vegetation
+open country,mountain,plant,tree,sky,vegetation,ground
+open country,water,mountain,sky,tree,ground
+open country,mountain,sky,tree,pole,vegetation,road
+open country,water,mountain,sky,building,vegetation
+open country,mountain,sky,vegetation,tree
+open country,mountain,sky,dune,sand,desert,vegetation
+open country,hay,bale,sky,vegetation
+open country,tree,grass,sky,field
+open country,building,mountain,tree,sky,house,vegetation
+open country,mountain,stone,tree,sky,water,rock,bank,ground
+open country,building,mountain,tree,sky,house,vegetation
+open country,water,tree,sky,vegetation,mountain
+open country,mountain,tree,sky,water,vegetation,bank
+open country,mountain,sky,vegetation,tree
+open country,mountain,tree,sky,water,rock,grass
+open country,mountain,grass,sky,fence,field
+open country,mountain,sky,desert,ground
+open country,mountain,sky,machine,pole,road,ground
+open country,water,mountain,sky,tree,island
+open country,tree,sky,vegetation
+open country,wall,mountain,sky,tree,vegetation
+open country,slope,mountain,sky,tree,vegetation
+open country,mountain,fence,sky,vegetation,tree
+open country,building,sky,water,field,pole,grass,vegetation
+open country,mountain,sky,vegetation
+open country,water,mountain,sky,tree,ground
+open country,water,mountain,sky,tree,rock
+open country,slope,mountain,ground,sky,table
+open country,bridge,cow,tree,sky,water,field,grass,vegetation
+open country,building,mountain,plant,sky,vegetation
+open country,mountain,sky,tree,water,vegetation,bank
+open country,tree,sky,vegetation,house

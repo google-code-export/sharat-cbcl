@@ -1,0 +1,117 @@
+trash can,1
+chair,2
+bike,3
+sing,4
+garden,5
+sand,6
+sidewalk,7
+fence,8
+attic,9
+sign,10
+street,11
+clock,12
+sun,13
+badge,14
+bird,15
+leg,16
+water,17
+path,18
+leaves,19
+vehicle,20
+entrance,21
+door,22
+porch,23
+flag,24
+stick,25
+grill,26
+car,27
+roof,28
+lamp,29
+animal,30
+beach,31
+plant,32
+light,33
+truck,34
+license plate,35
+terrace,36
+pane,37
+window,38
+central reservation,39
+bank,40
+arrow,41
+rock,42
+house,43
+flower,44
+fountain,45
+hill,46
+umbrella,47
+city,48
+hydrant,49
+manhole,50
+tree,51
+sculpture,52
+bridge,53
+fog bank,54
+light house,55
+mountain,56
+person,57
+snow,58
+zebra crossing,59
+poster,60
+vegetation,61
+face,62
+slope,63
+text,64
+ground,65
+stair,66
+tall building,67
+chimney,68
+bag,69
+sea,70
+arm,71
+wire,72
+dome,73
+hand rail,74
+cow,75
+wall,76
+pot,77
+pole,78
+boat,79
+motorbike,80
+traffic light,81
+cyclist,82
+plain,83
+spotlight,84
+cone,85
+wind shield,86
+wheel,87
+street light,88
+dock,89
+awning,90
+sky,91
+bench,92
+branch,93
+shutter,94
+mirror,95
+stone,96
+column,97
+stand,98
+road,99
+van,100
+arcade,101
+valley,102
+head,103
+bus,104
+crane,105
+grass,106
+torso,107
+aerial,108
+curb,109
+ship,110
+balcony,111
+field,112
+AC,113
+desert,114
+building,115
+mast,116
+parking meter,117
