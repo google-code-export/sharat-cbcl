@@ -1,0 +1,20 @@
+Fixation Analysis for:	C:\neilsmall\6.jpg
+
+Fixation parameters:
+Minimum point count: 3
+Maximum gap between gazepoints (seconds): 0.500
+Minimum fixation time (seconds): 0.200
+Minimum fixation diameter (pixels): 50
+
+Number of fixations: 5
+
+Fixation Listing: (fixation number, x position, y position, begin time, end time, duration)
+
+1. 442, 341, 0.020, 0.330, 0.310
+2. 777, 462, 0.561, 0.801, 0.240
+3. 294, 342, 1.302, 1.912, 0.610
+4. 369, 329, 1.953, 2.153, 0.200
+5. 391, 355, 3.385, 3.785, 0.400
+Average fixation duration (seconds):	0.352
+Total fixation duration (seconds):	1.760
+Total number of LookZones fixated upon:	0

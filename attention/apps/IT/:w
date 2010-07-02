@@ -1,0 +1,31 @@
+%------------------------
+%
+nO=3;
+nF=6;
+EPS=0.001;
+pO=[1-2*EPS  EPS EPS;
+    1-2*EPS EPS EPS;
+    EPS 1-2*EPS EPS;
+    EPS 1-2*EPS EPS;
+    EPS EPS 1-2*EPS;
+    EPS EPS 1-2*EPS;
+];
+if(~exist('engine.mat'))
+    engine=buildEngine({[5 5]},0.01,0.01,pO);
+    save('engine','engine')
+else
+    load('engine','engine')
+end;    
+map=zeros(5,5)+EPS;
+NFTR=6;
+O=1;L=2;F_start=L;C_start=F_start+NFTR;
+evidence=cell(C_start+NFTR,1);
+%set up evidence for features
+pl=map;pl(1,1)=1;ev=[pl(:);EPS] ;evidence{C_start+1}=ev/sum(ev(:));
+pl=map;pl(1,1)=1;ev=[pl(:);EPS] ;evidence{C_start+2}=ev/sum(ev(:));
+pl=map;pl(5,5)=1;ev=[pl(:);EPS];evidence{C_start+3}=ev/sum(ev(:));
+pl=map;pl(5,5)=1;ev=[pl(:);EPS];evidence{C_start+4}=ev/sum(ev(:));
+pl=map;pl(1,1)=EPS;ev=[pl(:);1-EPS];evidence{C_start+5}=ev/sum(ev(:));
+pl=map;pl(1,1)=EPS;ev=[pl(:);1-EPS];evidence{C_start+6}=ev/sum(ev(:));
+engine=enter_evidence(engine,evidence);
+m=marginal_nodes(engine,1,1);
