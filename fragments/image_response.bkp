@@ -1,0 +1,130 @@
+%----------------------------------------------------------------------
+%image_response
+% computes the response of the hierarchy to a given image
+% the hierarchy has to be properly trained before using this
+% function.
+% usage:
+% [res,S]  = image_response(root,img)
+%     root - (IN) properly initialized hierarchy
+%     img  - (IN) image for which response is sought
+%     S    - (OUT)vector of leave node responses. These responses
+%                 form the input to the neural network
+%     res  - (OUT)final result of the hierarchy 
+%                 >0 -> detected, <=0 - not detected
+%     
+% sharat@mit.edu
+%----------------------------------------------------------------------
+function [res,S] = image_response(root,img)
+        dbg_flag=   0; %you can turn this on if you want
+        sum     =   0;
+        S       =   []; 
+        [ht,wt] = size(img);
+        for i = 1:length(root.h)
+            root.h(i).res   = [];
+            root.h(i)       = get_response_map(root.h(i),img);
+            res             = root.h(i).res;
+            %show response
+            if(dbg_flag)
+                subplot(1,2,1),imshow(root.h(i).img);
+                subplot(1,2,2),imagesc(res);
+                title('response map');
+                pause;
+            end;
+            %extract the roi
+            msk             = roi_mask(ht,wt,root.h(i).roi);
+            res             = res.*msk;
+            %find maximum
+            [im,jm]         = find(res==max(max(res))); 
+            im              = im(1);  
+    	    jm              = jm(1);
+            score           = res(im,jm);
+            [htp,wtp]       = size(root.h(i).img)
+	    
+            %show context
+            if(dbg_flag)
+    	      nimg = img;
+              nimg(im:im+htp-1,jm:jm+wtp-1) = root.h(i).img;
+              subplot(1,2,1),imshow(root.h(i).img);
+    	      subplot(1,2,2),imshow(nimg); 
+              title('context');pause;
+            end;
+            %weighted sum
+            sum             = sum+ root.w(i)*score;            
+    	    %get node scores
+            S               = [S,extract_node_scores(root.h(i),jm,im)];
+        end;
+        res                 = tanh((sum+root.bias));
+%end function image_response
+
+%----------------------------------------------
+%extract_node_scores
+%
+%----------------------------------------------
+function S = extract_node_scores(root,x,y)
+      S= [];
+      [ht,wt] = size(root.res); %same for all
+      if(isempty(root.h))
+        S = [root.res(y,x)];
+      end;
+      for i = 1:length(root.h)
+        roi   = root.h(i).roi;
+    	roi.x = roi.x + x;
+        roi.y = roi.y + y;
+        msk   = roi_mask(ht,wt,roi);
+        res   = root.h(i).res.*msk;
+    	[im,jm]=find(res==max(max(res)));
+        im    = im(1);
+    	jm    = jm(1);
+        S     = [S,extract_node_scores(root.h(i),jm,im)];
+      end;
+%end function
+
+
+%---------------------------------------------
+%get_response_map
+%
+%---------------------------------------------
+function root   =   get_response_map(root,img)
+    dbg_flag    =   0; 
+    [ht,wt]     =   size(img);
+    [htp,wtp]   =   size(root.img);
+    if(isempty(root.h))
+        root.res    = corr_image(root.img,img);
+        return; 
+    end;
+    %compute response of children
+    for i = 1:length(root.h)
+        root.h(i).res = [];
+        root.h(i)     = get_response_map(root.h(i),img);
+        if(dbg_flag)
+    	  subplot(1,2,1),imshow(root.h(i).img);
+          subplot(1,2,2),imagesc(root.h(i).res);
+          pause;
+    	end;
+    end;
+    %compute response map of parent
+    res = [];
+    
+    %subsample response
+    yidx = 1;
+    for y = 1:2:ht
+        y
+        xidx = 1;
+        for x = 1:2:wt
+             sum         = 0;
+             for i = 1:length(root.h)
+                 roi  = root.h(i).roi;
+                 roi.x= roi.x + x;
+                 roi.y= roi.y + y;
+                 msk  = roi_mask(ht,wt,roi);
+                 tres = root.h(i).res.*msk;
+                 s    = max(max(tres)); s = s(1);
+                 sum  = sum+ root.w(i)* s;
+            end;
+            res(yidx,xidx) = tanh((sum+root.bias));
+    	    xidx           = xidx+1;
+        end;
+        yidx = yidx+1;  
+    end;
+    root.res = imresize(res,[ht,wt],'bilinear');
+%end function get_response_map
