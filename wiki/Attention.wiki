@@ -1,7 +1,12 @@
+=Introduction=
 Describes how to install, use and experiment with the Bayesian model of attention
 
 = Installation =
+==Getting the code==
+==Dependencies=
  * You will need a working model of a matlab
  * The code relies upon the BNT-toolbox to perform inference. There is a local copy checked in. However, if you need the latest updates go to http://code.google.com/p/bnt/
 
-= Details =
+=Details=
+=Support=
+Please submit all questions, concerns to http://groups.google.com/group/sharat-code
