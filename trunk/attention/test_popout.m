@@ -3,8 +3,8 @@
 %sharat@mit.edu
 addpath(genpath('~/third_party/BNT'));
 addpath(genpath('~/cbcl-model-matlab'));
-EPS=0.01;
-EPS2=0.01;
+EPS=0.001;
+EPS2=0.001;
 
 SZ= 5; N=SZ*SZ; sigma=.01;
 DELTA = 0;
