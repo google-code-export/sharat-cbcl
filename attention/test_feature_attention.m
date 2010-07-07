@@ -1,10 +1,14 @@
 %--------------------------------------------------
-%
+%demonstrates feature attention properties of the 
+%bayesian model.
 %sharat@mit.edu
+%
 addpath(genpath('~/third_party/BNT'));
 addpath(genpath('~/cbcl-model-matlab'));
-
-SZ= 5; N=SZ*SZ; sigma=.01;
+warning('off','all');
+EPS=0.001;
+EPS2=0.001;
+SZ= 5; N=SZ*SZ; 
 DELTA = 0;
 NDIR  = 4;
 L = 1; F_start=1; C_start=F_start+NDIR;
@@ -41,7 +45,6 @@ for f=1:NDIR
 end;
 %-----------------------------------------------------
 %generate stimulus
-cellSize      =  21;
 RF            =  15;
 
 %------------------------------------------------------
@@ -62,17 +65,13 @@ pF{3}         = {[0.8 0.2],[0.2 0.8],[0.2 0.8],[0.2 0.8]};
 
 
 for input=1:3
-	stim	      =  imfilter(create_stimulus(or{input},NDIR,RF,cellSize),fspecial('gaussian'));
+	stim	      =  imfilter(create_stimulus(or{input},NDIR,RF,RF),fspecial('gaussian'));
 
     c0            =  create_c0(stim,1,1);
 	gabors        =  getGabors(RF,NDIR);
-	for f         =  1:NDIR
-	  c0Patches{f}=  gabors(:,:,f);
-	end;  
-	s1            =  s_norm_filter(c0,c0Patches);s1=s1{1};
-	res           =  zeros(SZ,SZ,NDIR+1);
     for f=1:NDIR
-		res(:,:,f)=blkproc(s1(:,:,f),[cellSize cellSize],inline('max(x(:))'));
+		res(:,:,f)=blkproc(stim,[RF RF],@(x) sum(sum(x.*gabors(:,:,f))));
+        res(:,:,f)=abs(res(:,:,f));
     end;
 	engine  = jtree_inf_engine(bnet);
 	evidence= cell(C_start+NDIR,1);
@@ -136,5 +135,5 @@ subplot(5,3,12+i);
     grid on;
     axis off;
 end;
-
+colormap('gray')
 

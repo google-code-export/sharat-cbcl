@@ -9,6 +9,9 @@ SZ= 5; N=SZ*SZ; sigma=.01;
 dag   = zeros(I_start+N);
 DELTA = 0;
 NDIR  = 4;
+EPS=0.01;
+EPS2=0.01;
+
 %---------------------------
 %connectiveity
 for i=1:N
@@ -28,12 +31,12 @@ for c=1:N
 		    for oval=1:NDIR+1
 			    if(l==c)
                     for cval=1:NDIR+1
-            		   tbl(l,oval,cval) = (cval==oval)*0.99+0.01;
+            		   tbl(l,oval,cval) = (cval==oval)*(1-EPS)+EPS;
 				    end;
                     tbl(l,oval,:)=tbl(l,oval,:)/sum(tbl(l,oval,:));
                 else
                     for cval=1:NDIR+1
-                        tbl(l,oval,cval)= (cval==(NDIR+1))*0.99+0.01;
+                        tbl(l,oval,cval)= (cval==(NDIR+1))*(1-EPS)+EPS;
                     end;
                     tbl(l,oval,:)=tbl(l,oval,:)/sum(tbl(l,oval,:));
                 end;
@@ -65,7 +68,7 @@ for f         =  1:NDIR
   c0Patches{f}=  gabors(:,:,f);
 end;  
 s1            =  s_norm_filter(c0,c0Patches);s1=s1{1};
-res           =  0.01*ones(SZ,SZ,NDIR+1);
+res           =  EPS2*ones(SZ,SZ,NDIR+1);
 if(1)
 for f=1:NDIR
   res(:,:,f)=blkproc(s1(:,:,f),[cellSize cellSize],inline('mean(x(:))'));
