@@ -1,8 +1,7 @@
 =Introduction=
 Describes how to install, use and experiment with the Bayesian model of attention
 
-= Installation =
-==Getting the code==
+=Getting the code=
 You can obtain a read-only version of the code using the following:
 {{{
 svn checkout http://sharat-cbcl.googlecode.com/svn/trunk/attention 
@@ -14,5 +13,13 @@ If you would like to contribute code/bug-fixes as well, please send me an e-mail
  * The code relies upon the BNT-toolbox to perform inference. There is a local copy checked in. However, if you need the latest updates go to http://code.google.com/p/bnt/
 
 =Details=
+The code is organized as follows (as now only code listed here is supported)
+
+*attention/*
+{{{
+test_spatial_invariance.m  Demonstrates spatial invariance properties of the model.
+test_spatial_attention.m   Demonstrates spatial attention in the model.
+test_popout.m              Demonstrates popout using orientation features.
+}}}
 =Support=
 Please submit all questions, concerns to http://groups.google.com/group/sharat-code
