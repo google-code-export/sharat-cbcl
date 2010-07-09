@@ -4,6 +4,12 @@
 
 This is the public domain implementation of  Boris Epshtein's "Feature Hierarchies for Object Classification", ICCV 05. We have tried to make it as faithful to the paper as possible. You'll need to have matlab image processing and neural network toolbox in order to run this code. Training takes about a day's computational time on a dual processor. The code is self-documented and contains a debug flag in each file to switch on visualization. The release should contain the following zip files. 
 
+=Getting the code==
+Use the following to check out the latest version of the code
+{{{
+svn checkout http://sharat-cbcl.googlecode.com/svn/trunk/fragments
+}}}
+
 =Details=
 The following are the main matlab scripts
 {{{
