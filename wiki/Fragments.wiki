@@ -6,12 +6,15 @@ This is the public domain implementation of  Boris Epshtein's "Feature Hierarchi
 
 =Details=
 The following are the main matlab scripts
+{{{
 -----------------------------------------
 hierarchy_demo.m - This file contains an example of how to run the code.
 visualize_tree.m - Presents the contents of the tree hierarchy.
 html_tree.m      - Creates a web-page with tree visualization.
+}}}
 
 The following are helper files that are not directly called by the user. (alphabetical)
+{{{
 ------------------------------------------------------------------------
 cmim                    - Computes mutual information between two variables.
 corr_image              - Computes normalizes cross correlation
@@ -30,7 +33,7 @@ initialize_root         - Initializes the tree. The data structure is documented
 learn_weights           - Backpropagation training for the tree weights.Uses bayesian regularization
 transfer_weights        - Transfer weights from the neural network to the tree
 run_tests               - Computes responses of the tree to a set of images from the given directory
-
+}}}
 
 
 = Support =
