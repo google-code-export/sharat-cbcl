@@ -1,3 +1,4 @@
+#labels Featured
 =Introduction=
 Describes how to install, use and experiment with the Bayesian model of attention
 
@@ -22,4 +23,4 @@ test_spatial_attention.m   Demonstrates spatial attention in the model.
 test_popout.m              Demonstrates popout using orientation features.
 }}}
 =Support=
-Please submit all questions, concerns to http://groups.google.com/group/sharat-code
+Please submit all questions, concerns to http://groups.google.com/group/sharat-code .Please prefix [bayes] to your posts for easier search.
