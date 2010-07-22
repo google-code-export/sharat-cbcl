@@ -1,16 +1,19 @@
 %--------------------------------------------------
-%
+%demonstrates the translation invariance of the 
+%bayesian model.
 %sharat@mit.edu
-addpath(genpath('~/third_party/BNT'));
-addpath(genpath('~/cbcl-model-matlab'));
+addpath(genpath('third_party/BNT'));
+warning('all','off')
+EPS=0.001;
+EPS2=0.001;
 
-SZ= 5; N=SZ*SZ; sigma=.01;
+SZ= 5; N=SZ*SZ; 
 DELTA = 0;
 NDIR  = 4;
 L = 1; F_start=1; C_start=F_start+NDIR;
 dag   = zeros(C_start+NDIR);
 %---------------------------
-%connectiveity
+%connectivity
 for i=1:NDIR
     dag(L,C_start+i)        =1;
     dag(F_start+i,C_start+i)=1;
@@ -27,9 +30,9 @@ for f=1:NDIR
 	  for fval=1:2
             for cval=1:N+1
 			   if(fval==1)
-				 val= 0.99*(cval==l)+0.001;%(fval~=1)*(cval==N+1);
+				 val= (1-EPS)*(cval==l)+EPS;
 			   else
-				 val= 0.99*(cval==N+1)+0.001;
+				 val= (1-EPS)*(cval==N+1)+EPS;
 			   end;
 			   tbl(l,fval,cval)=val;%the last part is
                                     %important for bottom up
@@ -41,44 +44,56 @@ for f=1:NDIR
 end;
 %-----------------------------------------------------
 %generate stimulus
-cellSize      =  21;
-RF            =  15;
+RF            =  17;
 
 %------------------------------------------------------
 %get prior
-pF            = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};
-pL            = ones(SZ,SZ);pL=pL/sum(pL(:)); 
-input=1;
-for xpos=[2 3 4]
-  for ypos=xpos
-	or       	  =  zeros(SZ); if(xpos>0) or(ypos,xpos)=3; end;
-	stim	      =  imfilter(create_stimulus(or,NDIR,RF,cellSize),fspecial('gaussian'));
-	c0            =  create_c0(stim,1,1);
+or            = {};
+pL            = {};
+%change the position of the stimuli
+or{1}         =  zeros(SZ); or{1}(2,2)=1; 
+or{2}         =  zeros(SZ); or{2}(3,3)=1; 
+or{3}         =  zeros(SZ);  or{3}(4,4)=1;
+%set location prior to be uniform
+pL{1}         =  ones(SZ,SZ); pL{1}=pL{1}/sum(pL{1}(:));
+pL{2}         =  ones(SZ,SZ); pL{2}=pL{2}/sum(pL{2}(:));
+pL{3}         =  ones(SZ,SZ); pL{3}=pL{3}/sum(pL{3}(:));
+%set feature prior to be uniform
+pF{1}         = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};
+pF{2}         = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};
+pF{3}         = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};
+
+
+for input=1:3
+    %create stimulus
+	stim	      =  create_stimulus(or{input},NDIR,RF,RF);
 	gabors        =  getGabors(RF,NDIR);
-	for f         =  1:NDIR
-	  c0Patches{f}=  gabors(:,:,f);
-	end;  
-	s1            =  s_norm_filter(c0,c0Patches);s1=s1{1};
 	res           =  zeros(SZ,SZ,NDIR+1);
     for f=1:NDIR
-		res(:,:,f)=blkproc(s1(:,:,f),[cellSize cellSize],inline('max(x(:))'));
+		res(:,:,f)=blkproc(stim,[RF RF],@(x) sum(sum(x.*gabors(:,:,f))));
+        res(:,:,f)=abs(res(:,:,f));
     end;
 	engine  = jtree_inf_engine(bnet);
 	evidence= cell(C_start+NDIR,1);
+    %enter bottom-up evidence
 	sevidence=cell(C_start+NDIR,1);
 	for f=1:NDIR
 	  plane=squeeze(res(:,:,f));
 	  for l=1:N
-		sevidence{C_start+f}(l)=double(max(0,plane(l)>0.9));
+        %the bottom up evidence can be any non-linear function 
+        %of the filter response,the best being a theshold followed
+        %by a sigmoid. here 0.5 is the detection threshold.
+		sevidence{C_start+f}(1:N)=double(max(plane(:)-0.5,0));
 	  end;
-	  sevidence{C_start+f} = sevidence{C_start+f}/sum(sevidence{C_start+f}+0.0001);
-	  sevidence{C_start+f}(N+1)=0.001;
+	  sevidence{C_start+f}(N+1)=EPS2;
 	end;
+    sevidence{L}=pL{input};
     for f=1:NDIR
-        sevidence{F_start+f}=pF{f};
-    end;
-    sevidence{L}=pL;
+        sevidence{F_start+f}=pF{input}{f};
+    end;        
 	engine = enter_evidence(engine,evidence,'soft',sevidence);
+    %if you are using belief propagation engine(checked out from here), then replace
+    %engine=enter_evidence(engine,sevidence);
 	margL=marginal_nodes(engine,L);
 	loc(:,input)      =margL.T;
 	for f=1:NDIR
@@ -88,38 +103,45 @@ for xpos=[2 3 4]
 	stimImage{input}=stim;
 	input=input+1;
 	fprintf('Finished %d\n',input);
-  end;%xpos
 end;%ypos  
 
 figure(2);
-
-for i=1:3;
-subplot(5,3,i);
+%-------------
+%display
+for i=1:3
+subplot(4,3,i);
     imagesc(stimImage{i});
     axis image off;
     grid on;
-
- subplot(5,3,3+i);
-    bar([0.5 0.5 0.5 0.5],'r'); 
+    p=[];   
+     for f=1:NDIR
+       p(f)=pF{i}{f}(1);
+     end;    
+subplot(5,3,3+i);
+    bar(p,'r'); 
     set(gca,'YLim',[0 1]);
     set(gca,'XLim',[0.5 4.5]);
+    set(gca,'XTickLabel','');
     grid on;
-
- subplot(5,3,6+i);
+     
+subplot(5,3,6+i);
     bar(response(1:NDIR,i),'r'); 
     set(gca,'YLim',[0 1]);
     set(gca,'XLim',[0.5 4.5]);
+    set(gca,'XTickLabel','');
     grid on;
 
 subplot(5,3,9+i);
-    imagesc(reshape(pL,[SZ SZ]),[0 0.1]);
+    imagesc(reshape(pL{i},[SZ SZ]),[0 .4]);
     grid on;
     axis off;
-    
+
 subplot(5,3,12+i);
-    imagesc(reshape(loc(:,i),[SZ SZ]),[0 0.75]);
+    imagesc(reshape(loc(:,i),[SZ SZ]),[0 0.4]);
     grid on;
     axis off;
 end;
 
+colormap('gray');
+set(gcf,'color','white');
 

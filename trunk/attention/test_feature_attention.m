@@ -3,8 +3,7 @@
 %bayesian model.
 %sharat@mit.edu
 %
-addpath(genpath('~/third_party/BNT'));
-addpath(genpath('~/cbcl-model-matlab'));
+addpath(genpath('third_party/BNT'));
 warning('off','all');
 EPS=0.001;
 EPS2=0.001;
@@ -31,9 +30,9 @@ for f=1:NDIR
 	  for fval=1:2
             for cval=1:N+1
 			   if(fval==1)
-				 val= 0.99*(cval==l)+0.0001;%(fval~=1)*(cval==N+1);
+				 val= (1-EPS)*(cval==l)+EPS;
 			   else
-				 val= 0.99*(cval==N+1)+0.0001;
+				 val= (1-EPS)*(cval==N+1)+EPS;
 			   end;
 			   tbl(l,fval,cval)=val;%the last part is
                                     %important for bottom up
@@ -66,22 +65,24 @@ pF{3}         = {[0.8 0.2],[0.2 0.8],[0.2 0.8],[0.2 0.8]};
 
 for input=1:3
 	stim	      =  imfilter(create_stimulus(or{input},NDIR,RF,RF),fspecial('gaussian'));
-
-    c0            =  create_c0(stim,1,1);
 	gabors        =  getGabors(RF,NDIR);
-    for f=1:NDIR
+	res           =  zeros(SZ,SZ,NDIR+1);
+	for f=1:NDIR
 		res(:,:,f)=blkproc(stim,[RF RF],@(x) sum(sum(x.*gabors(:,:,f))));
-        res(:,:,f)=abs(res(:,:,f));
-    end;
+	        res(:,:,f)=abs(res(:,:,f));
+    	end;
+
 	engine  = jtree_inf_engine(bnet);
 	evidence= cell(C_start+NDIR,1);
 	sevidence=cell(C_start+NDIR,1);
 	for f=1:NDIR
 	  plane=squeeze(res(:,:,f));
 	  for l=1:N
-		sevidence{C_start+f}(l)=double(max(0,plane(l)>0.9));
-	  end;
-	  sevidence{C_start+f} = sevidence{C_start+f}/sum(sevidence{C_start+f}+0.0001);
+	        %the bottom up evidence can be any non-linear function 
+        %of the filter response,the best being a theshold followed
+        %by a sigmoid. here 0.5 is the detection threshold.
+		sevidence{C_start+f}(1:N)=double(max(plane(:)-0.5,0));
+  	  end;
 	  sevidence{C_start+f}(N+1)=0.001;
 	end;
     sevidence{L}=pL{input};

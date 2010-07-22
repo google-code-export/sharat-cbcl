@@ -1,17 +1,17 @@
 %--------------------------------------------------
-%
+%demonstrates that pop-out is independent of feature
+%identity.
 %sharat@mit.edu
-addpath(genpath('~/third_party/BNT'));
-addpath(genpath('~/cbcl-model-matlab'));
-addpath('~/utils');
+addpath(genpath('third_party/BNT'));
+warning('all','off')
 
-SZ= 5; N=SZ*SZ; sigma=.01;
+SZ= 5; N=SZ*SZ; 
 DELTA = 0;
 NDIR  = 4;
 NCLR  = 3;
 NFTR  = NDIR+NCLR;
-EPS=0.01;
-EPS2=0.01;
+EPS=0.001;
+EPS2=0.001;
 
 L = 1; F_start=1; C_start=F_start+NFTR;
 dag   = zeros(C_start+NFTR);
@@ -33,7 +33,7 @@ for f=1:NFTR
 	  for fval=1:2
             for cval=1:N+1
 			   if(fval==1)
-				 val= (1-EPS)*(cval==l)+EPS;%(fval~=1)*(cval==N+1);
+				 val= (1-EPS)*(cval==l)+EPS;
 			   else
 				 val= (1-EPS)*(cval==N+1)+EPS;
 			   end;
@@ -47,8 +47,7 @@ for f=1:NFTR
 end;
 %-----------------------------------------------------
 %generate stimulus
-cellSize      =  21;
-RF            =  13;
+RF      =  15;
 
 %------------------------------------------------------
 %get prior
@@ -58,46 +57,43 @@ or{1}         = ones(SZ); or{1}(3,3)=3;
 or{2}         = ones(SZ); 
 or{3}         = [1 3 1 3 1; 3 1 3 1 3; 1 3 1 3 1; 3 1 3 1 3;1 3 1 ...
 	            3 1]; or{3}(2,4)=3;
+or{4}         = or{3};
 
-clr{1}         = 2*ones(SZ); %clr{1}(3,3)=1; clr{1}(1,1)=3;
+clr{1}         = 2*ones(SZ); 
 clr{2}        =  2*ones(SZ); clr{2}(3,3)=1; 
 clr{3}         = [1 2 1 2 1; 2 1 2 1 2; 1 2 1 2 1; 2 1 2 1 2;1 2 1 ...
 	            2 1];;
-
+clr{4}        = clr{3};
 pL{1}         =  ones(SZ,SZ); pL{1}=pL{1}/sum(pL{1}(:));
 pL{2}         =  ones(SZ,SZ); pL{2}=pL{2}/sum(pL{2}(:));
 pL{3}         =  ones(SZ,SZ); pL{3}=pL{3}/sum(pL{3}(:));
+pL{4}         =  ones(SZ,SZ); pL{4}=pL{4}/sum(pL{4}(:));
 
 pF{1}         = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};
 pF{2}         = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};
-pF{3}         = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};%{[0.4 0.6],[0.4 0.6],[0.8 0.2],[0.4 0.6],[0.8 0.2],[0.4 0.6],[0.4 0.6]};
+pF{3}         = {[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5],[0.5 0.5]};
+pF{4}         = {[0.5 0.5],[0.5 0.5],[0.8 0.2],[0.5 0.5],[0.8 0.2],[0.5 0.5],[0.5 0.5]};
 
-loc           = zeros(N,3);
-for input=1:3
-	stim	      =  imfilter(create_color_stimulus(or{input},clr{input},NDIR,RF,cellSize),fspecial('gaussian'));
-    c0            =  create_c0(rgb2gray(stim),1,1);
+thresh=zeros(NFTR,1);
+for input=1:length(or)
+	stim	      =  imfilter(create_color_stimulus(or{input},clr{input},NDIR,RF,RF),fspecial('gaussian'));
 	gabors        =  getGabors(RF,NDIR);
-	for f         =  1:NFTR
-	  c0Patches{f}=  gabors(:,:,f);
-	end;  
-	s1            =  s_norm_filter(c0,c0Patches);s1=s1{1};
-	res           =  zeros(SZ,SZ,NFTR+1);
-    for f=1:NDIR
-		res(:,:,f)=blkproc(s1(:,:,f),[cellSize cellSize],inline('max(x(:))'));
+	gaussian      =  fspecial('gaussian',RF,RF/4);
+	res           =  zeros(SZ,SZ,NFTR);
+      for f=1:NDIR
+		res(:,:,f)=blkproc(rgb2gray(stim),[RF RF],@(x) sum(sum(gabors(:,:,f).*x)));
+		thresh(f)=0.8;
 	end;
 	for f=1:NCLR
-	    res(:,:,f+NDIR)=blkproc(stim(:,:,f),[cellSize cellSize],inline('max(x(:))'));
+	    res(:,:,f+NDIR)=blkproc(stim(:,:,f),[RF RF],@(x) 	sum(sum(gaussian.*x))); %average color
+	    thresh(NDIR+f)=0.25; %color and orientation have different dynamic ranges
 	end;
-	res=(res>0.5);%tanh((res-0.3)*3)*0.5+0.5;  
 	engine  = jtree_inf_engine(bnet);
 	evidence= cell(C_start+NFTR,1);
 	sevidence=cell(C_start+NFTR,1);
 	for f=1:NFTR
 	  plane=squeeze(res(:,:,f));
-	  for l=1:N
-		sevidence{C_start+f}(l)=plane(l);%1./(1+exp(-(plane(l)-0.5)*2));%double(max(0,plane(l)>0.5));
-	  end;
-	  sevidence{C_start+f} = sevidence{C_start+f}/sum(sevidence{C_start+f}+0.0001);
+ 	  sevidence{C_start+f}(1:N)=double(plane(:)>=thresh(f));
 	  sevidence{C_start+f}(N+1)=EPS2;
 	end;
     sevidence{L}=pL{input};
@@ -118,8 +114,8 @@ end;%ypos
 
 figure(2);
 
-for i=1:3
-subplot(4,3,i);
+for i=1:length(or)
+subplot(4,4,i);
     imagesc(stimImage{i});
     axis image off;
     grid on;
@@ -127,29 +123,29 @@ subplot(4,3,i);
      for f=1:NFTR
        p(f)=pF{i}{f}(1);
      end;    
-subplot(5,3,3+i);
+subplot(5,4,4+i);
     bar(p,'r'); 
     set(gca,'YLim',[0 1]);
     set(gca,'XLim',[0.5 7.5]);
     set(gca,'XTickLabel','');
     grid on;
      
-subplot(5,3,6+i);
+subplot(5,4,8+i);
     bar(response(1:NFTR,i),'r'); 
     set(gca,'YLim',[0 1]);
     set(gca,'XLim',[0.5 7.5]);
     set(gca,'XTickLabel','');
     grid on;
 
-subplot(5,3,9+i);
-    imagesc(reshape(pL{i},[SZ SZ]),[0 0.5]); 
+subplot(5,4,12+i);
+    imagesc(reshape(pL{i},[SZ SZ]),[0 0.25]); 
     grid on;
     axis off;
 
-subplot(5,3,12+i);
-    imagesc(reshape(loc(:,i),[SZ SZ]),[0 0.5]);
+subplot(5,4,16+i);
+    imagesc(reshape(loc(:,i),[SZ SZ]),[0 0.1]);
     grid on;
     axis off;
 end;
-
+colormap('gray')
 
