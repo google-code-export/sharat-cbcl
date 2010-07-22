@@ -3,7 +3,6 @@
 %bayesian model.
 %sharat@mit.edu
 addpath(genpath('third_party/BNT'));
-addpath(genpath('cbcl-model-matlab'));
 warning('off','all')
 EPS=0.001;
 EPS2=0.001;
@@ -53,7 +52,7 @@ pL            = {};
 %change the position of the stimuli
 or{1}         =  zeros(SZ); or{1}(2,2)=1; or{1}(4,4)=3; 
 or{2}         =  zeros(SZ); or{2}(2,2)=1; or{1}(4,4)=3; 
-or{3}         =  zeros(SZ);  or{3}(4,4)=1;or{1}(4,4)=3; 
+or{3}         =  zeros(SZ);  or{3}(2,2)=1;or{1}(4,4)=3; 
 %set location prior to be non-uniform
 pL{1}         =  ones(SZ,SZ); pL{1}=pL{1}/sum(pL{1}(:));
 pL{2}         =  ones(SZ,SZ); pL{2}(2,2)=100;pL{2}=pL{2}/sum(pL{2}(:));
@@ -68,9 +67,9 @@ for input=1:3
     %create stimulus
 	stim	      =  create_stimulus(or{input},NDIR,RF,RF);
 	gabors        =  getGabors(RF,NDIR);
-	res           =  zeros(SZ,SZ,NDIR+1);
+	res           =  zeros(SZ,SZ,NDIR);
     for f=1:NDIR
-		res(:,:,f)=blkproc(stim,[RF RF],@(x) sum(sum(x.*gabors(:,:,f))));
+	res(:,:,f)=blkproc(stim,[RF RF],@(x) sum(sum(x.*gabors(:,:,f))));
         res(:,:,f)=abs(res(:,:,f));
     end;
 	engine  = jtree_inf_engine(bnet);
@@ -79,12 +78,10 @@ for input=1:3
 	sevidence=cell(C_start+NDIR,1);
 	for f=1:NDIR
 	  plane=squeeze(res(:,:,f));
-	  for l=1:N
         %the bottom up evidence can be any non-linear function 
         %of the filter response,the best being a theshold followed
         %by a sigmoid. here 0.5 is the detection threshold.
-		sevidence{C_start+f}(1:N)=double(max(plane(:)-0.5,0));
-	  end;
+  	  sevidence{C_start+f}(1:N)=double(max(plane(:)-0.5,0));
 	  sevidence{C_start+f}(N+1)=EPS2;
 	end;
     sevidence{L}=pL{input};
@@ -131,12 +128,12 @@ subplot(5,3,6+i);
     grid on;
 
 subplot(5,3,9+i);
-    imagesc(reshape(pL{i},[SZ SZ]),[0 .4]);
+    imagesc(reshape(pL{i},[SZ SZ]),[0 .5]);
     grid on;
     axis off;
 
 subplot(5,3,12+i);
-    imagesc(reshape(loc(:,i),[SZ SZ]),[0 0.4]);
+    imagesc(reshape(loc(:,i),[SZ SZ]),[0 1]);
     grid on;
     axis off;
 end;

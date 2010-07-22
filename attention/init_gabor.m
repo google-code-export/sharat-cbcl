@@ -11,7 +11,7 @@ fSiz             = zeros(numFilters,1);	% vector with filter sizes
 filters          = zeros(max(RF_siz)^2,numFilters);
 
 lambda = 15*2./Div;
-sigma  = RF_siz/6;%lambda.*0.8;
+sigma  = lambda.*0.8;
 G      = 0.5;   % spatial aspect ratio: 0.23 < gamma < 0.92
 
 for k = 1:numFilterSizes  
