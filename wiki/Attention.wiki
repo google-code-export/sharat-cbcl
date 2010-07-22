@@ -21,6 +21,10 @@ The code is organized as follows (as now only code listed here is supported)
 test_spatial_invariance.m  Demonstrates spatial invariance properties of the model.
 test_spatial_attention.m   Demonstrates spatial attention in the model.
 test_popout.m              Demonstrates popout using orientation features.
+test_color_popout.m        Shows that pop-out is independent of feature dimension
+test_feature_attention.m   Demonstrates feature-based attention in the model.
+test_tuning.m              Shows multiplicative modulation under attention
+test_constrast.m           Shows change in contrast response under attention
 }}}
 =Support=
 Please submit all questions, concerns to http://groups.google.com/group/sharat-code .Please prefix [bayes] to your posts for easier search.
