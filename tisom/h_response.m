@@ -1,7 +1,6 @@
 %----------------------------------------------
 %
 %sharat@mit.edu
-%
 function res = h_response(img,model,max_depth)
  if(nargin<3)
    max_depth = length(model);
