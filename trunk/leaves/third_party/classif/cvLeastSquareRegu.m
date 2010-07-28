@@ -4,6 +4,8 @@ function model = cvLeastSquareRegu(Xtr, Y)
 	[cv_set,trn_set] = split_data(Y,3,1);
 	if(1)
 	err =[]; 
+    nPos=sum(Y>0);
+    nNeg=sum(Y<0);
 	sval=logspace(-3,1,5);
 	lval=logspace(-4,-4,1);
 	for s=1:length(sval);
