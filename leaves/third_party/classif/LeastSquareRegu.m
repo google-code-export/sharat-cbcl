@@ -8,7 +8,7 @@ dim    = size(Xtr,1);
 nTrain = length(Ytr);
 
 N      = 2;
-nIter  = 1;
+nIter  = 3;
 
 %% select 2/N prototypes
 
