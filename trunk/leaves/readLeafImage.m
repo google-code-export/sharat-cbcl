@@ -16,6 +16,6 @@ function img=readLeafImage(HOME,filename)
   end;  
   img=imread(fullfile(HOME,filename));
   %resize
-  factor=(300/dpi)/mag
+  factor=(300/dpi)/mag;
   img=imresize(img,factor,'bicubic');
 %function
