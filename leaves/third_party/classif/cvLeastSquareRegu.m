@@ -2,7 +2,7 @@ function model = cvLeastSquareRegu(Xtr, Y)
 	%split the data
 	Y				 = Y(:);
 	[cv_set,trn_set] = split_data(Y,3,1);
-	if(0)
+	if(1)
 	err =[]; 
     nPos=sum(Y>0);
     nNeg=sum(Y<0);
