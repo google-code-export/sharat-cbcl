@@ -7,13 +7,18 @@ function p=basicjob
     %parameters
     p=struct;
     p.func=''
-    p.home='/cbcl/scratch01/sharat/databases/LeavesAll';
+    p.home='imagedb';
     p.holdFraction=0.05; % porition of images used for
                          % learning feature dictionary
-    p.splits=3;          % 
-    p.callback='callback_hist_leaves'; %this function is called 
-                                       %each image in the db
-    p.ftrlen=2;193; %feature length
+    p.splits=2;          % 
+    %this function is called for each image in the db
+    %dummy_function can be used to test
+    p.callback='dummy_function'; 
+    p.ftrlen=2;
+    %use this function as default feature extraction 
+    %p.callback='callback_hist_leaves'; %in code/
+    %p.ftrlen  =193;
+
     p.minCount=100; %classes with fewer than these number of images
                     %are ignored
     p.tasks={};
