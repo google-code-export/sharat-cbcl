@@ -7,8 +7,8 @@ what   = sPARAMS.k;
 dim    = size(Xtr,1);
 nTrain = length(Ytr);
 
-N      = 2;
-nIter  = 3;
+N      = 3;
+nIter  = 1;
 
 %% select 2/N prototypes
 
