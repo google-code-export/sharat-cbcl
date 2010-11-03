@@ -21,7 +21,6 @@ function r=item_fextract(p,a,input)
   %copy fields
   try
       ftr=feval(p.callback,img,a.familyid(a.itemNo),a.orderid(a.itemNo));
-      %ftr=[a.familyid(a.itemNo);a.orderid(a.itemNo)];
       r.X=ftr(:);
       r.good=1;
   catch

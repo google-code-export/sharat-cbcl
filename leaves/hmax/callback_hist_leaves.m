@@ -22,7 +22,7 @@ function ftr=callback_hist_leaves(img,varargin);
     	  end;
 	    end;
     end;
-    ftr=[c1b(:);wt/ht];
+    ftr=[c1b(:)];
     catch
         disp('In callbackhist')
         err=lasterror;

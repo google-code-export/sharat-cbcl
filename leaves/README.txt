@@ -51,12 +51,22 @@ a)homedir.m -This serves as the base folder of the data and result.
 b)datadir.m -Location that contains the leaves database. It is assumed
              that each order is located in a separate folder.
 c)featdir.m -Where the feature vectors are stored (will take lot of storage)            
-Creating and running jobs
+Debug run
+----------
+%Follow setup instructions
+%Set p.callback='dummy_function' in basicjob.m
+cd /path/to/leaves
+startup
+cj trial basic job
+rj trial
+report_results('trial')Creating and running jobs
 Note:
 A simple way of doing it is to create symbolic links in the current folder and retain the defaults.
 ln -s /some/big/folder/data .
 ln -s /some/big/folder/feat .
 ln -s /
+
+Creating new jobs
 --------------------------
 Creating and running jobs requires creating job files (e.g. basicjob.m). Each job consists of several 'tasks' that are executed in order. A task may 
 depend on several jobs in which case its dependants are executed first. Each task may be executed in parallel if it allows it. The DMake framework handles these for you. The programmer's job is to define the task and specify how it is parallelized. For now, basicjob.m provides a suitable template to evalute different features. You can simply change the callback function in that file to evaluate different features. 
@@ -78,4 +88,20 @@ report_results('jobname')
 e.g. report_results('trial') %will display confusion matrix and average
 accuracy for the trial job. 
 
+Writing feature extractors:
+---------------------------
+A new feature extractor can be written by writing a callback function and setting p.callback=newfunction in the job file (e.g. basicjob.m). The function should conform to the following parameters
+  
+  %img=normalized image
+  %ftr=column vector of output features
+  %family,order-provided for debug (DONOT use in feature extraction)
+  function ftr=myfunc(img,family,order)
 
+Classifiers:
+------------
+The classifier to be used can be chosen by setting p.classifier in the job file (e.g. basicjob.m). Currently the following are supported 'rls','libsvm','liblinear'. It is recommended that rls or libsvm be used, since parameters for these are chosen by 3-fold cross validation.
+
+Problems:
+---------
+a)You can startover by issuing DMDeleteJob(jobname) and then calling 
+cj jobname again.

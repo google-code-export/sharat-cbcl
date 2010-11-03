@@ -66,19 +66,34 @@ function r=item_classify(p,a,input)
     try
         trnIdx=a.trnSet{thisSplit};
         tstIdx=a.tstSet{thisSplit};
-
-        sX=max(0.01,std(thisX(:,trnIdx),[],2));
-        %thisX=thisX-repmat(mX(:),1,size(thisX,2));
-        %thisX=diag(1./sX)*thisX;
-        model=cvLeastSquareRegu(thisX(:,trnIdx),thisY(trnIdx));
+        switch(p.classifier)
+            case 'liblinear'
+            thisX=normalize_l2(thisX);
+            model=train(thisY(trnIdx),sparse(thisX(:,trnIdx)),'-B 1','col');
+            case 'rls'
+            model=cvLeastSquareRegu(thisX(:,trnIdx),thisY(trnIdx));
+            case 'libsvm'
+            model=cvsvmtrain(thisY(trnIdx),thisX(:,trnIdx)');
+        end;    
         r.label=thisLabel;
         r.split=thisSplit;
         r.cat  =thisCategory;
         r.m={model};
         %evaluate on test set
-        yhat=LeastSquareReguC(thisX(:,tstIdx),model);
+        switch(p.classifier)
+            case 'liblinear'
+             [bb,b,yhat]=predict(thisY(tstIdx),...
+             sparse(thisX(:,tstIdx)),model,'','col');
+             yhat=-yhat; %idiosyncracy of liblinear (orders by labels)
+            case 'rls'
+             yhat=LeastSquareReguC(thisX(:,tstIdx),model);
+            case 'libsvm' 
+             [bb,b,yhat]=svmpredict(thisY(tstIdx),thisX(:,tstIdx)',model);
+             yhat=yhat*sign(thisY(trnIdx(1)));
+        end;     
         yhat=yhat(:);thisY=thisY(:);
         r.acc=mean(sign(yhat)==thisY(tstIdx));
+        fprintf('Testing accuracy:%f\n',r.acc);
         r.yhat={yhat(:)};
         %make colvectors
         a.y=a.y(:);

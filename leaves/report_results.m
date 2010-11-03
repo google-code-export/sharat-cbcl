@@ -22,5 +22,7 @@ function report(jobname,what)
    set(gca,'YTickLabel',res(s).cat);
    set(gcf,'Name',what)
    rotateticklabel(gca,90);
+   fprintf('What:%s\n',what);
+   fprintf('---------------\n')
    fprintf('Results:%f +- %f\n',mean(diag(mean(C,3))),std(diag(mean(C,3))));
    fprintf('Results:%f +- %f\n',mean(acc),std(acc)/sqrt(3));
