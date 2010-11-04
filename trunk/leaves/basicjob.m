@@ -17,8 +17,8 @@ function p=basicjob
     p.ftrlen=400;
     %use this function as default feature extraction 
     %Alternate: hmax
-    %p.callback='callback_hist_leaves'; %in code/
-    %p.ftrlen  =193;
+    p.callback='callback_hist_leaves'; %in code/
+    p.ftrlen  =192;
     
     p.classifier='libsvm'; %(can be rls,liblinear,libsvm)
                            %recommend rls
