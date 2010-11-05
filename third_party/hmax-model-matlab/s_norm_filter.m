@@ -20,11 +20,12 @@ for b = 1:num_bands
   for p = 1:length(patches)
     patch            = patches{p};
     [pht,pwt,pdir]   = size(patch);
-    res_tmp          = zeros(cht-pht+1,cwt-pwt+1);
-    img2             = zeros(cht-pht+1,cwt-pwt+1);
     if(pht> cht | pwt>cwt) 
+     s{b}(:,:,p)=zeros(cht,cwt);
      continue;
     end;%patch larger than image!
+    res_tmp          = zeros(cht-pht+1,cwt-pwt+1);
+    img2             = zeros(cht-pht+1,cwt-pwt+1);
     for d     = 1:pdir
       img      = c_tmp(:,:,d);
       img2     = img2+conv2(ones(pht,1),ones(pwt,1),img.^2,'valid'); 
