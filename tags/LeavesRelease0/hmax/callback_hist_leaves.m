@@ -7,11 +7,10 @@ function ftr=callback_hist_leaves(img,varargin);
     load('patches_gabor','patches_gabor');
     c0Patches=patches_gabor;
     [ht,wt,ndim]= size(out);
-    img         = rescaleHeight(out,600);
+    img         = rescaleHeight(out,800);
     ftr         = callback_c1_leaves(img,c0Patches);
     c1          = ftr{2};clear ftr;
     c1b = [];
-    try
     for b=1:length(c1)
         chist=c_hist(c1(b),4,3);
     	for x=1:3
@@ -23,10 +22,5 @@ function ftr=callback_hist_leaves(img,varargin);
 	    end;
     end;
     ftr=[c1b(:)];
-    catch
-        disp('In callbackhist')
-        err=lasterror;
-    keyboard;
-    end;
 %
 
