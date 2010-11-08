@@ -20,7 +20,7 @@ for b = 1:num_bands
   for p = 1:length(patches)
     patch            = patches{p};
     [pht,pwt,pdir]   = size(patch);
-    if(pht> cht | pwt>cwt) 
+    if(pht>= cht | pwt>=cwt) 
      s{b}(:,:,p)=zeros(cht,cwt);
      continue;
     end;%patch larger than image!

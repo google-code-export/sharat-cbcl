@@ -28,6 +28,7 @@ function r=item_fextract(p,a,input)
       fprintf('Error!')
       r.X=zeros(p.ftrlen,1);
       r.good=0;
+      keyboard;
   end;
 %end function
 
