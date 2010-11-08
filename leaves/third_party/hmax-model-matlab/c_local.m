@@ -37,10 +37,14 @@ function out  = c_local(s,POOL,STEP,SCALEPOOL,SCALESTEP)
     end;	
     b             = b+1;
   end;
+  %subsample,gaurd for STEP>=size
   for b = 1:BANDS
-    out{b}= out{b}(max(1,floor(POOL/2)+1):STEP:min(end-ceil(POOL/2)+1,size(out{b},1)),...
-                   max(1,floor(POOL/2)+1):STEP:min(end-ceil(POOL/2)+1,size(out{b},2)),...
+    out{b}= out{b}(max(1,floor(POOL/2)+1):STEP:end,...
+                   max(1,floor(POOL/2)+1):STEP:end,...
                    1:size(out{b},3));
+    if(isempty(out{b}))
+        disp('empty!!!')
+    end;    
   end;
 %end function
 
