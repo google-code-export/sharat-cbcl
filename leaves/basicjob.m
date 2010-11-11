@@ -19,7 +19,11 @@ function p=basicjob
     %Alternate: hmax
     p.callback='callback_hist_leaves'; %in code/
     p.ftrlen  =192;
-    
+    %use this function to call pyramidal HoG features
+    %
+    p.callback='call_phog'; %in code/
+    p.ftrlen  =2040;
+    %classifier specificatoin
     p.classifier='libsvm'; %(can be rls,liblinear,libsvm)
                            %recommend rls
     p.minCount=100; %classes with fewer than these number of images
