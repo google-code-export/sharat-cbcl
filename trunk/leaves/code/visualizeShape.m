@@ -5,7 +5,10 @@ end;
 
 for i=1:length(img_set)
     img=imread(img_set{i});
-    img=im2double(rgb2gray(img));
+    if(isrgb(img))
+        img=rgb2gray(img);
+    end;    
+    img=im2double((img));
     img=rescaleHeight(img,800);
     [out,shape,fg]=cleanup(img);
     subplot(1,2,1);imagesc(img);axis image off;colormap('gray');
