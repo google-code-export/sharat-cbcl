@@ -12,10 +12,10 @@ svn checkout http://sharat-cbcl.googlecode.com/svn/trunk/sharat-cbcl/c1-detector
 }}}
 
 ==Running the code =
+{{{
 cd /path/to/c1-detectors
 matlab
 (In matlab)
 addpath(genpath('/path/to/cbcl-model-matlab'))
 demo
-
-
+}}}
