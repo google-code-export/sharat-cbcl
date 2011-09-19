@@ -1,11 +1,11 @@
 function t=all_pairs(varargin)
     t=struct;
-    t.start=@start_classify;
-    t.item=@item_classify;
-    t.combine=@combine_classify;
+    t.start=@start_pairs;
+    t.item=@pair_classify;
+    t.combine=@combine_pair;
 
 %-----------------------------------------------
-function a=start_classify(p,a,input)
+function a=start_pairs(p,a,input)
   disp('Start classify')
   %input X,y,catid,cat,name
   fnames=fieldnames(input);
@@ -34,18 +34,20 @@ function a=start_classify(p,a,input)
   a.count=p.splits*length(uclass);
   a.batchSize=1;
   a.split=[];
-  a.label=[];
+  a.first_label=[];
   idx=1;
   for s=1:p.splits
       for u=1:length(uclass)
+        for v = u+1:length(uclass)
           a.split(idx)=s;
-          a.label(idx)=uclass(u);
-          a.category(idx)=a.family(ui(u));
+          a.first_label(idx)=uclass(u);
+          a.second_label(idx)=uclass(v);
+          a.first_category(idx)=a.family(ui(u));
+          a.second_category(idx)=a.family(ui(u));
           idx=idx+1;
-      end;
+        end; %v
+      end; %u
   end;    
-  try
-  [tstSet,trnSet]=split_data(a.y(:),p.splits);
   catch
   err=lasterror;
   keyboard;
@@ -54,18 +56,22 @@ function a=start_classify(p,a,input)
   a.trnSet=trnSet;
 
 %-----------------------------------------------
-function r=item_classify(p,a,input)
-    thisLabel=a.label(a.itemNo);
+function r=pair_classify(p,a,input)
+    firstLabel=a.first_label(a.itemNo);
+    secondLabel=a.second_label(a.itemNo);
     thisSplit=a.split(a.itemNo);
-    thisCategory=a.category(a.itemNo);
-    thisX=a.X;
-    thisY=a.y(:);
-    thisY(a.y==thisLabel)=1;
-    thisY(a.y~=thisLabel)=-1;
+    firstCategory=a.first_category(a.itemNo);
+    secondCategory=a.second_category(a.itemNo);
+    validIdx = a.y(:)==firstLabel | a.y(:) == secondLabel;
+    thisX=a.X(:,validIdx);
+    thisY=a.y(validIdx);
+    thisY(a.y==firstLabel)=1;
+    thisY(a.y==secondLabel)=-1;
+    [tstSet,trnSet]=split_data(a.y(:),2);
     %copy structure
     try
-        trnIdx=a.trnSet{thisSplit};
-        tstIdx=a.tstSet{thisSplit};
+        trnIdx=a.trnSet{1};
+        tstIdx=a.tstSet{1};
         switch(p.classifier)
             case 'liblinear,'
             thisX=normalize_l2(thisX);
@@ -77,7 +83,8 @@ function r=item_classify(p,a,input)
         end;    
         r.label=thisLabel;
         r.split=thisSplit;
-        r.cat  =thisCategory;
+        r.first_cat  = firstCategory;
+        r.second_cat  = secondCategory;
         r.m={model};
         %evaluate on test set
         switch(p.classifier)
@@ -104,13 +111,14 @@ function r=item_classify(p,a,input)
          keyboard;
      end;    
 %-----------------------------------------------
-function r=combine_classify(p,a,input)
+function r=combine_pair(p,a,input)
   %sort by splits
   for s=1:p.splits
       idx=find(a.items.split==s);
       r.res(s).pred=cell2mat(a.items.yhat(idx));
       r.res(s).gt  =cell2mat(a.items.gt(idx));
-      r.res(s).cat =a.items.cat(idx);
+      r.res(s).first_cat =a.items.first_cat(idx);
+      r.res(s).second_cat =a.items.second_cat(idx);
       r.res(s).label=a.items.label(idx);
   end;    
 
