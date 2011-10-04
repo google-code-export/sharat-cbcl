@@ -31,29 +31,25 @@ function a=start_pairs(p,a,input)
   disp('Creating split')
   %create splits
   [uclass,ui,uj]=unique(a.familyid);
-  a.count=p.splits*length(uclass);
   a.batchSize=1;
   a.split=[];
   a.first_label=[];
-  idx=1;
+  idx=0;
   for s=1:p.splits
+      disp(s)
       for u=1:length(uclass)
-        for v = u+1:length(uclass)
+        for v = (u+1):length(uclass)
+	  idx = idx + 1
           a.split(idx)=s;
           a.first_label(idx)=uclass(u);
           a.second_label(idx)=uclass(v);
           a.first_category(idx)=a.family(ui(u));
-          a.second_category(idx)=a.family(ui(u));
-          idx=idx+1;
+          a.second_category(idx)=a.family(ui(v));
         end; %v
       end; %u
   end;    
-  catch
-  err=lasterror;
+  a.count = idx;
   keyboard;
-  end;
-  a.tstSet=tstSet;
-  a.trnSet=trnSet;
 
 %-----------------------------------------------
 function r=pair_classify(p,a,input)
@@ -62,16 +58,16 @@ function r=pair_classify(p,a,input)
     thisSplit=a.split(a.itemNo);
     firstCategory=a.first_category(a.itemNo);
     secondCategory=a.second_category(a.itemNo);
-    validIdx = a.y(:)==firstLabel | a.y(:) == secondLabel;
+    validIdx = find(a.y(:)==firstLabel | a.y(:) == secondLabel);
     thisX=a.X(:,validIdx);
     thisY=a.y(validIdx);
-    thisY(a.y==firstLabel)=1;
-    thisY(a.y==secondLabel)=-1;
-    [tstSet,trnSet]=split_data(a.y(:),2);
+    thisY = -1*ones(size(thisY));
+    thisY(a.y(validIdx)==firstLabel) = 1;
+    [tstSet,trnSet]=split_data(thisY(:),2);
     %copy structure
     try
-        trnIdx=a.trnSet{1};
-        tstIdx=a.tstSet{1};
+        trnIdx=trnSet{1};
+        tstIdx=tstSet{1};
         switch(p.classifier)
             case 'liblinear,'
             thisX=normalize_l2(thisX);
@@ -81,7 +77,8 @@ function r=pair_classify(p,a,input)
             case 'libsvm'
             model=cvsvmtrain(thisY(trnIdx),thisX(:,trnIdx)');
         end;    
-        r.label=thisLabel;
+        r.first_label=firstLabel;
+        r.second_label=secondLabel;
         r.split=thisSplit;
         r.first_cat  = firstCategory;
         r.second_cat  = secondCategory;
@@ -115,10 +112,10 @@ function r=combine_pair(p,a,input)
   %sort by splits
   for s=1:p.splits
       idx=find(a.items.split==s);
-      r.res(s).pred=cell2mat(a.items.yhat(idx));
-      r.res(s).gt  =cell2mat(a.items.gt(idx));
       r.res(s).first_cat =a.items.first_cat(idx);
       r.res(s).second_cat =a.items.second_cat(idx);
-      r.res(s).label=a.items.label(idx);
+      r.res(s).first_label=a.items.first_label(idx);
+      r.res(s).second_label=a.items.second_label(idx);
+      r.res(s).acc = a.items.acc(idx);
   end;    
 
