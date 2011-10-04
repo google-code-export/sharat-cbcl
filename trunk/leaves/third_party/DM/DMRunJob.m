@@ -79,7 +79,7 @@ GetTaskList(buildNames, options.buildDepends, extra);
 
 if ~exist(PermPath, 'dir'), mkdir(PermPath); end
 if Separate && ~exist(WorkPath, 'dir'), mkdir(WorkPath); end
-
+disp('starting log')
 StartLog(options.logFileName, options.runFilePath);
 
 ResultStages = repmat(-1      , 1, numel(Tasks));

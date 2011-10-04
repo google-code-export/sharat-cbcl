@@ -7,24 +7,24 @@ function p=basicjob
     %parameters
     p=struct;
     p.func=''
-    p.home='imagedb';
+    p.home=datadir;
     p.holdFraction=0.05; % porition of images used for
                          % learning feature dictionary
-    p.splits=3;          % 
+    p.splits=10;          % 
     %this function is called for each image in the db
     %dummy_function can be used to test
-    p.callback='dummy_function'; 
-    p.ftrlen=400;
+    %p.callback='dummy_function'; 
+    %p.ftrlen=400;
     %use this function as default feature extraction 
     %Alternate: hmax
     p.callback='callback_hist_leaves'; %in code/
     p.ftrlen  =192;
     %use this function to call pyramidal HoG features
     %
-    p.callback='call_phog'; %in code/
-    p.ftrlen  =2040;
+    %p.callback='call_phog'; %in code/
+    %p.ftrlen  =2040;
     %classifier specificatoin
-    p.classifier='libsvm'; %(can be rls,liblinear,libsvm)
+    p.classifier='rls'; %(can be rls,liblinear,libsvm)
                            %recommend rls
     p.minCount=100; %classes with fewer than these number of images
                     %are ignored
@@ -73,4 +73,12 @@ function p=basicjob
     t.depends={'fextract'};
     p.tasks{end+1}=t;
 
+    %get pairwise classification
+    t=struct;
+    t.name='pairs'
+    t.args=struct
+    t.func='all_pairs'
+    t.depends={'fextract'}
+    p.tasks{end+1}=t
+   
 
