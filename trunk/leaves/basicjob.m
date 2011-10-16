@@ -64,12 +64,28 @@ function p=basicjob
     t.depends={'fextract'};
     p.tasks{end+1}=t;
 
+    %classification by family
+    t=struct;
+    t.name='randomFamily';
+    t.args=struct;
+    t.func='random_family'
+    t.depends={'fextract'};
+    p.tasks{end+1}=t;
+
 
     %classification by order
     t=struct;
     t.name='order';
     t.args=struct;
     t.func='classify_order'
+    t.depends={'fextract'};
+    p.tasks{end+1}=t;
+
+    %classification by order
+    t=struct;
+    t.name='randomOrder';
+    t.args=struct;
+    t.func='random_order'
     t.depends={'fextract'};
     p.tasks{end+1}=t;
 
