@@ -10,6 +10,7 @@ function p=basicjob
     p.home=datadir;
     p.holdFraction=0.05; % porition of images used for
                          % learning feature dictionary
+    fprintf('Home:%s\n',p.home)
     p.splits=10;          % 
     %this function is called for each image in the db
     %dummy_function can be used to test

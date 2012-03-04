@@ -30,6 +30,7 @@ function a=start_split(p,a)
  a.batchSize=100;
  a.count=length(files);
  a.files={files.name};
+ fprintf('%d files being processed\n',a.count)
  %get hold off set
  randIdx=randperm(a.count);
  a.isHold=zeros(1,a.count);
