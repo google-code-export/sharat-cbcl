@@ -1,0 +1,1141 @@
+---------------------
+Pair wise measure(pairwise_lda_separability):
+---------------------
+Anacardiaceae,Annonaceae:0.032121 +- 0.000366
+Anacardiaceae,Apocynaceae:0.022491 +- 0.000517
+Anacardiaceae,Betulaceae:0.263952 +- 0.016338
+Anacardiaceae,Celastraceae:0.146185 +- 0.003795
+Anacardiaceae,Combretaceae:0.085813 +- 0.003339
+Anacardiaceae,Ericaceae:0.080690 +- 0.002081
+Anacardiaceae,Fabaceae:0.010253 +- 0.000110
+Anacardiaceae,Fagaceae:0.069270 +- 0.002667
+Anacardiaceae,Lauraceae:0.046834 +- 0.000799
+Anacardiaceae,Malvaceae:0.050511 +- 0.001759
+Anacardiaceae,Melastomataceae:0.237536 +- 0.007290
+Anacardiaceae,Myrtaceae:0.024218 +- 0.000361
+Anacardiaceae,Passifloraceae:0.259407 +- 0.010138
+Anacardiaceae,Phyllanthaceae:0.038790 +- 0.000595
+Anacardiaceae,Rosaceae:0.054588 +- 0.001118
+Anacardiaceae,Rubiaceae:0.023962 +- 0.000315
+Anacardiaceae,Salicaceae:0.022034 +- 0.000280
+Anacardiaceae,Sapindaceae:0.040369 +- 0.000631
+Annonaceae,Apocynaceae:0.027600 +- 0.000341
+Annonaceae,Betulaceae:0.138340 +- 0.002034
+Annonaceae,Celastraceae:0.047543 +- 0.000676
+Annonaceae,Combretaceae:0.030604 +- 0.000459
+Annonaceae,Ericaceae:0.054091 +- 0.000910
+Annonaceae,Fabaceae:0.017010 +- 0.000088
+Annonaceae,Fagaceae:0.048421 +- 0.000371
+Annonaceae,Lauraceae:0.011567 +- 0.000085
+Annonaceae,Malvaceae:0.033019 +- 0.000263
+Annonaceae,Melastomataceae:0.065635 +- 0.000855
+Annonaceae,Myrtaceae:0.022103 +- 0.000215
+Annonaceae,Passifloraceae:0.052712 +- 0.000543
+Annonaceae,Phyllanthaceae:0.017564 +- 0.000156
+Annonaceae,Rosaceae:0.051052 +- 0.000738
+Annonaceae,Rubiaceae:0.025990 +- 0.000186
+Annonaceae,Salicaceae:0.019361 +- 0.000113
+Annonaceae,Sapindaceae:0.039071 +- 0.000403
+Apocynaceae,Betulaceae:0.089092 +- 0.001448
+Apocynaceae,Celastraceae:0.027482 +- 0.000546
+Apocynaceae,Combretaceae:0.031861 +- 0.000702
+Apocynaceae,Ericaceae:0.028749 +- 0.000384
+Apocynaceae,Fabaceae:0.005685 +- 0.000034
+Apocynaceae,Fagaceae:0.034269 +- 0.000352
+Apocynaceae,Lauraceae:0.026464 +- 0.000204
+Apocynaceae,Malvaceae:0.020557 +- 0.000319
+Apocynaceae,Melastomataceae:0.072176 +- 0.000922
+Apocynaceae,Myrtaceae:0.012278 +- 0.000105
+Apocynaceae,Passifloraceae:0.059880 +- 0.001072
+Apocynaceae,Phyllanthaceae:0.024379 +- 0.000236
+Apocynaceae,Rosaceae:0.032403 +- 0.000383
+Apocynaceae,Rubiaceae:0.013693 +- 0.000163
+Apocynaceae,Salicaceae:0.009330 +- 0.000106
+Apocynaceae,Sapindaceae:0.026786 +- 0.000477
+Betulaceae,Celastraceae:0.271903 +- 0.011706
+Betulaceae,Combretaceae:0.277763 +- 0.009259
+Betulaceae,Ericaceae:0.266908 +- 0.007378
+Betulaceae,Fabaceae:0.022790 +- 0.000150
+Betulaceae,Fagaceae:0.089233 +- 0.001644
+Betulaceae,Lauraceae:0.124697 +- 0.000909
+Betulaceae,Malvaceae:0.072288 +- 0.001426
+Betulaceae,Melastomataceae:0.458415 +- 0.014439
+Betulaceae,Myrtaceae:0.085883 +- 0.000994
+Betulaceae,Passifloraceae:0.571188 +- 0.022292
+Betulaceae,Phyllanthaceae:0.125879 +- 0.001084
+Betulaceae,Rosaceae:0.050537 +- 0.001192
+Betulaceae,Rubiaceae:0.052776 +- 0.000365
+Betulaceae,Salicaceae:0.037225 +- 0.000324
+Betulaceae,Sapindaceae:0.061918 +- 0.000886
+Celastraceae,Combretaceae:0.089175 +- 0.003452
+Celastraceae,Ericaceae:0.042201 +- 0.001130
+Celastraceae,Fabaceae:0.008143 +- 0.000100
+Celastraceae,Fagaceae:0.090640 +- 0.002741
+Celastraceae,Lauraceae:0.045183 +- 0.000706
+Celastraceae,Malvaceae:0.067108 +- 0.001716
+Celastraceae,Melastomataceae:0.213395 +- 0.007040
+Celastraceae,Myrtaceae:0.025096 +- 0.000314
+Celastraceae,Passifloraceae:0.223515 +- 0.012385
+Celastraceae,Phyllanthaceae:0.051022 +- 0.000663
+Celastraceae,Rosaceae:0.038205 +- 0.000910
+Celastraceae,Rubiaceae:0.013939 +- 0.000186
+Celastraceae,Salicaceae:0.012017 +- 0.000068
+Celastraceae,Sapindaceae:0.049324 +- 0.000619
+Combretaceae,Ericaceae:0.070739 +- 0.001072
+Combretaceae,Fabaceae:0.014873 +- 0.000124
+Combretaceae,Fagaceae:0.084246 +- 0.001542
+Combretaceae,Lauraceae:0.025600 +- 0.000529
+Combretaceae,Malvaceae:0.052301 +- 0.001176
+Combretaceae,Melastomataceae:0.124771 +- 0.003359
+Combretaceae,Myrtaceae:0.021465 +- 0.000296
+Combretaceae,Passifloraceae:0.102225 +- 0.002094
+Combretaceae,Phyllanthaceae:0.015474 +- 0.000171
+Combretaceae,Rosaceae:0.061284 +- 0.000869
+Combretaceae,Rubiaceae:0.027510 +- 0.000213
+Combretaceae,Salicaceae:0.013316 +- 0.000207
+Combretaceae,Sapindaceae:0.068311 +- 0.000669
+Ericaceae,Fabaceae:0.006129 +- 0.000048
+Ericaceae,Fagaceae:0.073657 +- 0.001634
+Ericaceae,Lauraceae:0.054349 +- 0.000757
+Ericaceae,Malvaceae:0.058504 +- 0.001140
+Ericaceae,Melastomataceae:0.121545 +- 0.002259
+Ericaceae,Myrtaceae:0.022436 +- 0.000234
+Ericaceae,Passifloraceae:0.269453 +- 0.003107
+Ericaceae,Phyllanthaceae:0.038200 +- 0.000493
+Ericaceae,Rosaceae:0.043957 +- 0.000994
+Ericaceae,Rubiaceae:0.021111 +- 0.000226
+Ericaceae,Salicaceae:0.013333 +- 0.000167
+Ericaceae,Sapindaceae:0.057777 +- 0.000864
+Fabaceae,Fagaceae:0.011005 +- 0.000074
+Fabaceae,Lauraceae:0.018497 +- 0.000110
+Fabaceae,Malvaceae:0.007690 +- 0.000060
+Fabaceae,Melastomataceae:0.036356 +- 0.000188
+Fabaceae,Myrtaceae:0.009293 +- 0.000054
+Fabaceae,Passifloraceae:0.031151 +- 0.000233
+Fabaceae,Phyllanthaceae:0.015601 +- 0.000066
+Fabaceae,Rosaceae:0.008398 +- 0.000065
+Fabaceae,Rubiaceae:0.008715 +- 0.000038
+Fabaceae,Salicaceae:0.004986 +- 0.000018
+Fabaceae,Sapindaceae:0.013510 +- 0.000080
+Fagaceae,Lauraceae:0.042315 +- 0.000500
+Fagaceae,Malvaceae:0.045677 +- 0.000779
+Fagaceae,Melastomataceae:0.186767 +- 0.003565
+Fagaceae,Myrtaceae:0.031419 +- 0.000307
+Fagaceae,Passifloraceae:0.169643 +- 0.003371
+Fagaceae,Phyllanthaceae:0.041089 +- 0.000437
+Fagaceae,Rosaceae:0.038180 +- 0.001062
+Fagaceae,Rubiaceae:0.018865 +- 0.000251
+Fagaceae,Salicaceae:0.019725 +- 0.000146
+Fagaceae,Sapindaceae:0.028331 +- 0.000464
+Lauraceae,Malvaceae:0.031880 +- 0.000362
+Lauraceae,Melastomataceae:0.054322 +- 0.000805
+Lauraceae,Myrtaceae:0.021766 +- 0.000187
+Lauraceae,Passifloraceae:0.045241 +- 0.000764
+Lauraceae,Phyllanthaceae:0.011234 +- 0.000105
+Lauraceae,Rosaceae:0.047024 +- 0.000429
+Lauraceae,Rubiaceae:0.024023 +- 0.000170
+Lauraceae,Salicaceae:0.013785 +- 0.000086
+Lauraceae,Sapindaceae:0.042779 +- 0.000402
+Malvaceae,Melastomataceae:0.108557 +- 0.002454
+Malvaceae,Myrtaceae:0.027754 +- 0.000409
+Malvaceae,Passifloraceae:0.075570 +- 0.002621
+Malvaceae,Phyllanthaceae:0.025632 +- 0.000285
+Malvaceae,Rosaceae:0.033530 +- 0.000657
+Malvaceae,Rubiaceae:0.021860 +- 0.000162
+Malvaceae,Salicaceae:0.011748 +- 0.000169
+Malvaceae,Sapindaceae:0.027926 +- 0.000346
+Melastomataceae,Myrtaceae:0.038873 +- 0.000349
+Melastomataceae,Passifloraceae:0.211591 +- 0.008934
+Melastomataceae,Phyllanthaceae:0.037137 +- 0.000821
+Melastomataceae,Rosaceae:0.139598 +- 0.002177
+Melastomataceae,Rubiaceae:0.065982 +- 0.000449
+Melastomataceae,Salicaceae:0.032746 +- 0.000208
+Melastomataceae,Sapindaceae:0.116324 +- 0.001621
+Myrtaceae,Passifloraceae:0.029792 +- 0.000560
+Myrtaceae,Phyllanthaceae:0.013204 +- 0.000176
+Myrtaceae,Rosaceae:0.025840 +- 0.000243
+Myrtaceae,Rubiaceae:0.015932 +- 0.000125
+Myrtaceae,Salicaceae:0.007209 +- 0.000061
+Myrtaceae,Sapindaceae:0.026242 +- 0.000177
+Passifloraceae,Phyllanthaceae:0.028139 +- 0.000251
+Passifloraceae,Rosaceae:0.132208 +- 0.003626
+Passifloraceae,Rubiaceae:0.049958 +- 0.000323
+Passifloraceae,Salicaceae:0.021811 +- 0.000273
+Passifloraceae,Sapindaceae:0.093830 +- 0.001163
+Phyllanthaceae,Rosaceae:0.046450 +- 0.000554
+Phyllanthaceae,Rubiaceae:0.033554 +- 0.000219
+Phyllanthaceae,Salicaceae:0.009881 +- 0.000067
+Phyllanthaceae,Sapindaceae:0.056636 +- 0.000435
+Rosaceae,Rubiaceae:0.016895 +- 0.000194
+Rosaceae,Salicaceae:0.013555 +- 0.000191
+Rosaceae,Sapindaceae:0.024687 +- 0.000210
+Rubiaceae,Salicaceae:0.008645 +- 0.000049
+Rubiaceae,Sapindaceae:0.012931 +- 0.000157
+Salicaceae,Sapindaceae:0.018715 +- 0.000126
+---------------------
+Pair wise measure(pairwise_lda_separability):
+---------------------
+Anacardiaceae,Annonaceae:0.032121 +- 0.000366
+Anacardiaceae,Apocynaceae:0.022491 +- 0.000517
+Anacardiaceae,Betulaceae:0.263952 +- 0.016338
+Anacardiaceae,Celastraceae:0.146185 +- 0.003795
+Anacardiaceae,Combretaceae:0.085813 +- 0.003339
+Anacardiaceae,Ericaceae:0.080690 +- 0.002081
+Anacardiaceae,Fabaceae:0.010253 +- 0.000110
+Anacardiaceae,Fagaceae:0.069270 +- 0.002667
+Anacardiaceae,Lauraceae:0.046834 +- 0.000799
+Anacardiaceae,Malvaceae:0.050511 +- 0.001759
+Anacardiaceae,Melastomataceae:0.237536 +- 0.007290
+Anacardiaceae,Myrtaceae:0.024218 +- 0.000361
+Anacardiaceae,Passifloraceae:0.259407 +- 0.010138
+Anacardiaceae,Phyllanthaceae:0.038790 +- 0.000595
+Anacardiaceae,Rosaceae:0.054588 +- 0.001118
+Anacardiaceae,Rubiaceae:0.023962 +- 0.000315
+Anacardiaceae,Salicaceae:0.022034 +- 0.000280
+Anacardiaceae,Sapindaceae:0.040369 +- 0.000631
+Annonaceae,Apocynaceae:0.027600 +- 0.000341
+Annonaceae,Betulaceae:0.138340 +- 0.002034
+Annonaceae,Celastraceae:0.047543 +- 0.000676
+Annonaceae,Combretaceae:0.030604 +- 0.000459
+Annonaceae,Ericaceae:0.054091 +- 0.000910
+Annonaceae,Fabaceae:0.017010 +- 0.000088
+Annonaceae,Fagaceae:0.048421 +- 0.000371
+Annonaceae,Lauraceae:0.011567 +- 0.000085
+Annonaceae,Malvaceae:0.033019 +- 0.000263
+Annonaceae,Melastomataceae:0.065635 +- 0.000855
+Annonaceae,Myrtaceae:0.022103 +- 0.000215
+Annonaceae,Passifloraceae:0.052712 +- 0.000543
+Annonaceae,Phyllanthaceae:0.017564 +- 0.000156
+Annonaceae,Rosaceae:0.051052 +- 0.000738
+Annonaceae,Rubiaceae:0.025990 +- 0.000186
+Annonaceae,Salicaceae:0.019361 +- 0.000113
+Annonaceae,Sapindaceae:0.039071 +- 0.000403
+Apocynaceae,Betulaceae:0.089092 +- 0.001448
+Apocynaceae,Celastraceae:0.027482 +- 0.000546
+Apocynaceae,Combretaceae:0.031861 +- 0.000702
+Apocynaceae,Ericaceae:0.028749 +- 0.000384
+Apocynaceae,Fabaceae:0.005685 +- 0.000034
+Apocynaceae,Fagaceae:0.034269 +- 0.000352
+Apocynaceae,Lauraceae:0.026464 +- 0.000204
+Apocynaceae,Malvaceae:0.020557 +- 0.000319
+Apocynaceae,Melastomataceae:0.072176 +- 0.000922
+Apocynaceae,Myrtaceae:0.012278 +- 0.000105
+Apocynaceae,Passifloraceae:0.059880 +- 0.001072
+Apocynaceae,Phyllanthaceae:0.024379 +- 0.000236
+Apocynaceae,Rosaceae:0.032403 +- 0.000383
+Apocynaceae,Rubiaceae:0.013693 +- 0.000163
+Apocynaceae,Salicaceae:0.009330 +- 0.000106
+Apocynaceae,Sapindaceae:0.026786 +- 0.000477
+Betulaceae,Celastraceae:0.271903 +- 0.011706
+Betulaceae,Combretaceae:0.277763 +- 0.009259
+Betulaceae,Ericaceae:0.266908 +- 0.007378
+Betulaceae,Fabaceae:0.022790 +- 0.000150
+Betulaceae,Fagaceae:0.089233 +- 0.001644
+Betulaceae,Lauraceae:0.124697 +- 0.000909
+Betulaceae,Malvaceae:0.072288 +- 0.001426
+Betulaceae,Melastomataceae:0.458415 +- 0.014439
+Betulaceae,Myrtaceae:0.085883 +- 0.000994
+Betulaceae,Passifloraceae:0.571188 +- 0.022292
+Betulaceae,Phyllanthaceae:0.125879 +- 0.001084
+Betulaceae,Rosaceae:0.050537 +- 0.001192
+Betulaceae,Rubiaceae:0.052776 +- 0.000365
+Betulaceae,Salicaceae:0.037225 +- 0.000324
+Betulaceae,Sapindaceae:0.061918 +- 0.000886
+Celastraceae,Combretaceae:0.089175 +- 0.003452
+Celastraceae,Ericaceae:0.042201 +- 0.001130
+Celastraceae,Fabaceae:0.008143 +- 0.000100
+Celastraceae,Fagaceae:0.090640 +- 0.002741
+Celastraceae,Lauraceae:0.045183 +- 0.000706
+Celastraceae,Malvaceae:0.067108 +- 0.001716
+Celastraceae,Melastomataceae:0.213395 +- 0.007040
+Celastraceae,Myrtaceae:0.025096 +- 0.000314
+Celastraceae,Passifloraceae:0.223515 +- 0.012385
+Celastraceae,Phyllanthaceae:0.051022 +- 0.000663
+Celastraceae,Rosaceae:0.038205 +- 0.000910
+Celastraceae,Rubiaceae:0.013939 +- 0.000186
+Celastraceae,Salicaceae:0.012017 +- 0.000068
+Celastraceae,Sapindaceae:0.049324 +- 0.000619
+Combretaceae,Ericaceae:0.070739 +- 0.001072
+Combretaceae,Fabaceae:0.014873 +- 0.000124
+Combretaceae,Fagaceae:0.084246 +- 0.001542
+Combretaceae,Lauraceae:0.025600 +- 0.000529
+Combretaceae,Malvaceae:0.052301 +- 0.001176
+Combretaceae,Melastomataceae:0.124771 +- 0.003359
+Combretaceae,Myrtaceae:0.021465 +- 0.000296
+Combretaceae,Passifloraceae:0.102225 +- 0.002094
+Combretaceae,Phyllanthaceae:0.015474 +- 0.000171
+Combretaceae,Rosaceae:0.061284 +- 0.000869
+Combretaceae,Rubiaceae:0.027510 +- 0.000213
+Combretaceae,Salicaceae:0.013316 +- 0.000207
+Combretaceae,Sapindaceae:0.068311 +- 0.000669
+Ericaceae,Fabaceae:0.006129 +- 0.000048
+Ericaceae,Fagaceae:0.073657 +- 0.001634
+Ericaceae,Lauraceae:0.054349 +- 0.000757
+Ericaceae,Malvaceae:0.058504 +- 0.001140
+Ericaceae,Melastomataceae:0.121545 +- 0.002259
+Ericaceae,Myrtaceae:0.022436 +- 0.000234
+Ericaceae,Passifloraceae:0.269453 +- 0.003107
+Ericaceae,Phyllanthaceae:0.038200 +- 0.000493
+Ericaceae,Rosaceae:0.043957 +- 0.000994
+Ericaceae,Rubiaceae:0.021111 +- 0.000226
+Ericaceae,Salicaceae:0.013333 +- 0.000167
+Ericaceae,Sapindaceae:0.057777 +- 0.000864
+Fabaceae,Fagaceae:0.011005 +- 0.000074
+Fabaceae,Lauraceae:0.018497 +- 0.000110
+Fabaceae,Malvaceae:0.007690 +- 0.000060
+Fabaceae,Melastomataceae:0.036356 +- 0.000188
+Fabaceae,Myrtaceae:0.009293 +- 0.000054
+Fabaceae,Passifloraceae:0.031151 +- 0.000233
+Fabaceae,Phyllanthaceae:0.015601 +- 0.000066
+Fabaceae,Rosaceae:0.008398 +- 0.000065
+Fabaceae,Rubiaceae:0.008715 +- 0.000038
+Fabaceae,Salicaceae:0.004986 +- 0.000018
+Fabaceae,Sapindaceae:0.013510 +- 0.000080
+Fagaceae,Lauraceae:0.042315 +- 0.000500
+Fagaceae,Malvaceae:0.045677 +- 0.000779
+Fagaceae,Melastomataceae:0.186767 +- 0.003565
+Fagaceae,Myrtaceae:0.031419 +- 0.000307
+Fagaceae,Passifloraceae:0.169643 +- 0.003371
+Fagaceae,Phyllanthaceae:0.041089 +- 0.000437
+Fagaceae,Rosaceae:0.038180 +- 0.001062
+Fagaceae,Rubiaceae:0.018865 +- 0.000251
+Fagaceae,Salicaceae:0.019725 +- 0.000146
+Fagaceae,Sapindaceae:0.028331 +- 0.000464
+Lauraceae,Malvaceae:0.031880 +- 0.000362
+Lauraceae,Melastomataceae:0.054322 +- 0.000805
+Lauraceae,Myrtaceae:0.021766 +- 0.000187
+Lauraceae,Passifloraceae:0.045241 +- 0.000764
+Lauraceae,Phyllanthaceae:0.011234 +- 0.000105
+Lauraceae,Rosaceae:0.047024 +- 0.000429
+Lauraceae,Rubiaceae:0.024023 +- 0.000170
+Lauraceae,Salicaceae:0.013785 +- 0.000086
+Lauraceae,Sapindaceae:0.042779 +- 0.000402
+Malvaceae,Melastomataceae:0.108557 +- 0.002454
+Malvaceae,Myrtaceae:0.027754 +- 0.000409
+Malvaceae,Passifloraceae:0.075570 +- 0.002621
+Malvaceae,Phyllanthaceae:0.025632 +- 0.000285
+Malvaceae,Rosaceae:0.033530 +- 0.000657
+Malvaceae,Rubiaceae:0.021860 +- 0.000162
+Malvaceae,Salicaceae:0.011748 +- 0.000169
+Malvaceae,Sapindaceae:0.027926 +- 0.000346
+Melastomataceae,Myrtaceae:0.038873 +- 0.000349
+Melastomataceae,Passifloraceae:0.211591 +- 0.008934
+Melastomataceae,Phyllanthaceae:0.037137 +- 0.000821
+Melastomataceae,Rosaceae:0.139598 +- 0.002177
+Melastomataceae,Rubiaceae:0.065982 +- 0.000449
+Melastomataceae,Salicaceae:0.032746 +- 0.000208
+Melastomataceae,Sapindaceae:0.116324 +- 0.001621
+Myrtaceae,Passifloraceae:0.029792 +- 0.000560
+Myrtaceae,Phyllanthaceae:0.013204 +- 0.000176
+Myrtaceae,Rosaceae:0.025840 +- 0.000243
+Myrtaceae,Rubiaceae:0.015932 +- 0.000125
+Myrtaceae,Salicaceae:0.007209 +- 0.000061
+Myrtaceae,Sapindaceae:0.026242 +- 0.000177
+Passifloraceae,Phyllanthaceae:0.028139 +- 0.000251
+Passifloraceae,Rosaceae:0.132208 +- 0.003626
+Passifloraceae,Rubiaceae:0.049958 +- 0.000323
+Passifloraceae,Salicaceae:0.021811 +- 0.000273
+Passifloraceae,Sapindaceae:0.093830 +- 0.001163
+Phyllanthaceae,Rosaceae:0.046450 +- 0.000554
+Phyllanthaceae,Rubiaceae:0.033554 +- 0.000219
+Phyllanthaceae,Salicaceae:0.009881 +- 0.000067
+Phyllanthaceae,Sapindaceae:0.056636 +- 0.000435
+Rosaceae,Rubiaceae:0.016895 +- 0.000194
+Rosaceae,Salicaceae:0.013555 +- 0.000191
+Rosaceae,Sapindaceae:0.024687 +- 0.000210
+Rubiaceae,Salicaceae:0.008645 +- 0.000049
+Rubiaceae,Sapindaceae:0.012931 +- 0.000157
+Salicaceae,Sapindaceae:0.018715 +- 0.000126
+imagesc(confusion_matrix)
+imagesc(1./confusion_matrix)
+colorbar
+imagesc(exp(confusion_matrix))
+imagesc(exp(-confusion_matrix))
+imagesc(exp(-confusion_matrix.^2))
+imagesc(exp(-confusion_matrix))
+imagesc(1.^(-confusion_matrix))
+imagesc(1./-confusion_matrix)
+imagesc(1./confusion_matrix)
+confusion_matrix(1)
+
+ans =
+
+     0
+
+confusion_matrix(1,:)
+
+ans =
+
+  Columns 1 through 12
+
+         0    0.0321    0.0225    0.2640    0.1462    0.0858    0.0807    0.0103    0.0693    0.0468    0.0505    0.2375
+
+  Columns 13 through 18
+
+    0.0242    0.2594    0.0388    0.0546    0.0240    0.0220
+
+1./confusion_matrix(1,:)
+
+ans =
+
+  Columns 1 through 12
+
+       Inf   31.1325   44.4622    3.7886    6.8407   11.6532   12.3931   97.5284   14.4362   21.3522   19.7977    4.2099
+
+  Columns 13 through 18
+
+   41.2918    3.8549   25.7799   18.3190   41.7333   45.3849
+
+confusion_matrix=confusion_matrix + eye(sizeof(confusion_matrix))*1e-2;
+{Error using <a href="matlab:helpUtils.errorDocCallback('keyboard')" style="font-weight:bold">keyboard</a>
+Undefined function 'sizeof' for input arguments of type 'double'.
+} 
+confusion_matrix=confusion_matrix + eye(size(confusion_matrix))*1e-2;
+imagesc(1./confusion_matrix)
+close all;
+imagesc(1./confusion_matrix)
+imagesc(1./confusion_matrix.^2)
+uniq_cat
+
+uniq_cat = 
+
+  Columns 1 through 7
+
+    'Anacardiaceae'    'Annonaceae'    'Apocynaceae'    'Betulaceae'    'Celastraceae'    'Combretaceae'    'Ericaceae'
+
+  Columns 8 through 14
+
+    'Fabaceae'    'Fagaceae'    'Lauraceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'
+
+  Columns 15 through 18
+
+    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'
+
+length(res(1).cat)
+{Reference to non-existent field 'cat'.
+} 
+res
+
+res = 
+
+1x10 struct array with fields:
+    first_cat
+    second_cat
+    first_label
+    second_label
+    acc
+
+length(res(1).first_cat)
+
+ans =
+
+   171
+
+19*18
+
+ans =
+
+   342
+
+19*18/2
+
+ans =
+
+   171
+
+cat(1,res(1).first_cat, res(1).second_cat)
+
+ans = 
+
+  Columns 1 through 6
+
+    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'
+    'Annonaceae'       'Apocynaceae'      'Betulaceae'       'Celastraceae'     'Combretaceae'     'Ericaceae'    
+
+  Columns 7 through 12
+
+    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'      'Anacardiaceae'
+    'Fabaceae'         'Fagaceae'         'Lauraceae'        'Malvaceae'        'Melastomataceae'    'Myrtaceae'    
+
+  Columns 13 through 18
+
+    'Anacardiaceae'     'Anacardiaceae'     'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'         'Rubiaceae'        'Salicaceae'       'Sapindaceae'  
+
+  Columns 19 through 25
+
+    'Annonaceae'     'Annonaceae'    'Annonaceae'      'Annonaceae'      'Annonaceae'    'Annonaceae'    'Annonaceae'
+    'Apocynaceae'    'Betulaceae'    'Celastraceae'    'Combretaceae'    'Ericaceae'     'Fabaceae'      'Fagaceae'  
+
+  Columns 26 through 32
+
+    'Annonaceae'    'Annonaceae'    'Annonaceae'         'Annonaceae'    'Annonaceae'        'Annonaceae'        'Annonaceae'
+    'Lauraceae'     'Malvaceae'     'Melastomataceae'    'Myrtaceae'     'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'  
+
+  Columns 33 through 39
+
+    'Annonaceae'    'Annonaceae'    'Annonaceae'     'Apocynaceae'    'Apocynaceae'     'Apocynaceae'     'Apocynaceae'
+    'Rubiaceae'     'Salicaceae'    'Sapindaceae'    'Betulaceae'     'Celastraceae'    'Combretaceae'    'Ericaceae'  
+
+  Columns 40 through 46
+
+    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'        'Apocynaceae'    'Apocynaceae'   
+    'Fabaceae'       'Fagaceae'       'Lauraceae'      'Malvaceae'      'Melastomataceae'    'Myrtaceae'      'Passifloraceae'
+
+  Columns 47 through 53
+
+    'Apocynaceae'       'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Betulaceae'      'Betulaceae'  
+    'Phyllanthaceae'    'Rosaceae'       'Rubiaceae'      'Salicaceae'     'Sapindaceae'    'Celastraceae'    'Combretaceae'
+
+  Columns 54 through 60
+
+    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'         'Betulaceae'
+    'Ericaceae'     'Fabaceae'      'Fagaceae'      'Lauraceae'     'Malvaceae'     'Melastomataceae'    'Myrtaceae' 
+
+  Columns 61 through 67
+
+    'Betulaceae'        'Betulaceae'        'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'     'Celastraceae'
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'      'Rubiaceae'     'Salicaceae'    'Sapindaceae'    'Combretaceae'
+
+  Columns 68 through 74
+
+    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'       'Celastraceae'
+    'Ericaceae'       'Fabaceae'        'Fagaceae'        'Lauraceae'       'Malvaceae'       'Melastomataceae'    'Myrtaceae'   
+
+  Columns 75 through 80
+
+    'Celastraceae'      'Celastraceae'      'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'        'Rubiaceae'       'Salicaceae'      'Sapindaceae' 
+
+  Columns 81 through 87
+
+    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'       'Combretaceae'
+    'Ericaceae'       'Fabaceae'        'Fagaceae'        'Lauraceae'       'Malvaceae'       'Melastomataceae'    'Myrtaceae'   
+
+  Columns 88 through 94
+
+    'Combretaceae'      'Combretaceae'      'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Ericaceae'
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'        'Rubiaceae'       'Salicaceae'      'Sapindaceae'     'Fabaceae' 
+
+  Columns 95 through 101
+
+    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'          'Ericaceae'    'Ericaceae'         'Ericaceae'     
+    'Fagaceae'     'Lauraceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'
+
+  Columns 102 through 109
+
+    'Ericaceae'    'Ericaceae'    'Ericaceae'     'Ericaceae'      'Fabaceae'    'Fabaceae'     'Fabaceae'     'Fabaceae'       
+    'Rosaceae'     'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Fagaceae'    'Lauraceae'    'Malvaceae'    'Melastomataceae'
+
+  Columns 110 through 116
+
+    'Fabaceae'     'Fabaceae'          'Fabaceae'          'Fabaceae'    'Fabaceae'     'Fabaceae'      'Fabaceae'   
+    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'
+
+  Columns 117 through 123
+
+    'Fagaceae'     'Fagaceae'     'Fagaceae'           'Fagaceae'     'Fagaceae'          'Fagaceae'          'Fagaceae'
+    'Lauraceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'
+
+  Columns 124 through 130
+
+    'Fagaceae'     'Fagaceae'      'Fagaceae'       'Lauraceae'    'Lauraceae'          'Lauraceae'    'Lauraceae'     
+    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'
+
+  Columns 131 through 137
+
+    'Lauraceae'         'Lauraceae'    'Lauraceae'    'Lauraceae'     'Lauraceae'      'Malvaceae'          'Malvaceae'
+    'Phyllanthaceae'    'Rosaceae'     'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Melastomataceae'    'Myrtaceae'
+
+  Columns 138 through 144
+
+    'Malvaceae'         'Malvaceae'         'Malvaceae'    'Malvaceae'    'Malvaceae'     'Malvaceae'      'Melastomataceae'
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'     'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Myrtaceae'      
+
+  Columns 145 through 150
+
+    'Melastomataceae'    'Melastomataceae'    'Melastomataceae'    'Melastomataceae'    'Melastomataceae'    'Melastomataceae'
+    'Passifloraceae'     'Phyllanthaceae'     'Rosaceae'           'Rubiaceae'          'Salicaceae'         'Sapindaceae'    
+
+  Columns 151 through 157
+
+    'Myrtaceae'         'Myrtaceae'         'Myrtaceae'    'Myrtaceae'    'Myrtaceae'     'Myrtaceae'      'Passifloraceae'
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'     'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Phyllanthaceae'
+
+  Columns 158 through 163
+
+    'Passifloraceae'    'Passifloraceae'    'Passifloraceae'    'Passifloraceae'    'Phyllanthaceae'    'Phyllanthaceae'
+    'Rosaceae'          'Rubiaceae'         'Salicaceae'        'Sapindaceae'       'Rosaceae'          'Rubiaceae'     
+
+  Columns 164 through 170
+
+    'Phyllanthaceae'    'Phyllanthaceae'    'Rosaceae'     'Rosaceae'      'Rosaceae'       'Rubiaceae'     'Rubiaceae'  
+    'Salicaceae'        'Sapindaceae'       'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Salicaceae'    'Sapindaceae'
+
+  Column 171
+
+    'Salicaceae' 
+    'Sapindaceae'
+
+cat(2,res(1).first_cat, res(1).second_cat)
+
+ans = 
+
+  Columns 1 through 6
+
+    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'
+
+  Columns 7 through 12
+
+    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'
+
+  Columns 13 through 18
+
+    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'    'Anacardiaceae'
+
+  Columns 19 through 26
+
+    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'
+
+  Columns 27 through 34
+
+    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'    'Annonaceae'
+
+  Columns 35 through 41
+
+    'Annonaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'
+
+  Columns 42 through 48
+
+    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'
+
+  Columns 49 through 55
+
+    'Apocynaceae'    'Apocynaceae'    'Apocynaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'
+
+  Columns 56 through 63
+
+    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Betulaceae'
+
+  Columns 64 through 70
+
+    'Betulaceae'    'Betulaceae'    'Betulaceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'
+
+  Columns 71 through 77
+
+    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Celastraceae'
+
+  Columns 78 through 84
+
+    'Celastraceae'    'Celastraceae'    'Celastraceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'
+
+  Columns 85 through 91
+
+    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'    'Combretaceae'
+
+  Columns 92 through 99
+
+    'Combretaceae'    'Combretaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'
+
+  Columns 100 through 107
+
+    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Ericaceae'    'Fabaceae'    'Fabaceae'
+
+  Columns 108 through 116
+
+    'Fabaceae'    'Fabaceae'    'Fabaceae'    'Fabaceae'    'Fabaceae'    'Fabaceae'    'Fabaceae'    'Fabaceae'    'Fabaceae'
+
+  Columns 117 through 125
+
+    'Fagaceae'    'Fagaceae'    'Fagaceae'    'Fagaceae'    'Fagaceae'    'Fagaceae'    'Fagaceae'    'Fagaceae'    'Fagaceae'
+
+  Columns 126 through 133
+
+    'Fagaceae'    'Lauraceae'    'Lauraceae'    'Lauraceae'    'Lauraceae'    'Lauraceae'    'Lauraceae'    'Lauraceae'
+
+  Columns 134 through 141
+
+    'Lauraceae'    'Lauraceae'    'Malvaceae'    'Malvaceae'    'Malvaceae'    'Malvaceae'    'Malvaceae'    'Malvaceae'
+
+  Columns 142 through 147
+
+    'Malvaceae'    'Malvaceae'    'Melastomataceae'    'Melastomataceae'    'Melastomataceae'    'Melastomataceae'
+
+  Columns 148 through 154
+
+    'Melastomataceae'    'Melastomataceae'    'Melastomataceae'    'Myrtaceae'    'Myrtaceae'    'Myrtaceae'    'Myrtaceae'
+
+  Columns 155 through 160
+
+    'Myrtaceae'    'Myrtaceae'    'Passifloraceae'    'Passifloraceae'    'Passifloraceae'    'Passifloraceae'
+
+  Columns 161 through 167
+
+    'Passifloraceae'    'Phyllanthaceae'    'Phyllanthaceae'    'Phyllanthaceae'    'Phyllanthaceae'    'Rosaceae'    'Rosaceae'
+
+  Columns 168 through 175
+
+    'Rosaceae'    'Rubiaceae'    'Rubiaceae'    'Salicaceae'    'Annonaceae'    'Apocynaceae'    'Betulaceae'    'Celastraceae'
+
+  Columns 176 through 183
+
+    'Combretaceae'    'Ericaceae'    'Fabaceae'    'Fagaceae'    'Lauraceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'
+
+  Columns 184 through 190
+
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Apocynaceae'
+
+  Columns 191 through 198
+
+    'Betulaceae'    'Celastraceae'    'Combretaceae'    'Ericaceae'    'Fabaceae'    'Fagaceae'    'Lauraceae'    'Malvaceae'
+
+  Columns 199 through 205
+
+    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'
+
+  Columns 206 through 213
+
+    'Sapindaceae'    'Betulaceae'    'Celastraceae'    'Combretaceae'    'Ericaceae'    'Fabaceae'    'Fagaceae'    'Lauraceae'
+
+  Columns 214 through 220
+
+    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'
+
+  Columns 221 through 228
+
+    'Salicaceae'    'Sapindaceae'    'Celastraceae'    'Combretaceae'    'Ericaceae'    'Fabaceae'    'Fagaceae'    'Lauraceae'
+
+  Columns 229 through 235
+
+    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'
+
+  Columns 236 through 243
+
+    'Salicaceae'    'Sapindaceae'    'Combretaceae'    'Ericaceae'    'Fabaceae'    'Fagaceae'    'Lauraceae'    'Malvaceae'
+
+  Columns 244 through 250
+
+    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'
+
+  Columns 251 through 258
+
+    'Sapindaceae'    'Ericaceae'    'Fabaceae'    'Fagaceae'    'Lauraceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'
+
+  Columns 259 through 265
+
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Fabaceae'
+
+  Columns 266 through 272
+
+    'Fagaceae'    'Lauraceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'
+
+  Columns 273 through 280
+
+    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Fagaceae'    'Lauraceae'    'Malvaceae'    'Melastomataceae'
+
+  Columns 281 through 287
+
+    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'
+
+  Columns 288 through 294
+
+    'Lauraceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'
+
+  Columns 295 through 301
+
+    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Malvaceae'    'Melastomataceae'    'Myrtaceae'    'Passifloraceae'
+
+  Columns 302 through 308
+
+    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Melastomataceae'    'Myrtaceae'
+
+  Columns 309 through 315
+
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Myrtaceae'
+
+  Columns 316 through 322
+
+    'Passifloraceae'    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Passifloraceae'
+
+  Columns 323 through 329
+
+    'Phyllanthaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Phyllanthaceae'    'Rosaceae'
+
+  Columns 330 through 337
+
+    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Rosaceae'    'Rubiaceae'    'Salicaceae'    'Sapindaceae'    'Rubiaceae'
+
+  Columns 338 through 342
+
+    'Salicaceae'    'Sapindaceae'    'Salicaceae'    'Sapindaceae'    'Sapindaceae'
+
+dbquit
+clear functions
+clear function
+report_results('hmax-features')
+{Warning: Directory already exists.} 
+{> In <a href="matlab: opentoline('/home/sharat/open-source/sharat-cbcl/leaves/report_results.m',3,1)">report_results at 3</a>} 
+---------------------
+Pair wise measure(pairwise_lda_separability):
+---------------------
+Anacardiaceae,Annonaceae:0.032121 +- 0.000366
+Anacardiaceae,Apocynaceae:0.022491 +- 0.000517
+Anacardiaceae,Betulaceae:0.263952 +- 0.016338
+Anacardiaceae,Celastraceae:0.146185 +- 0.003795
+Anacardiaceae,Combretaceae:0.085813 +- 0.003339
+Anacardiaceae,Ericaceae:0.080690 +- 0.002081
+Anacardiaceae,Fabaceae:0.010253 +- 0.000110
+Anacardiaceae,Fagaceae:0.069270 +- 0.002667
+Anacardiaceae,Lauraceae:0.046834 +- 0.000799
+Anacardiaceae,Malvaceae:0.050511 +- 0.001759
+Anacardiaceae,Melastomataceae:0.237536 +- 0.007290
+Anacardiaceae,Myrtaceae:0.024218 +- 0.000361
+Anacardiaceae,Passifloraceae:0.259407 +- 0.010138
+Anacardiaceae,Phyllanthaceae:0.038790 +- 0.000595
+Anacardiaceae,Rosaceae:0.054588 +- 0.001118
+Anacardiaceae,Rubiaceae:0.023962 +- 0.000315
+Anacardiaceae,Salicaceae:0.022034 +- 0.000280
+Anacardiaceae,Sapindaceae:0.040369 +- 0.000631
+Annonaceae,Apocynaceae:0.027600 +- 0.000341
+Annonaceae,Betulaceae:0.138340 +- 0.002034
+Annonaceae,Celastraceae:0.047543 +- 0.000676
+Annonaceae,Combretaceae:0.030604 +- 0.000459
+Annonaceae,Ericaceae:0.054091 +- 0.000910
+Annonaceae,Fabaceae:0.017010 +- 0.000088
+Annonaceae,Fagaceae:0.048421 +- 0.000371
+Annonaceae,Lauraceae:0.011567 +- 0.000085
+Annonaceae,Malvaceae:0.033019 +- 0.000263
+Annonaceae,Melastomataceae:0.065635 +- 0.000855
+Annonaceae,Myrtaceae:0.022103 +- 0.000215
+Annonaceae,Passifloraceae:0.052712 +- 0.000543
+Annonaceae,Phyllanthaceae:0.017564 +- 0.000156
+Annonaceae,Rosaceae:0.051052 +- 0.000738
+Annonaceae,Rubiaceae:0.025990 +- 0.000186
+Annonaceae,Salicaceae:0.019361 +- 0.000113
+Annonaceae,Sapindaceae:0.039071 +- 0.000403
+Apocynaceae,Betulaceae:0.089092 +- 0.001448
+Apocynaceae,Celastraceae:0.027482 +- 0.000546
+Apocynaceae,Combretaceae:0.031861 +- 0.000702
+Apocynaceae,Ericaceae:0.028749 +- 0.000384
+Apocynaceae,Fabaceae:0.005685 +- 0.000034
+Apocynaceae,Fagaceae:0.034269 +- 0.000352
+Apocynaceae,Lauraceae:0.026464 +- 0.000204
+Apocynaceae,Malvaceae:0.020557 +- 0.000319
+Apocynaceae,Melastomataceae:0.072176 +- 0.000922
+Apocynaceae,Myrtaceae:0.012278 +- 0.000105
+Apocynaceae,Passifloraceae:0.059880 +- 0.001072
+Apocynaceae,Phyllanthaceae:0.024379 +- 0.000236
+Apocynaceae,Rosaceae:0.032403 +- 0.000383
+Apocynaceae,Rubiaceae:0.013693 +- 0.000163
+Apocynaceae,Salicaceae:0.009330 +- 0.000106
+Apocynaceae,Sapindaceae:0.026786 +- 0.000477
+Betulaceae,Celastraceae:0.271903 +- 0.011706
+Betulaceae,Combretaceae:0.277763 +- 0.009259
+Betulaceae,Ericaceae:0.266908 +- 0.007378
+Betulaceae,Fabaceae:0.022790 +- 0.000150
+Betulaceae,Fagaceae:0.089233 +- 0.001644
+Betulaceae,Lauraceae:0.124697 +- 0.000909
+Betulaceae,Malvaceae:0.072288 +- 0.001426
+Betulaceae,Melastomataceae:0.458415 +- 0.014439
+Betulaceae,Myrtaceae:0.085883 +- 0.000994
+Betulaceae,Passifloraceae:0.571188 +- 0.022292
+Betulaceae,Phyllanthaceae:0.125879 +- 0.001084
+Betulaceae,Rosaceae:0.050537 +- 0.001192
+Betulaceae,Rubiaceae:0.052776 +- 0.000365
+Betulaceae,Salicaceae:0.037225 +- 0.000324
+Betulaceae,Sapindaceae:0.061918 +- 0.000886
+Celastraceae,Combretaceae:0.089175 +- 0.003452
+Celastraceae,Ericaceae:0.042201 +- 0.001130
+Celastraceae,Fabaceae:0.008143 +- 0.000100
+Celastraceae,Fagaceae:0.090640 +- 0.002741
+Celastraceae,Lauraceae:0.045183 +- 0.000706
+Celastraceae,Malvaceae:0.067108 +- 0.001716
+Celastraceae,Melastomataceae:0.213395 +- 0.007040
+Celastraceae,Myrtaceae:0.025096 +- 0.000314
+Celastraceae,Passifloraceae:0.223515 +- 0.012385
+Celastraceae,Phyllanthaceae:0.051022 +- 0.000663
+Celastraceae,Rosaceae:0.038205 +- 0.000910
+Celastraceae,Rubiaceae:0.013939 +- 0.000186
+Celastraceae,Salicaceae:0.012017 +- 0.000068
+Celastraceae,Sapindaceae:0.049324 +- 0.000619
+Combretaceae,Ericaceae:0.070739 +- 0.001072
+Combretaceae,Fabaceae:0.014873 +- 0.000124
+Combretaceae,Fagaceae:0.084246 +- 0.001542
+Combretaceae,Lauraceae:0.025600 +- 0.000529
+Combretaceae,Malvaceae:0.052301 +- 0.001176
+Combretaceae,Melastomataceae:0.124771 +- 0.003359
+Combretaceae,Myrtaceae:0.021465 +- 0.000296
+Combretaceae,Passifloraceae:0.102225 +- 0.002094
+Combretaceae,Phyllanthaceae:0.015474 +- 0.000171
+Combretaceae,Rosaceae:0.061284 +- 0.000869
+Combretaceae,Rubiaceae:0.027510 +- 0.000213
+Combretaceae,Salicaceae:0.013316 +- 0.000207
+Combretaceae,Sapindaceae:0.068311 +- 0.000669
+Ericaceae,Fabaceae:0.006129 +- 0.000048
+Ericaceae,Fagaceae:0.073657 +- 0.001634
+Ericaceae,Lauraceae:0.054349 +- 0.000757
+Ericaceae,Malvaceae:0.058504 +- 0.001140
+Ericaceae,Melastomataceae:0.121545 +- 0.002259
+Ericaceae,Myrtaceae:0.022436 +- 0.000234
+Ericaceae,Passifloraceae:0.269453 +- 0.003107
+Ericaceae,Phyllanthaceae:0.038200 +- 0.000493
+Ericaceae,Rosaceae:0.043957 +- 0.000994
+Ericaceae,Rubiaceae:0.021111 +- 0.000226
+Ericaceae,Salicaceae:0.013333 +- 0.000167
+Ericaceae,Sapindaceae:0.057777 +- 0.000864
+Fabaceae,Fagaceae:0.011005 +- 0.000074
+Fabaceae,Lauraceae:0.018497 +- 0.000110
+Fabaceae,Malvaceae:0.007690 +- 0.000060
+Fabaceae,Melastomataceae:0.036356 +- 0.000188
+Fabaceae,Myrtaceae:0.009293 +- 0.000054
+Fabaceae,Passifloraceae:0.031151 +- 0.000233
+Fabaceae,Phyllanthaceae:0.015601 +- 0.000066
+Fabaceae,Rosaceae:0.008398 +- 0.000065
+Fabaceae,Rubiaceae:0.008715 +- 0.000038
+Fabaceae,Salicaceae:0.004986 +- 0.000018
+Fabaceae,Sapindaceae:0.013510 +- 0.000080
+Fagaceae,Lauraceae:0.042315 +- 0.000500
+Fagaceae,Malvaceae:0.045677 +- 0.000779
+Fagaceae,Melastomataceae:0.186767 +- 0.003565
+Fagaceae,Myrtaceae:0.031419 +- 0.000307
+Fagaceae,Passifloraceae:0.169643 +- 0.003371
+Fagaceae,Phyllanthaceae:0.041089 +- 0.000437
+Fagaceae,Rosaceae:0.038180 +- 0.001062
+Fagaceae,Rubiaceae:0.018865 +- 0.000251
+Fagaceae,Salicaceae:0.019725 +- 0.000146
+Fagaceae,Sapindaceae:0.028331 +- 0.000464
+Lauraceae,Malvaceae:0.031880 +- 0.000362
+Lauraceae,Melastomataceae:0.054322 +- 0.000805
+Lauraceae,Myrtaceae:0.021766 +- 0.000187
+Lauraceae,Passifloraceae:0.045241 +- 0.000764
+Lauraceae,Phyllanthaceae:0.011234 +- 0.000105
+Lauraceae,Rosaceae:0.047024 +- 0.000429
+Lauraceae,Rubiaceae:0.024023 +- 0.000170
+Lauraceae,Salicaceae:0.013785 +- 0.000086
+Lauraceae,Sapindaceae:0.042779 +- 0.000402
+Malvaceae,Melastomataceae:0.108557 +- 0.002454
+Malvaceae,Myrtaceae:0.027754 +- 0.000409
+Malvaceae,Passifloraceae:0.075570 +- 0.002621
+Malvaceae,Phyllanthaceae:0.025632 +- 0.000285
+Malvaceae,Rosaceae:0.033530 +- 0.000657
+Malvaceae,Rubiaceae:0.021860 +- 0.000162
+Malvaceae,Salicaceae:0.011748 +- 0.000169
+Malvaceae,Sapindaceae:0.027926 +- 0.000346
+Melastomataceae,Myrtaceae:0.038873 +- 0.000349
+Melastomataceae,Passifloraceae:0.211591 +- 0.008934
+Melastomataceae,Phyllanthaceae:0.037137 +- 0.000821
+Melastomataceae,Rosaceae:0.139598 +- 0.002177
+Melastomataceae,Rubiaceae:0.065982 +- 0.000449
+Melastomataceae,Salicaceae:0.032746 +- 0.000208
+Melastomataceae,Sapindaceae:0.116324 +- 0.001621
+Myrtaceae,Passifloraceae:0.029792 +- 0.000560
+Myrtaceae,Phyllanthaceae:0.013204 +- 0.000176
+Myrtaceae,Rosaceae:0.025840 +- 0.000243
+Myrtaceae,Rubiaceae:0.015932 +- 0.000125
+Myrtaceae,Salicaceae:0.007209 +- 0.000061
+Myrtaceae,Sapindaceae:0.026242 +- 0.000177
+Passifloraceae,Phyllanthaceae:0.028139 +- 0.000251
+Passifloraceae,Rosaceae:0.132208 +- 0.003626
+Passifloraceae,Rubiaceae:0.049958 +- 0.000323
+Passifloraceae,Salicaceae:0.021811 +- 0.000273
+Passifloraceae,Sapindaceae:0.093830 +- 0.001163
+Phyllanthaceae,Rosaceae:0.046450 +- 0.000554
+Phyllanthaceae,Rubiaceae:0.033554 +- 0.000219
+Phyllanthaceae,Salicaceae:0.009881 +- 0.000067
+Phyllanthaceae,Sapindaceae:0.056636 +- 0.000435
+Rosaceae,Rubiaceae:0.016895 +- 0.000194
+Rosaceae,Salicaceae:0.013555 +- 0.000191
+Rosaceae,Sapindaceae:0.024687 +- 0.000210
+Rubiaceae,Salicaceae:0.008645 +- 0.000049
+Rubiaceae,Sapindaceae:0.012931 +- 0.000157
+Salicaceae,Sapindaceae:0.018715 +- 0.000126
+colorbar
+dbcont
+---------------------
+Pair wise measure(pairwise_lda_separability):
+---------------------
+Anacardiaceae,Annonaceae:0.032121 +- 0.000366
+Anacardiaceae,Apocynaceae:0.022491 +- 0.000517
+Anacardiaceae,Betulaceae:0.263952 +- 0.016338
+Anacardiaceae,Celastraceae:0.146185 +- 0.003795
+Anacardiaceae,Combretaceae:0.085813 +- 0.003339
+Anacardiaceae,Ericaceae:0.080690 +- 0.002081
+Anacardiaceae,Fabaceae:0.010253 +- 0.000110
+Anacardiaceae,Fagaceae:0.069270 +- 0.002667
+Anacardiaceae,Lauraceae:0.046834 +- 0.000799
+Anacardiaceae,Malvaceae:0.050511 +- 0.001759
+Anacardiaceae,Melastomataceae:0.237536 +- 0.007290
+Anacardiaceae,Myrtaceae:0.024218 +- 0.000361
+Anacardiaceae,Passifloraceae:0.259407 +- 0.010138
+Anacardiaceae,Phyllanthaceae:0.038790 +- 0.000595
+Anacardiaceae,Rosaceae:0.054588 +- 0.001118
+Anacardiaceae,Rubiaceae:0.023962 +- 0.000315
+Anacardiaceae,Salicaceae:0.022034 +- 0.000280
+Anacardiaceae,Sapindaceae:0.040369 +- 0.000631
+Annonaceae,Apocynaceae:0.027600 +- 0.000341
+Annonaceae,Betulaceae:0.138340 +- 0.002034
+Annonaceae,Celastraceae:0.047543 +- 0.000676
+Annonaceae,Combretaceae:0.030604 +- 0.000459
+Annonaceae,Ericaceae:0.054091 +- 0.000910
+Annonaceae,Fabaceae:0.017010 +- 0.000088
+Annonaceae,Fagaceae:0.048421 +- 0.000371
+Annonaceae,Lauraceae:0.011567 +- 0.000085
+Annonaceae,Malvaceae:0.033019 +- 0.000263
+Annonaceae,Melastomataceae:0.065635 +- 0.000855
+Annonaceae,Myrtaceae:0.022103 +- 0.000215
+Annonaceae,Passifloraceae:0.052712 +- 0.000543
+Annonaceae,Phyllanthaceae:0.017564 +- 0.000156
+Annonaceae,Rosaceae:0.051052 +- 0.000738
+Annonaceae,Rubiaceae:0.025990 +- 0.000186
+Annonaceae,Salicaceae:0.019361 +- 0.000113
+Annonaceae,Sapindaceae:0.039071 +- 0.000403
+Apocynaceae,Betulaceae:0.089092 +- 0.001448
+Apocynaceae,Celastraceae:0.027482 +- 0.000546
+Apocynaceae,Combretaceae:0.031861 +- 0.000702
+Apocynaceae,Ericaceae:0.028749 +- 0.000384
+Apocynaceae,Fabaceae:0.005685 +- 0.000034
+Apocynaceae,Fagaceae:0.034269 +- 0.000352
+Apocynaceae,Lauraceae:0.026464 +- 0.000204
+Apocynaceae,Malvaceae:0.020557 +- 0.000319
+Apocynaceae,Melastomataceae:0.072176 +- 0.000922
+Apocynaceae,Myrtaceae:0.012278 +- 0.000105
+Apocynaceae,Passifloraceae:0.059880 +- 0.001072
+Apocynaceae,Phyllanthaceae:0.024379 +- 0.000236
+Apocynaceae,Rosaceae:0.032403 +- 0.000383
+Apocynaceae,Rubiaceae:0.013693 +- 0.000163
+Apocynaceae,Salicaceae:0.009330 +- 0.000106
+Apocynaceae,Sapindaceae:0.026786 +- 0.000477
+Betulaceae,Celastraceae:0.271903 +- 0.011706
+Betulaceae,Combretaceae:0.277763 +- 0.009259
+Betulaceae,Ericaceae:0.266908 +- 0.007378
+Betulaceae,Fabaceae:0.022790 +- 0.000150
+Betulaceae,Fagaceae:0.089233 +- 0.001644
+Betulaceae,Lauraceae:0.124697 +- 0.000909
+Betulaceae,Malvaceae:0.072288 +- 0.001426
+Betulaceae,Melastomataceae:0.458415 +- 0.014439
+Betulaceae,Myrtaceae:0.085883 +- 0.000994
+Betulaceae,Passifloraceae:0.571188 +- 0.022292
+Betulaceae,Phyllanthaceae:0.125879 +- 0.001084
+Betulaceae,Rosaceae:0.050537 +- 0.001192
+Betulaceae,Rubiaceae:0.052776 +- 0.000365
+Betulaceae,Salicaceae:0.037225 +- 0.000324
+Betulaceae,Sapindaceae:0.061918 +- 0.000886
+Celastraceae,Combretaceae:0.089175 +- 0.003452
+Celastraceae,Ericaceae:0.042201 +- 0.001130
+Celastraceae,Fabaceae:0.008143 +- 0.000100
+Celastraceae,Fagaceae:0.090640 +- 0.002741
+Celastraceae,Lauraceae:0.045183 +- 0.000706
+Celastraceae,Malvaceae:0.067108 +- 0.001716
+Celastraceae,Melastomataceae:0.213395 +- 0.007040
+Celastraceae,Myrtaceae:0.025096 +- 0.000314
+Celastraceae,Passifloraceae:0.223515 +- 0.012385
+Celastraceae,Phyllanthaceae:0.051022 +- 0.000663
+Celastraceae,Rosaceae:0.038205 +- 0.000910
+Celastraceae,Rubiaceae:0.013939 +- 0.000186
+Celastraceae,Salicaceae:0.012017 +- 0.000068
+Celastraceae,Sapindaceae:0.049324 +- 0.000619
+Combretaceae,Ericaceae:0.070739 +- 0.001072
+Combretaceae,Fabaceae:0.014873 +- 0.000124
+Combretaceae,Fagaceae:0.084246 +- 0.001542
+Combretaceae,Lauraceae:0.025600 +- 0.000529
+Combretaceae,Malvaceae:0.052301 +- 0.001176
+Combretaceae,Melastomataceae:0.124771 +- 0.003359
+Combretaceae,Myrtaceae:0.021465 +- 0.000296
+Combretaceae,Passifloraceae:0.102225 +- 0.002094
+Combretaceae,Phyllanthaceae:0.015474 +- 0.000171
+Combretaceae,Rosaceae:0.061284 +- 0.000869
+Combretaceae,Rubiaceae:0.027510 +- 0.000213
+Combretaceae,Salicaceae:0.013316 +- 0.000207
+Combretaceae,Sapindaceae:0.068311 +- 0.000669
+Ericaceae,Fabaceae:0.006129 +- 0.000048
+Ericaceae,Fagaceae:0.073657 +- 0.001634
+Ericaceae,Lauraceae:0.054349 +- 0.000757
+Ericaceae,Malvaceae:0.058504 +- 0.001140
+Ericaceae,Melastomataceae:0.121545 +- 0.002259
+Ericaceae,Myrtaceae:0.022436 +- 0.000234
+Ericaceae,Passifloraceae:0.269453 +- 0.003107
+Ericaceae,Phyllanthaceae:0.038200 +- 0.000493
+Ericaceae,Rosaceae:0.043957 +- 0.000994
+Ericaceae,Rubiaceae:0.021111 +- 0.000226
+Ericaceae,Salicaceae:0.013333 +- 0.000167
+Ericaceae,Sapindaceae:0.057777 +- 0.000864
+Fabaceae,Fagaceae:0.011005 +- 0.000074
+Fabaceae,Lauraceae:0.018497 +- 0.000110
+Fabaceae,Malvaceae:0.007690 +- 0.000060
+Fabaceae,Melastomataceae:0.036356 +- 0.000188
+Fabaceae,Myrtaceae:0.009293 +- 0.000054
+Fabaceae,Passifloraceae:0.031151 +- 0.000233
+Fabaceae,Phyllanthaceae:0.015601 +- 0.000066
+Fabaceae,Rosaceae:0.008398 +- 0.000065
+Fabaceae,Rubiaceae:0.008715 +- 0.000038
+Fabaceae,Salicaceae:0.004986 +- 0.000018
+Fabaceae,Sapindaceae:0.013510 +- 0.000080
+Fagaceae,Lauraceae:0.042315 +- 0.000500
+Fagaceae,Malvaceae:0.045677 +- 0.000779
+Fagaceae,Melastomataceae:0.186767 +- 0.003565
+Fagaceae,Myrtaceae:0.031419 +- 0.000307
+Fagaceae,Passifloraceae:0.169643 +- 0.003371
+Fagaceae,Phyllanthaceae:0.041089 +- 0.000437
+Fagaceae,Rosaceae:0.038180 +- 0.001062
+Fagaceae,Rubiaceae:0.018865 +- 0.000251
+Fagaceae,Salicaceae:0.019725 +- 0.000146
+Fagaceae,Sapindaceae:0.028331 +- 0.000464
+Lauraceae,Malvaceae:0.031880 +- 0.000362
+Lauraceae,Melastomataceae:0.054322 +- 0.000805
+Lauraceae,Myrtaceae:0.021766 +- 0.000187
+Lauraceae,Passifloraceae:0.045241 +- 0.000764
+Lauraceae,Phyllanthaceae:0.011234 +- 0.000105
+Lauraceae,Rosaceae:0.047024 +- 0.000429
+Lauraceae,Rubiaceae:0.024023 +- 0.000170
+Lauraceae,Salicaceae:0.013785 +- 0.000086
+Lauraceae,Sapindaceae:0.042779 +- 0.000402
+Malvaceae,Melastomataceae:0.108557 +- 0.002454
+Malvaceae,Myrtaceae:0.027754 +- 0.000409
+Malvaceae,Passifloraceae:0.075570 +- 0.002621
+Malvaceae,Phyllanthaceae:0.025632 +- 0.000285
+Malvaceae,Rosaceae:0.033530 +- 0.000657
+Malvaceae,Rubiaceae:0.021860 +- 0.000162
+Malvaceae,Salicaceae:0.011748 +- 0.000169
+Malvaceae,Sapindaceae:0.027926 +- 0.000346
+Melastomataceae,Myrtaceae:0.038873 +- 0.000349
+Melastomataceae,Passifloraceae:0.211591 +- 0.008934
+Melastomataceae,Phyllanthaceae:0.037137 +- 0.000821
+Melastomataceae,Rosaceae:0.139598 +- 0.002177
+Melastomataceae,Rubiaceae:0.065982 +- 0.000449
+Melastomataceae,Salicaceae:0.032746 +- 0.000208
+Melastomataceae,Sapindaceae:0.116324 +- 0.001621
+Myrtaceae,Passifloraceae:0.029792 +- 0.000560
+Myrtaceae,Phyllanthaceae:0.013204 +- 0.000176
+Myrtaceae,Rosaceae:0.025840 +- 0.000243
+Myrtaceae,Rubiaceae:0.015932 +- 0.000125
+Myrtaceae,Salicaceae:0.007209 +- 0.000061
+Myrtaceae,Sapindaceae:0.026242 +- 0.000177
+Passifloraceae,Phyllanthaceae:0.028139 +- 0.000251
+Passifloraceae,Rosaceae:0.132208 +- 0.003626
+Passifloraceae,Rubiaceae:0.049958 +- 0.000323
+Passifloraceae,Salicaceae:0.021811 +- 0.000273
+Passifloraceae,Sapindaceae:0.093830 +- 0.001163
+Phyllanthaceae,Rosaceae:0.046450 +- 0.000554
+Phyllanthaceae,Rubiaceae:0.033554 +- 0.000219
+Phyllanthaceae,Salicaceae:0.009881 +- 0.000067
+Phyllanthaceae,Sapindaceae:0.056636 +- 0.000435
+Rosaceae,Rubiaceae:0.016895 +- 0.000194
+Rosaceae,Salicaceae:0.013555 +- 0.000191
+Rosaceae,Sapindaceae:0.024687 +- 0.000210
+Rubiaceae,Salicaceae:0.008645 +- 0.000049
+Rubiaceae,Sapindaceae:0.012931 +- 0.000157
+Salicaceae,Sapindaceae:0.018715 +- 0.000126
+what
+
+what =
+
+fda
+
+imagesc(1./confusion_matrix)
+dbqyut
+{Error using <a href="matlab:helpUtils.errorDocCallback('keyboard')" style="font-weight:bold">keyboard</a>
+Undefined function or variable 'dbqyut'.
+} 
+dbquit
+clear functions
+report_results('hmax-features')

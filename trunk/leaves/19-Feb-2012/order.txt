@@ -1,0 +1,163 @@
+  Name          Size               Bytes  Class     Attributes
+
+  C            14x14x10            15680  double              
+  cat           1x14                1824  cell                
+  jobname       1x13                  26  char                
+  res           0x0                    0  double              
+  what          1x15                  30  char                
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+
+acc =
+
+     []
+
+
+first_cat =
+
+     []
+
+
+second_cat =
+
+     []
+
+---------------
+order
+---------------
+Results:0.377808 +- 0.100587
+Results:0.403796 +- 0.006977

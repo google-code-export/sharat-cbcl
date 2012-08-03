@@ -1,0 +1,15 @@
+,Celastrales,Ericales,Fabales,Fagales,Gentianales,Lamiales,Laurales,Magnoliales,Malpighiales,Malvales,Myrtales,Ranunculales,Rosales,Sapindales
+Celastrales,0,6,4,5,7,7,8,8,2,6,5,6,5,6
+Ericales,6,0,6,7,3,3,6,6,6,6,5,4,7,6
+Fabales,4,6,0,3,7,7,8,8,4,6,5,6,3,6
+Fagales,5,7,3,0,8,8,9,9,5,7,6,7,2,7
+Gentianales,7,3,7,8,0,2,7,7,7,7,6,5,8,7
+Lamiales,7,3,7,8,2,0,7,7,7,7,6,5,8,7
+Laurales,8,6,8,9,7,7,0,2,8,8,7,4,9,8
+Magnoliales,8,6,8,9,7,7,2,0,8,8,7,4,9,8
+Malpighiales,2,6,4,5,7,7,8,8,0,6,5,6,5,6
+Malvales,6,6,6,7,7,7,8,8,6,0,3,6,7,2
+Myrtales,5,5,5,6,6,6,7,7,5,3,0,5,6,3
+Ranunculales,6,4,6,7,5,5,4,4,6,6,5,0,7,6
+Rosales,5,7,3,2,8,8,9,9,5,7,6,7,0,7
+Sapindales,6,6,6,7,7,7,8,8,6,2,3,6,7,0

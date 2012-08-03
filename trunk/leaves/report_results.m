@@ -21,6 +21,7 @@ function scores = load_pair_distances(filename)
 	end;
 		
 function report_correlation(jobname, score_file, distance_folder, afun, bfun)
+    eval(['diary ' fullfile(date, ['correlation'  '.txt'])])
 	distance_files=dir(distance_folder);
 	pairs = importdata([fullfile(date,score_file) '.txt'], ',', 0);
 	ref = hashtable;
@@ -62,6 +63,7 @@ function report_correlation(jobname, score_file, distance_folder, afun, bfun)
 		fprintf('%s(%s),%s(%s),%f\n', score_file, tx_a, distance_files(i).name, tx_b,corr_max);
 	end;	
 	fprintf('\n\n')
+	diary off
 
 
 function report(jobname,what)   

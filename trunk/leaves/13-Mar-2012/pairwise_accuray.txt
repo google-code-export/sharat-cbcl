@@ -1,0 +1,837 @@
+---------------------
+Pair wise measure(pairwise_accuray):
+---------------------
+Anacardiaceae,Annonaceae:0.812903 +- 0.004515
+Anacardiaceae,Apocynaceae:0.662286 +- 0.005072
+Anacardiaceae,Betulaceae:0.860000 +- 0.003425
+Anacardiaceae,Celastraceae:0.797561 +- 0.004607
+Anacardiaceae,Combretaceae:0.770504 +- 0.005516
+Anacardiaceae,Ericaceae:0.798611 +- 0.007247
+Anacardiaceae,Fabaceae:0.877986 +- 0.001458
+Anacardiaceae,Fagaceae:0.728276 +- 0.009818
+Anacardiaceae,Lauraceae:0.797475 +- 0.005606
+Anacardiaceae,Malvaceae:0.704054 +- 0.006891
+Anacardiaceae,Melastomataceae:0.861417 +- 0.006008
+Anacardiaceae,Myrtaceae:0.774890 +- 0.004890
+Anacardiaceae,Passifloraceae:0.768908 +- 0.008333
+Anacardiaceae,Phyllanthaceae:0.863478 +- 0.007106
+Anacardiaceae,Rosaceae:0.770625 +- 0.003097
+Anacardiaceae,Rubiaceae:0.848897 +- 0.002417
+Anacardiaceae,Salicaceae:0.853030 +- 0.004403
+Anacardiaceae,Sapindaceae:0.800559 +- 0.003821
+Annonaceae,Apocynaceae:0.811679 +- 0.006645
+Annonaceae,Betulaceae:0.945089 +- 0.002582
+Annonaceae,Celastraceae:0.900450 +- 0.004527
+Annonaceae,Combretaceae:0.816807 +- 0.004303
+Annonaceae,Ericaceae:0.917284 +- 0.002971
+Annonaceae,Fabaceae:0.915209 +- 0.002585
+Annonaceae,Fagaceae:0.869262 +- 0.003259
+Annonaceae,Lauraceae:0.685859 +- 0.004171
+Annonaceae,Malvaceae:0.836437 +- 0.003148
+Annonaceae,Melastomataceae:0.902212 +- 0.003815
+Annonaceae,Myrtaceae:0.853374 +- 0.003624
+Annonaceae,Passifloraceae:0.864220 +- 0.003820
+Annonaceae,Phyllanthaceae:0.868693 +- 0.002389
+Annonaceae,Rosaceae:0.915830 +- 0.002980
+Annonaceae,Rubiaceae:0.880323 +- 0.003294
+Annonaceae,Salicaceae:0.878237 +- 0.002388
+Annonaceae,Sapindaceae:0.916906 +- 0.003101
+Apocynaceae,Betulaceae:0.893407 +- 0.001868
+Apocynaceae,Celastraceae:0.753889 +- 0.006931
+Apocynaceae,Combretaceae:0.781633 +- 0.004221
+Apocynaceae,Ericaceae:0.774627 +- 0.005402
+Apocynaceae,Fabaceae:0.812397 +- 0.001894
+Apocynaceae,Fagaceae:0.719307 +- 0.005623
+Apocynaceae,Lauraceae:0.820000 +- 0.004941
+Apocynaceae,Malvaceae:0.669756 +- 0.007164
+Apocynaceae,Melastomataceae:0.861957 +- 0.003053
+Apocynaceae,Myrtaceae:0.715141 +- 0.003420
+Apocynaceae,Passifloraceae:0.782955 +- 0.003030
+Apocynaceae,Phyllanthaceae:0.866551 +- 0.006103
+Apocynaceae,Rosaceae:0.744700 +- 0.008749
+Apocynaceae,Rubiaceae:0.786626 +- 0.004939
+Apocynaceae,Salicaceae:0.769782 +- 0.004417
+Apocynaceae,Sapindaceae:0.790254 +- 0.006602
+Betulaceae,Celastraceae:0.910000 +- 0.006073
+Betulaceae,Combretaceae:0.926712 +- 0.003237
+Betulaceae,Ericaceae:0.941060 +- 0.002695
+Betulaceae,Fabaceae:0.928341 +- 0.001306
+Betulaceae,Fagaceae:0.810526 +- 0.003070
+Betulaceae,Lauraceae:0.945366 +- 0.003153
+Betulaceae,Malvaceae:0.855484 +- 0.004214
+Betulaceae,Melastomataceae:0.962687 +- 0.001927
+Betulaceae,Myrtaceae:0.929487 +- 0.002722
+Betulaceae,Passifloraceae:0.927778 +- 0.003229
+Betulaceae,Phyllanthaceae:0.936709 +- 0.003387
+Betulaceae,Rosaceae:0.810778 +- 0.005143
+Betulaceae,Rubiaceae:0.925090 +- 0.002695
+Betulaceae,Salicaceae:0.912177 +- 0.002116
+Betulaceae,Sapindaceae:0.872043 +- 0.004149
+Celastraceae,Combretaceae:0.801389 +- 0.006645
+Celastraceae,Ericaceae:0.736913 +- 0.006468
+Celastraceae,Fabaceae:0.879861 +- 0.002140
+Celastraceae,Fagaceae:0.858667 +- 0.004193
+Celastraceae,Lauraceae:0.862069 +- 0.005193
+Celastraceae,Malvaceae:0.818301 +- 0.005407
+Celastraceae,Melastomataceae:0.921212 +- 0.004818
+Celastraceae,Myrtaceae:0.851724 +- 0.006269
+Celastraceae,Passifloraceae:0.849194 +- 0.006253
+Celastraceae,Phyllanthaceae:0.915745 +- 0.002179
+Celastraceae,Rosaceae:0.698788 +- 0.009037
+Celastraceae,Rubiaceae:0.833213 +- 0.004398
+Celastraceae,Salicaceae:0.791450 +- 0.004309
+Celastraceae,Sapindaceae:0.860326 +- 0.007203
+Combretaceae,Ericaceae:0.821212 +- 0.004802
+Combretaceae,Fabaceae:0.889062 +- 0.002446
+Combretaceae,Fagaceae:0.840964 +- 0.006170
+Combretaceae,Lauraceae:0.721005 +- 0.006067
+Combretaceae,Malvaceae:0.791124 +- 0.011054
+Combretaceae,Melastomataceae:0.883108 +- 0.004279
+Combretaceae,Myrtaceae:0.774597 +- 0.004516
+Combretaceae,Passifloraceae:0.750000 +- 0.008109
+Combretaceae,Phyllanthaceae:0.792829 +- 0.003613
+Combretaceae,Rosaceae:0.863536 +- 0.006055
+Combretaceae,Rubiaceae:0.883276 +- 0.004459
+Combretaceae,Salicaceae:0.776842 +- 0.003631
+Combretaceae,Sapindaceae:0.880500 +- 0.002522
+Ericaceae,Fabaceae:0.843929 +- 0.002056
+Ericaceae,Fagaceae:0.857310 +- 0.007146
+Ericaceae,Lauraceae:0.902679 +- 0.003178
+Ericaceae,Malvaceae:0.831034 +- 0.006365
+Ericaceae,Melastomataceae:0.814379 +- 0.006972
+Ericaceae,Myrtaceae:0.835573 +- 0.004175
+Ericaceae,Passifloraceae:0.868276 +- 0.007927
+Ericaceae,Phyllanthaceae:0.910156 +- 0.004802
+Ericaceae,Rosaceae:0.798925 +- 0.001828
+Ericaceae,Rubiaceae:0.882886 +- 0.004624
+Ericaceae,Salicaceae:0.785862 +- 0.006592
+Ericaceae,Sapindaceae:0.903415 +- 0.005080
+Fabaceae,Fagaceae:0.873789 +- 0.003317
+Fabaceae,Lauraceae:0.913609 +- 0.002293
+Fabaceae,Malvaceae:0.838074 +- 0.002260
+Fabaceae,Melastomataceae:0.931193 +- 0.001134
+Fabaceae,Myrtaceae:0.849440 +- 0.003844
+Fabaceae,Passifloraceae:0.911916 +- 0.002091
+Fabaceae,Phyllanthaceae:0.932653 +- 0.001995
+Fabaceae,Rosaceae:0.850746 +- 0.001349
+Fabaceae,Rubiaceae:0.869191 +- 0.001623
+Fabaceae,Salicaceae:0.808202 +- 0.003747
+Fabaceae,Sapindaceae:0.902869 +- 0.002008
+Fagaceae,Lauraceae:0.858667 +- 0.003794
+Fagaceae,Malvaceae:0.740000 +- 0.003927
+Fagaceae,Melastomataceae:0.907143 +- 0.004225
+Fagaceae,Myrtaceae:0.824016 +- 0.005118
+Fagaceae,Passifloraceae:0.838356 +- 0.004811
+Fagaceae,Phyllanthaceae:0.910895 +- 0.004903
+Fagaceae,Rosaceae:0.745989 +- 0.006961
+Fagaceae,Rubiaceae:0.811371 +- 0.003239
+Fagaceae,Salicaceae:0.836426 +- 0.003942
+Fagaceae,Sapindaceae:0.733495 +- 0.004428
+Lauraceae,Malvaceae:0.807018 +- 0.004434
+Lauraceae,Melastomataceae:0.848792 +- 0.003676
+Lauraceae,Myrtaceae:0.829316 +- 0.002182
+Lauraceae,Passifloraceae:0.829648 +- 0.003388
+Lauraceae,Phyllanthaceae:0.767419 +- 0.003312
+Lauraceae,Rosaceae:0.897500 +- 0.003298
+Lauraceae,Rubiaceae:0.892045 +- 0.002358
+Lauraceae,Salicaceae:0.815698 +- 0.005468
+Lauraceae,Sapindaceae:0.903475 +- 0.003205
+Malvaceae,Melastomataceae:0.861783 +- 0.004752
+Malvaceae,Myrtaceae:0.784436 +- 0.003723
+Malvaceae,Passifloraceae:0.736242 +- 0.008951
+Malvaceae,Phyllanthaceae:0.818846 +- 0.004531
+Malvaceae,Rosaceae:0.741053 +- 0.006786
+Malvaceae,Rubiaceae:0.844371 +- 0.003161
+Malvaceae,Salicaceae:0.767347 +- 0.003934
+Malvaceae,Sapindaceae:0.748325 +- 0.004408
+Melastomataceae,Myrtaceae:0.863983 +- 0.004487
+Melastomataceae,Passifloraceae:0.814844 +- 0.005215
+Melastomataceae,Phyllanthaceae:0.885356 +- 0.003701
+Melastomataceae,Rosaceae:0.955621 +- 0.003664
+Melastomataceae,Rubiaceae:0.955516 +- 0.002666
+Melastomataceae,Salicaceae:0.882051 +- 0.002101
+Melastomataceae,Sapindaceae:0.936170 +- 0.002747
+Myrtaceae,Passifloraceae:0.838158 +- 0.001379
+Myrtaceae,Phyllanthaceae:0.831858 +- 0.004078
+Myrtaceae,Rosaceae:0.834944 +- 0.002943
+Myrtaceae,Rubiaceae:0.846719 +- 0.001759
+Myrtaceae,Salicaceae:0.731635 +- 0.004918
+Myrtaceae,Sapindaceae:0.850694 +- 0.003394
+Passifloraceae,Phyllanthaceae:0.830303 +- 0.002723
+Passifloraceae,Rosaceae:0.867702 +- 0.005559
+Passifloraceae,Rubiaceae:0.914286 +- 0.001564
+Passifloraceae,Salicaceae:0.852453 +- 0.001985
+Passifloraceae,Sapindaceae:0.866111 +- 0.005882
+Phyllanthaceae,Rosaceae:0.921691 +- 0.002514
+Phyllanthaceae,Rubiaceae:0.942708 +- 0.002054
+Phyllanthaceae,Salicaceae:0.822340 +- 0.002712
+Phyllanthaceae,Sapindaceae:0.955670 +- 0.002780
+Rosaceae,Rubiaceae:0.819427 +- 0.001960
+Rosaceae,Salicaceae:0.770588 +- 0.006100
+Rosaceae,Sapindaceae:0.759729 +- 0.003124
+Rubiaceae,Salicaceae:0.826555 +- 0.002698
+Rubiaceae,Sapindaceae:0.825526 +- 0.003594
+Salicaceae,Sapindaceae:0.868308 +- 0.005226
+---------------------
+Pair wise measure(pairwise_accuray):
+---------------------
+Anacardiaceae,Annonaceae:0.812903 +- 0.004515
+Anacardiaceae,Apocynaceae:0.662286 +- 0.005072
+Anacardiaceae,Betulaceae:0.860000 +- 0.003425
+Anacardiaceae,Celastraceae:0.797561 +- 0.004607
+Anacardiaceae,Combretaceae:0.770504 +- 0.005516
+Anacardiaceae,Ericaceae:0.798611 +- 0.007247
+Anacardiaceae,Fabaceae:0.877986 +- 0.001458
+Anacardiaceae,Fagaceae:0.728276 +- 0.009818
+Anacardiaceae,Lauraceae:0.797475 +- 0.005606
+Anacardiaceae,Malvaceae:0.704054 +- 0.006891
+Anacardiaceae,Melastomataceae:0.861417 +- 0.006008
+Anacardiaceae,Myrtaceae:0.774890 +- 0.004890
+Anacardiaceae,Passifloraceae:0.768908 +- 0.008333
+Anacardiaceae,Phyllanthaceae:0.863478 +- 0.007106
+Anacardiaceae,Rosaceae:0.770625 +- 0.003097
+Anacardiaceae,Rubiaceae:0.848897 +- 0.002417
+Anacardiaceae,Salicaceae:0.853030 +- 0.004403
+Anacardiaceae,Sapindaceae:0.800559 +- 0.003821
+Annonaceae,Apocynaceae:0.811679 +- 0.006645
+Annonaceae,Betulaceae:0.945089 +- 0.002582
+Annonaceae,Celastraceae:0.900450 +- 0.004527
+Annonaceae,Combretaceae:0.816807 +- 0.004303
+Annonaceae,Ericaceae:0.917284 +- 0.002971
+Annonaceae,Fabaceae:0.915209 +- 0.002585
+Annonaceae,Fagaceae:0.869262 +- 0.003259
+Annonaceae,Lauraceae:0.685859 +- 0.004171
+Annonaceae,Malvaceae:0.836437 +- 0.003148
+Annonaceae,Melastomataceae:0.902212 +- 0.003815
+Annonaceae,Myrtaceae:0.853374 +- 0.003624
+Annonaceae,Passifloraceae:0.864220 +- 0.003820
+Annonaceae,Phyllanthaceae:0.868693 +- 0.002389
+Annonaceae,Rosaceae:0.915830 +- 0.002980
+Annonaceae,Rubiaceae:0.880323 +- 0.003294
+Annonaceae,Salicaceae:0.878237 +- 0.002388
+Annonaceae,Sapindaceae:0.916906 +- 0.003101
+Apocynaceae,Betulaceae:0.893407 +- 0.001868
+Apocynaceae,Celastraceae:0.753889 +- 0.006931
+Apocynaceae,Combretaceae:0.781633 +- 0.004221
+Apocynaceae,Ericaceae:0.774627 +- 0.005402
+Apocynaceae,Fabaceae:0.812397 +- 0.001894
+Apocynaceae,Fagaceae:0.719307 +- 0.005623
+Apocynaceae,Lauraceae:0.820000 +- 0.004941
+Apocynaceae,Malvaceae:0.669756 +- 0.007164
+Apocynaceae,Melastomataceae:0.861957 +- 0.003053
+Apocynaceae,Myrtaceae:0.715141 +- 0.003420
+Apocynaceae,Passifloraceae:0.782955 +- 0.003030
+Apocynaceae,Phyllanthaceae:0.866551 +- 0.006103
+Apocynaceae,Rosaceae:0.744700 +- 0.008749
+Apocynaceae,Rubiaceae:0.786626 +- 0.004939
+Apocynaceae,Salicaceae:0.769782 +- 0.004417
+Apocynaceae,Sapindaceae:0.790254 +- 0.006602
+Betulaceae,Celastraceae:0.910000 +- 0.006073
+Betulaceae,Combretaceae:0.926712 +- 0.003237
+Betulaceae,Ericaceae:0.941060 +- 0.002695
+Betulaceae,Fabaceae:0.928341 +- 0.001306
+Betulaceae,Fagaceae:0.810526 +- 0.003070
+Betulaceae,Lauraceae:0.945366 +- 0.003153
+Betulaceae,Malvaceae:0.855484 +- 0.004214
+Betulaceae,Melastomataceae:0.962687 +- 0.001927
+Betulaceae,Myrtaceae:0.929487 +- 0.002722
+Betulaceae,Passifloraceae:0.927778 +- 0.003229
+Betulaceae,Phyllanthaceae:0.936709 +- 0.003387
+Betulaceae,Rosaceae:0.810778 +- 0.005143
+Betulaceae,Rubiaceae:0.925090 +- 0.002695
+Betulaceae,Salicaceae:0.912177 +- 0.002116
+Betulaceae,Sapindaceae:0.872043 +- 0.004149
+Celastraceae,Combretaceae:0.801389 +- 0.006645
+Celastraceae,Ericaceae:0.736913 +- 0.006468
+Celastraceae,Fabaceae:0.879861 +- 0.002140
+Celastraceae,Fagaceae:0.858667 +- 0.004193
+Celastraceae,Lauraceae:0.862069 +- 0.005193
+Celastraceae,Malvaceae:0.818301 +- 0.005407
+Celastraceae,Melastomataceae:0.921212 +- 0.004818
+Celastraceae,Myrtaceae:0.851724 +- 0.006269
+Celastraceae,Passifloraceae:0.849194 +- 0.006253
+Celastraceae,Phyllanthaceae:0.915745 +- 0.002179
+Celastraceae,Rosaceae:0.698788 +- 0.009037
+Celastraceae,Rubiaceae:0.833213 +- 0.004398
+Celastraceae,Salicaceae:0.791450 +- 0.004309
+Celastraceae,Sapindaceae:0.860326 +- 0.007203
+Combretaceae,Ericaceae:0.821212 +- 0.004802
+Combretaceae,Fabaceae:0.889062 +- 0.002446
+Combretaceae,Fagaceae:0.840964 +- 0.006170
+Combretaceae,Lauraceae:0.721005 +- 0.006067
+Combretaceae,Malvaceae:0.791124 +- 0.011054
+Combretaceae,Melastomataceae:0.883108 +- 0.004279
+Combretaceae,Myrtaceae:0.774597 +- 0.004516
+Combretaceae,Passifloraceae:0.750000 +- 0.008109
+Combretaceae,Phyllanthaceae:0.792829 +- 0.003613
+Combretaceae,Rosaceae:0.863536 +- 0.006055
+Combretaceae,Rubiaceae:0.883276 +- 0.004459
+Combretaceae,Salicaceae:0.776842 +- 0.003631
+Combretaceae,Sapindaceae:0.880500 +- 0.002522
+Ericaceae,Fabaceae:0.843929 +- 0.002056
+Ericaceae,Fagaceae:0.857310 +- 0.007146
+Ericaceae,Lauraceae:0.902679 +- 0.003178
+Ericaceae,Malvaceae:0.831034 +- 0.006365
+Ericaceae,Melastomataceae:0.814379 +- 0.006972
+Ericaceae,Myrtaceae:0.835573 +- 0.004175
+Ericaceae,Passifloraceae:0.868276 +- 0.007927
+Ericaceae,Phyllanthaceae:0.910156 +- 0.004802
+Ericaceae,Rosaceae:0.798925 +- 0.001828
+Ericaceae,Rubiaceae:0.882886 +- 0.004624
+Ericaceae,Salicaceae:0.785862 +- 0.006592
+Ericaceae,Sapindaceae:0.903415 +- 0.005080
+Fabaceae,Fagaceae:0.873789 +- 0.003317
+Fabaceae,Lauraceae:0.913609 +- 0.002293
+Fabaceae,Malvaceae:0.838074 +- 0.002260
+Fabaceae,Melastomataceae:0.931193 +- 0.001134
+Fabaceae,Myrtaceae:0.849440 +- 0.003844
+Fabaceae,Passifloraceae:0.911916 +- 0.002091
+Fabaceae,Phyllanthaceae:0.932653 +- 0.001995
+Fabaceae,Rosaceae:0.850746 +- 0.001349
+Fabaceae,Rubiaceae:0.869191 +- 0.001623
+Fabaceae,Salicaceae:0.808202 +- 0.003747
+Fabaceae,Sapindaceae:0.902869 +- 0.002008
+Fagaceae,Lauraceae:0.858667 +- 0.003794
+Fagaceae,Malvaceae:0.740000 +- 0.003927
+Fagaceae,Melastomataceae:0.907143 +- 0.004225
+Fagaceae,Myrtaceae:0.824016 +- 0.005118
+Fagaceae,Passifloraceae:0.838356 +- 0.004811
+Fagaceae,Phyllanthaceae:0.910895 +- 0.004903
+Fagaceae,Rosaceae:0.745989 +- 0.006961
+Fagaceae,Rubiaceae:0.811371 +- 0.003239
+Fagaceae,Salicaceae:0.836426 +- 0.003942
+Fagaceae,Sapindaceae:0.733495 +- 0.004428
+Lauraceae,Malvaceae:0.807018 +- 0.004434
+Lauraceae,Melastomataceae:0.848792 +- 0.003676
+Lauraceae,Myrtaceae:0.829316 +- 0.002182
+Lauraceae,Passifloraceae:0.829648 +- 0.003388
+Lauraceae,Phyllanthaceae:0.767419 +- 0.003312
+Lauraceae,Rosaceae:0.897500 +- 0.003298
+Lauraceae,Rubiaceae:0.892045 +- 0.002358
+Lauraceae,Salicaceae:0.815698 +- 0.005468
+Lauraceae,Sapindaceae:0.903475 +- 0.003205
+Malvaceae,Melastomataceae:0.861783 +- 0.004752
+Malvaceae,Myrtaceae:0.784436 +- 0.003723
+Malvaceae,Passifloraceae:0.736242 +- 0.008951
+Malvaceae,Phyllanthaceae:0.818846 +- 0.004531
+Malvaceae,Rosaceae:0.741053 +- 0.006786
+Malvaceae,Rubiaceae:0.844371 +- 0.003161
+Malvaceae,Salicaceae:0.767347 +- 0.003934
+Malvaceae,Sapindaceae:0.748325 +- 0.004408
+Melastomataceae,Myrtaceae:0.863983 +- 0.004487
+Melastomataceae,Passifloraceae:0.814844 +- 0.005215
+Melastomataceae,Phyllanthaceae:0.885356 +- 0.003701
+Melastomataceae,Rosaceae:0.955621 +- 0.003664
+Melastomataceae,Rubiaceae:0.955516 +- 0.002666
+Melastomataceae,Salicaceae:0.882051 +- 0.002101
+Melastomataceae,Sapindaceae:0.936170 +- 0.002747
+Myrtaceae,Passifloraceae:0.838158 +- 0.001379
+Myrtaceae,Phyllanthaceae:0.831858 +- 0.004078
+Myrtaceae,Rosaceae:0.834944 +- 0.002943
+Myrtaceae,Rubiaceae:0.846719 +- 0.001759
+Myrtaceae,Salicaceae:0.731635 +- 0.004918
+Myrtaceae,Sapindaceae:0.850694 +- 0.003394
+Passifloraceae,Phyllanthaceae:0.830303 +- 0.002723
+Passifloraceae,Rosaceae:0.867702 +- 0.005559
+Passifloraceae,Rubiaceae:0.914286 +- 0.001564
+Passifloraceae,Salicaceae:0.852453 +- 0.001985
+Passifloraceae,Sapindaceae:0.866111 +- 0.005882
+Phyllanthaceae,Rosaceae:0.921691 +- 0.002514
+Phyllanthaceae,Rubiaceae:0.942708 +- 0.002054
+Phyllanthaceae,Salicaceae:0.822340 +- 0.002712
+Phyllanthaceae,Sapindaceae:0.955670 +- 0.002780
+Rosaceae,Rubiaceae:0.819427 +- 0.001960
+Rosaceae,Salicaceae:0.770588 +- 0.006100
+Rosaceae,Sapindaceae:0.759729 +- 0.003124
+Rubiaceae,Salicaceae:0.826555 +- 0.002698
+Rubiaceae,Sapindaceae:0.825526 +- 0.003594
+Salicaceae,Sapindaceae:0.868308 +- 0.005226
+imagesc(confusion_matrix)
+imagesc(1./confusion_matrix)
+colormap('gray')
+colorbar;
+jobname
+
+jobname =
+
+hmax-features
+
+dbcont
+---------------------
+Pair wise measure(pairwise_accuray):
+---------------------
+Anacardiaceae,Annonaceae:0.812903 +- 0.004515
+Anacardiaceae,Apocynaceae:0.662286 +- 0.005072
+Anacardiaceae,Betulaceae:0.860000 +- 0.003425
+Anacardiaceae,Celastraceae:0.797561 +- 0.004607
+Anacardiaceae,Combretaceae:0.770504 +- 0.005516
+Anacardiaceae,Ericaceae:0.798611 +- 0.007247
+Anacardiaceae,Fabaceae:0.877986 +- 0.001458
+Anacardiaceae,Fagaceae:0.728276 +- 0.009818
+Anacardiaceae,Lauraceae:0.797475 +- 0.005606
+Anacardiaceae,Malvaceae:0.704054 +- 0.006891
+Anacardiaceae,Melastomataceae:0.861417 +- 0.006008
+Anacardiaceae,Myrtaceae:0.774890 +- 0.004890
+Anacardiaceae,Passifloraceae:0.768908 +- 0.008333
+Anacardiaceae,Phyllanthaceae:0.863478 +- 0.007106
+Anacardiaceae,Rosaceae:0.770625 +- 0.003097
+Anacardiaceae,Rubiaceae:0.848897 +- 0.002417
+Anacardiaceae,Salicaceae:0.853030 +- 0.004403
+Anacardiaceae,Sapindaceae:0.800559 +- 0.003821
+Annonaceae,Apocynaceae:0.811679 +- 0.006645
+Annonaceae,Betulaceae:0.945089 +- 0.002582
+Annonaceae,Celastraceae:0.900450 +- 0.004527
+Annonaceae,Combretaceae:0.816807 +- 0.004303
+Annonaceae,Ericaceae:0.917284 +- 0.002971
+Annonaceae,Fabaceae:0.915209 +- 0.002585
+Annonaceae,Fagaceae:0.869262 +- 0.003259
+Annonaceae,Lauraceae:0.685859 +- 0.004171
+Annonaceae,Malvaceae:0.836437 +- 0.003148
+Annonaceae,Melastomataceae:0.902212 +- 0.003815
+Annonaceae,Myrtaceae:0.853374 +- 0.003624
+Annonaceae,Passifloraceae:0.864220 +- 0.003820
+Annonaceae,Phyllanthaceae:0.868693 +- 0.002389
+Annonaceae,Rosaceae:0.915830 +- 0.002980
+Annonaceae,Rubiaceae:0.880323 +- 0.003294
+Annonaceae,Salicaceae:0.878237 +- 0.002388
+Annonaceae,Sapindaceae:0.916906 +- 0.003101
+Apocynaceae,Betulaceae:0.893407 +- 0.001868
+Apocynaceae,Celastraceae:0.753889 +- 0.006931
+Apocynaceae,Combretaceae:0.781633 +- 0.004221
+Apocynaceae,Ericaceae:0.774627 +- 0.005402
+Apocynaceae,Fabaceae:0.812397 +- 0.001894
+Apocynaceae,Fagaceae:0.719307 +- 0.005623
+Apocynaceae,Lauraceae:0.820000 +- 0.004941
+Apocynaceae,Malvaceae:0.669756 +- 0.007164
+Apocynaceae,Melastomataceae:0.861957 +- 0.003053
+Apocynaceae,Myrtaceae:0.715141 +- 0.003420
+Apocynaceae,Passifloraceae:0.782955 +- 0.003030
+Apocynaceae,Phyllanthaceae:0.866551 +- 0.006103
+Apocynaceae,Rosaceae:0.744700 +- 0.008749
+Apocynaceae,Rubiaceae:0.786626 +- 0.004939
+Apocynaceae,Salicaceae:0.769782 +- 0.004417
+Apocynaceae,Sapindaceae:0.790254 +- 0.006602
+Betulaceae,Celastraceae:0.910000 +- 0.006073
+Betulaceae,Combretaceae:0.926712 +- 0.003237
+Betulaceae,Ericaceae:0.941060 +- 0.002695
+Betulaceae,Fabaceae:0.928341 +- 0.001306
+Betulaceae,Fagaceae:0.810526 +- 0.003070
+Betulaceae,Lauraceae:0.945366 +- 0.003153
+Betulaceae,Malvaceae:0.855484 +- 0.004214
+Betulaceae,Melastomataceae:0.962687 +- 0.001927
+Betulaceae,Myrtaceae:0.929487 +- 0.002722
+Betulaceae,Passifloraceae:0.927778 +- 0.003229
+Betulaceae,Phyllanthaceae:0.936709 +- 0.003387
+Betulaceae,Rosaceae:0.810778 +- 0.005143
+Betulaceae,Rubiaceae:0.925090 +- 0.002695
+Betulaceae,Salicaceae:0.912177 +- 0.002116
+Betulaceae,Sapindaceae:0.872043 +- 0.004149
+Celastraceae,Combretaceae:0.801389 +- 0.006645
+Celastraceae,Ericaceae:0.736913 +- 0.006468
+Celastraceae,Fabaceae:0.879861 +- 0.002140
+Celastraceae,Fagaceae:0.858667 +- 0.004193
+Celastraceae,Lauraceae:0.862069 +- 0.005193
+Celastraceae,Malvaceae:0.818301 +- 0.005407
+Celastraceae,Melastomataceae:0.921212 +- 0.004818
+Celastraceae,Myrtaceae:0.851724 +- 0.006269
+Celastraceae,Passifloraceae:0.849194 +- 0.006253
+Celastraceae,Phyllanthaceae:0.915745 +- 0.002179
+Celastraceae,Rosaceae:0.698788 +- 0.009037
+Celastraceae,Rubiaceae:0.833213 +- 0.004398
+Celastraceae,Salicaceae:0.791450 +- 0.004309
+Celastraceae,Sapindaceae:0.860326 +- 0.007203
+Combretaceae,Ericaceae:0.821212 +- 0.004802
+Combretaceae,Fabaceae:0.889062 +- 0.002446
+Combretaceae,Fagaceae:0.840964 +- 0.006170
+Combretaceae,Lauraceae:0.721005 +- 0.006067
+Combretaceae,Malvaceae:0.791124 +- 0.011054
+Combretaceae,Melastomataceae:0.883108 +- 0.004279
+Combretaceae,Myrtaceae:0.774597 +- 0.004516
+Combretaceae,Passifloraceae:0.750000 +- 0.008109
+Combretaceae,Phyllanthaceae:0.792829 +- 0.003613
+Combretaceae,Rosaceae:0.863536 +- 0.006055
+Combretaceae,Rubiaceae:0.883276 +- 0.004459
+Combretaceae,Salicaceae:0.776842 +- 0.003631
+Combretaceae,Sapindaceae:0.880500 +- 0.002522
+Ericaceae,Fabaceae:0.843929 +- 0.002056
+Ericaceae,Fagaceae:0.857310 +- 0.007146
+Ericaceae,Lauraceae:0.902679 +- 0.003178
+Ericaceae,Malvaceae:0.831034 +- 0.006365
+Ericaceae,Melastomataceae:0.814379 +- 0.006972
+Ericaceae,Myrtaceae:0.835573 +- 0.004175
+Ericaceae,Passifloraceae:0.868276 +- 0.007927
+Ericaceae,Phyllanthaceae:0.910156 +- 0.004802
+Ericaceae,Rosaceae:0.798925 +- 0.001828
+Ericaceae,Rubiaceae:0.882886 +- 0.004624
+Ericaceae,Salicaceae:0.785862 +- 0.006592
+Ericaceae,Sapindaceae:0.903415 +- 0.005080
+Fabaceae,Fagaceae:0.873789 +- 0.003317
+Fabaceae,Lauraceae:0.913609 +- 0.002293
+Fabaceae,Malvaceae:0.838074 +- 0.002260
+Fabaceae,Melastomataceae:0.931193 +- 0.001134
+Fabaceae,Myrtaceae:0.849440 +- 0.003844
+Fabaceae,Passifloraceae:0.911916 +- 0.002091
+Fabaceae,Phyllanthaceae:0.932653 +- 0.001995
+Fabaceae,Rosaceae:0.850746 +- 0.001349
+Fabaceae,Rubiaceae:0.869191 +- 0.001623
+Fabaceae,Salicaceae:0.808202 +- 0.003747
+Fabaceae,Sapindaceae:0.902869 +- 0.002008
+Fagaceae,Lauraceae:0.858667 +- 0.003794
+Fagaceae,Malvaceae:0.740000 +- 0.003927
+Fagaceae,Melastomataceae:0.907143 +- 0.004225
+Fagaceae,Myrtaceae:0.824016 +- 0.005118
+Fagaceae,Passifloraceae:0.838356 +- 0.004811
+Fagaceae,Phyllanthaceae:0.910895 +- 0.004903
+Fagaceae,Rosaceae:0.745989 +- 0.006961
+Fagaceae,Rubiaceae:0.811371 +- 0.003239
+Fagaceae,Salicaceae:0.836426 +- 0.003942
+Fagaceae,Sapindaceae:0.733495 +- 0.004428
+Lauraceae,Malvaceae:0.807018 +- 0.004434
+Lauraceae,Melastomataceae:0.848792 +- 0.003676
+Lauraceae,Myrtaceae:0.829316 +- 0.002182
+Lauraceae,Passifloraceae:0.829648 +- 0.003388
+Lauraceae,Phyllanthaceae:0.767419 +- 0.003312
+Lauraceae,Rosaceae:0.897500 +- 0.003298
+Lauraceae,Rubiaceae:0.892045 +- 0.002358
+Lauraceae,Salicaceae:0.815698 +- 0.005468
+Lauraceae,Sapindaceae:0.903475 +- 0.003205
+Malvaceae,Melastomataceae:0.861783 +- 0.004752
+Malvaceae,Myrtaceae:0.784436 +- 0.003723
+Malvaceae,Passifloraceae:0.736242 +- 0.008951
+Malvaceae,Phyllanthaceae:0.818846 +- 0.004531
+Malvaceae,Rosaceae:0.741053 +- 0.006786
+Malvaceae,Rubiaceae:0.844371 +- 0.003161
+Malvaceae,Salicaceae:0.767347 +- 0.003934
+Malvaceae,Sapindaceae:0.748325 +- 0.004408
+Melastomataceae,Myrtaceae:0.863983 +- 0.004487
+Melastomataceae,Passifloraceae:0.814844 +- 0.005215
+Melastomataceae,Phyllanthaceae:0.885356 +- 0.003701
+Melastomataceae,Rosaceae:0.955621 +- 0.003664
+Melastomataceae,Rubiaceae:0.955516 +- 0.002666
+Melastomataceae,Salicaceae:0.882051 +- 0.002101
+Melastomataceae,Sapindaceae:0.936170 +- 0.002747
+Myrtaceae,Passifloraceae:0.838158 +- 0.001379
+Myrtaceae,Phyllanthaceae:0.831858 +- 0.004078
+Myrtaceae,Rosaceae:0.834944 +- 0.002943
+Myrtaceae,Rubiaceae:0.846719 +- 0.001759
+Myrtaceae,Salicaceae:0.731635 +- 0.004918
+Myrtaceae,Sapindaceae:0.850694 +- 0.003394
+Passifloraceae,Phyllanthaceae:0.830303 +- 0.002723
+Passifloraceae,Rosaceae:0.867702 +- 0.005559
+Passifloraceae,Rubiaceae:0.914286 +- 0.001564
+Passifloraceae,Salicaceae:0.852453 +- 0.001985
+Passifloraceae,Sapindaceae:0.866111 +- 0.005882
+Phyllanthaceae,Rosaceae:0.921691 +- 0.002514
+Phyllanthaceae,Rubiaceae:0.942708 +- 0.002054
+Phyllanthaceae,Salicaceae:0.822340 +- 0.002712
+Phyllanthaceae,Sapindaceae:0.955670 +- 0.002780
+Rosaceae,Rubiaceae:0.819427 +- 0.001960
+Rosaceae,Salicaceae:0.770588 +- 0.006100
+Rosaceae,Sapindaceae:0.759729 +- 0.003124
+Rubiaceae,Salicaceae:0.826555 +- 0.002698
+Rubiaceae,Sapindaceae:0.825526 +- 0.003594
+Salicaceae,Sapindaceae:0.868308 +- 0.005226
+colormap
+
+ans =
+
+         0         0    0.5625
+         0         0    0.6250
+         0         0    0.6875
+         0         0    0.7500
+         0         0    0.8125
+         0         0    0.8750
+         0         0    0.9375
+         0         0    1.0000
+         0    0.0625    1.0000
+         0    0.1250    1.0000
+         0    0.1875    1.0000
+         0    0.2500    1.0000
+         0    0.3125    1.0000
+         0    0.3750    1.0000
+         0    0.4375    1.0000
+         0    0.5000    1.0000
+         0    0.5625    1.0000
+         0    0.6250    1.0000
+         0    0.6875    1.0000
+         0    0.7500    1.0000
+         0    0.8125    1.0000
+         0    0.8750    1.0000
+         0    0.9375    1.0000
+         0    1.0000    1.0000
+    0.0625    1.0000    0.9375
+    0.1250    1.0000    0.8750
+    0.1875    1.0000    0.8125
+    0.2500    1.0000    0.7500
+    0.3125    1.0000    0.6875
+    0.3750    1.0000    0.6250
+    0.4375    1.0000    0.5625
+    0.5000    1.0000    0.5000
+    0.5625    1.0000    0.4375
+    0.6250    1.0000    0.3750
+    0.6875    1.0000    0.3125
+    0.7500    1.0000    0.2500
+    0.8125    1.0000    0.1875
+    0.8750    1.0000    0.1250
+    0.9375    1.0000    0.0625
+    1.0000    1.0000         0
+    1.0000    0.9375         0
+    1.0000    0.8750         0
+    1.0000    0.8125         0
+    1.0000    0.7500         0
+    1.0000    0.6875         0
+    1.0000    0.6250         0
+    1.0000    0.5625         0
+    1.0000    0.5000         0
+    1.0000    0.4375         0
+    1.0000    0.3750         0
+    1.0000    0.3125         0
+    1.0000    0.2500         0
+    1.0000    0.1875         0
+    1.0000    0.1250         0
+    1.0000    0.0625         0
+    1.0000         0         0
+    0.9375         0         0
+    0.8750         0         0
+    0.8125         0         0
+    0.7500         0         0
+    0.6875         0         0
+    0.6250         0         0
+    0.5625         0         0
+    0.5000         0         0
+
+colorbar
+dbcont
+---------------------
+Pair wise measure(pairwise_accuray):
+---------------------
+Anacardiaceae,Annonaceae:0.812903 +- 0.004515
+Anacardiaceae,Apocynaceae:0.662286 +- 0.005072
+Anacardiaceae,Betulaceae:0.860000 +- 0.003425
+Anacardiaceae,Celastraceae:0.797561 +- 0.004607
+Anacardiaceae,Combretaceae:0.770504 +- 0.005516
+Anacardiaceae,Ericaceae:0.798611 +- 0.007247
+Anacardiaceae,Fabaceae:0.877986 +- 0.001458
+Anacardiaceae,Fagaceae:0.728276 +- 0.009818
+Anacardiaceae,Lauraceae:0.797475 +- 0.005606
+Anacardiaceae,Malvaceae:0.704054 +- 0.006891
+Anacardiaceae,Melastomataceae:0.861417 +- 0.006008
+Anacardiaceae,Myrtaceae:0.774890 +- 0.004890
+Anacardiaceae,Passifloraceae:0.768908 +- 0.008333
+Anacardiaceae,Phyllanthaceae:0.863478 +- 0.007106
+Anacardiaceae,Rosaceae:0.770625 +- 0.003097
+Anacardiaceae,Rubiaceae:0.848897 +- 0.002417
+Anacardiaceae,Salicaceae:0.853030 +- 0.004403
+Anacardiaceae,Sapindaceae:0.800559 +- 0.003821
+Annonaceae,Apocynaceae:0.811679 +- 0.006645
+Annonaceae,Betulaceae:0.945089 +- 0.002582
+Annonaceae,Celastraceae:0.900450 +- 0.004527
+Annonaceae,Combretaceae:0.816807 +- 0.004303
+Annonaceae,Ericaceae:0.917284 +- 0.002971
+Annonaceae,Fabaceae:0.915209 +- 0.002585
+Annonaceae,Fagaceae:0.869262 +- 0.003259
+Annonaceae,Lauraceae:0.685859 +- 0.004171
+Annonaceae,Malvaceae:0.836437 +- 0.003148
+Annonaceae,Melastomataceae:0.902212 +- 0.003815
+Annonaceae,Myrtaceae:0.853374 +- 0.003624
+Annonaceae,Passifloraceae:0.864220 +- 0.003820
+Annonaceae,Phyllanthaceae:0.868693 +- 0.002389
+Annonaceae,Rosaceae:0.915830 +- 0.002980
+Annonaceae,Rubiaceae:0.880323 +- 0.003294
+Annonaceae,Salicaceae:0.878237 +- 0.002388
+Annonaceae,Sapindaceae:0.916906 +- 0.003101
+Apocynaceae,Betulaceae:0.893407 +- 0.001868
+Apocynaceae,Celastraceae:0.753889 +- 0.006931
+Apocynaceae,Combretaceae:0.781633 +- 0.004221
+Apocynaceae,Ericaceae:0.774627 +- 0.005402
+Apocynaceae,Fabaceae:0.812397 +- 0.001894
+Apocynaceae,Fagaceae:0.719307 +- 0.005623
+Apocynaceae,Lauraceae:0.820000 +- 0.004941
+Apocynaceae,Malvaceae:0.669756 +- 0.007164
+Apocynaceae,Melastomataceae:0.861957 +- 0.003053
+Apocynaceae,Myrtaceae:0.715141 +- 0.003420
+Apocynaceae,Passifloraceae:0.782955 +- 0.003030
+Apocynaceae,Phyllanthaceae:0.866551 +- 0.006103
+Apocynaceae,Rosaceae:0.744700 +- 0.008749
+Apocynaceae,Rubiaceae:0.786626 +- 0.004939
+Apocynaceae,Salicaceae:0.769782 +- 0.004417
+Apocynaceae,Sapindaceae:0.790254 +- 0.006602
+Betulaceae,Celastraceae:0.910000 +- 0.006073
+Betulaceae,Combretaceae:0.926712 +- 0.003237
+Betulaceae,Ericaceae:0.941060 +- 0.002695
+Betulaceae,Fabaceae:0.928341 +- 0.001306
+Betulaceae,Fagaceae:0.810526 +- 0.003070
+Betulaceae,Lauraceae:0.945366 +- 0.003153
+Betulaceae,Malvaceae:0.855484 +- 0.004214
+Betulaceae,Melastomataceae:0.962687 +- 0.001927
+Betulaceae,Myrtaceae:0.929487 +- 0.002722
+Betulaceae,Passifloraceae:0.927778 +- 0.003229
+Betulaceae,Phyllanthaceae:0.936709 +- 0.003387
+Betulaceae,Rosaceae:0.810778 +- 0.005143
+Betulaceae,Rubiaceae:0.925090 +- 0.002695
+Betulaceae,Salicaceae:0.912177 +- 0.002116
+Betulaceae,Sapindaceae:0.872043 +- 0.004149
+Celastraceae,Combretaceae:0.801389 +- 0.006645
+Celastraceae,Ericaceae:0.736913 +- 0.006468
+Celastraceae,Fabaceae:0.879861 +- 0.002140
+Celastraceae,Fagaceae:0.858667 +- 0.004193
+Celastraceae,Lauraceae:0.862069 +- 0.005193
+Celastraceae,Malvaceae:0.818301 +- 0.005407
+Celastraceae,Melastomataceae:0.921212 +- 0.004818
+Celastraceae,Myrtaceae:0.851724 +- 0.006269
+Celastraceae,Passifloraceae:0.849194 +- 0.006253
+Celastraceae,Phyllanthaceae:0.915745 +- 0.002179
+Celastraceae,Rosaceae:0.698788 +- 0.009037
+Celastraceae,Rubiaceae:0.833213 +- 0.004398
+Celastraceae,Salicaceae:0.791450 +- 0.004309
+Celastraceae,Sapindaceae:0.860326 +- 0.007203
+Combretaceae,Ericaceae:0.821212 +- 0.004802
+Combretaceae,Fabaceae:0.889062 +- 0.002446
+Combretaceae,Fagaceae:0.840964 +- 0.006170
+Combretaceae,Lauraceae:0.721005 +- 0.006067
+Combretaceae,Malvaceae:0.791124 +- 0.011054
+Combretaceae,Melastomataceae:0.883108 +- 0.004279
+Combretaceae,Myrtaceae:0.774597 +- 0.004516
+Combretaceae,Passifloraceae:0.750000 +- 0.008109
+Combretaceae,Phyllanthaceae:0.792829 +- 0.003613
+Combretaceae,Rosaceae:0.863536 +- 0.006055
+Combretaceae,Rubiaceae:0.883276 +- 0.004459
+Combretaceae,Salicaceae:0.776842 +- 0.003631
+Combretaceae,Sapindaceae:0.880500 +- 0.002522
+Ericaceae,Fabaceae:0.843929 +- 0.002056
+Ericaceae,Fagaceae:0.857310 +- 0.007146
+Ericaceae,Lauraceae:0.902679 +- 0.003178
+Ericaceae,Malvaceae:0.831034 +- 0.006365
+Ericaceae,Melastomataceae:0.814379 +- 0.006972
+Ericaceae,Myrtaceae:0.835573 +- 0.004175
+Ericaceae,Passifloraceae:0.868276 +- 0.007927
+Ericaceae,Phyllanthaceae:0.910156 +- 0.004802
+Ericaceae,Rosaceae:0.798925 +- 0.001828
+Ericaceae,Rubiaceae:0.882886 +- 0.004624
+Ericaceae,Salicaceae:0.785862 +- 0.006592
+Ericaceae,Sapindaceae:0.903415 +- 0.005080
+Fabaceae,Fagaceae:0.873789 +- 0.003317
+Fabaceae,Lauraceae:0.913609 +- 0.002293
+Fabaceae,Malvaceae:0.838074 +- 0.002260
+Fabaceae,Melastomataceae:0.931193 +- 0.001134
+Fabaceae,Myrtaceae:0.849440 +- 0.003844
+Fabaceae,Passifloraceae:0.911916 +- 0.002091
+Fabaceae,Phyllanthaceae:0.932653 +- 0.001995
+Fabaceae,Rosaceae:0.850746 +- 0.001349
+Fabaceae,Rubiaceae:0.869191 +- 0.001623
+Fabaceae,Salicaceae:0.808202 +- 0.003747
+Fabaceae,Sapindaceae:0.902869 +- 0.002008
+Fagaceae,Lauraceae:0.858667 +- 0.003794
+Fagaceae,Malvaceae:0.740000 +- 0.003927
+Fagaceae,Melastomataceae:0.907143 +- 0.004225
+Fagaceae,Myrtaceae:0.824016 +- 0.005118
+Fagaceae,Passifloraceae:0.838356 +- 0.004811
+Fagaceae,Phyllanthaceae:0.910895 +- 0.004903
+Fagaceae,Rosaceae:0.745989 +- 0.006961
+Fagaceae,Rubiaceae:0.811371 +- 0.003239
+Fagaceae,Salicaceae:0.836426 +- 0.003942
+Fagaceae,Sapindaceae:0.733495 +- 0.004428
+Lauraceae,Malvaceae:0.807018 +- 0.004434
+Lauraceae,Melastomataceae:0.848792 +- 0.003676
+Lauraceae,Myrtaceae:0.829316 +- 0.002182
+Lauraceae,Passifloraceae:0.829648 +- 0.003388
+Lauraceae,Phyllanthaceae:0.767419 +- 0.003312
+Lauraceae,Rosaceae:0.897500 +- 0.003298
+Lauraceae,Rubiaceae:0.892045 +- 0.002358
+Lauraceae,Salicaceae:0.815698 +- 0.005468
+Lauraceae,Sapindaceae:0.903475 +- 0.003205
+Malvaceae,Melastomataceae:0.861783 +- 0.004752
+Malvaceae,Myrtaceae:0.784436 +- 0.003723
+Malvaceae,Passifloraceae:0.736242 +- 0.008951
+Malvaceae,Phyllanthaceae:0.818846 +- 0.004531
+Malvaceae,Rosaceae:0.741053 +- 0.006786
+Malvaceae,Rubiaceae:0.844371 +- 0.003161
+Malvaceae,Salicaceae:0.767347 +- 0.003934
+Malvaceae,Sapindaceae:0.748325 +- 0.004408
+Melastomataceae,Myrtaceae:0.863983 +- 0.004487
+Melastomataceae,Passifloraceae:0.814844 +- 0.005215
+Melastomataceae,Phyllanthaceae:0.885356 +- 0.003701
+Melastomataceae,Rosaceae:0.955621 +- 0.003664
+Melastomataceae,Rubiaceae:0.955516 +- 0.002666
+Melastomataceae,Salicaceae:0.882051 +- 0.002101
+Melastomataceae,Sapindaceae:0.936170 +- 0.002747
+Myrtaceae,Passifloraceae:0.838158 +- 0.001379
+Myrtaceae,Phyllanthaceae:0.831858 +- 0.004078
+Myrtaceae,Rosaceae:0.834944 +- 0.002943
+Myrtaceae,Rubiaceae:0.846719 +- 0.001759
+Myrtaceae,Salicaceae:0.731635 +- 0.004918
+Myrtaceae,Sapindaceae:0.850694 +- 0.003394
+Passifloraceae,Phyllanthaceae:0.830303 +- 0.002723
+Passifloraceae,Rosaceae:0.867702 +- 0.005559
+Passifloraceae,Rubiaceae:0.914286 +- 0.001564
+Passifloraceae,Salicaceae:0.852453 +- 0.001985
+Passifloraceae,Sapindaceae:0.866111 +- 0.005882
+Phyllanthaceae,Rosaceae:0.921691 +- 0.002514
+Phyllanthaceae,Rubiaceae:0.942708 +- 0.002054
+Phyllanthaceae,Salicaceae:0.822340 +- 0.002712
+Phyllanthaceae,Sapindaceae:0.955670 +- 0.002780
+Rosaceae,Rubiaceae:0.819427 +- 0.001960
+Rosaceae,Salicaceae:0.770588 +- 0.006100
+Rosaceae,Sapindaceae:0.759729 +- 0.003124
+Rubiaceae,Salicaceae:0.826555 +- 0.002698
+Rubiaceae,Sapindaceae:0.825526 +- 0.003594
+Salicaceae,Sapindaceae:0.868308 +- 0.005226
+imagesc(1./confusion_matrix)
+confusion_matrix
+
+confusion_matrix =
+
+  Columns 1 through 12
+
+    0.0010    0.8129    0.6623    0.8600    0.7976    0.7705    0.7986    0.8780    0.7283    0.7975    0.7041    0.8614
+    0.8129    0.0010    0.8117    0.9451    0.9005    0.8168    0.9173    0.9152    0.8693    0.6859    0.8364    0.9022
+    0.6623    0.8117    0.0010    0.8934    0.7539    0.7816    0.7746    0.8124    0.7193    0.8200    0.6698    0.8620
+    0.8600    0.9451    0.8934    0.0010    0.9100    0.9267    0.9411    0.9283    0.8105    0.9454    0.8555    0.9627
+    0.7976    0.9005    0.7539    0.9100    0.0010    0.8014    0.7369    0.8799    0.8587    0.8621    0.8183    0.9212
+    0.7705    0.8168    0.7816    0.9267    0.8014    0.0010    0.8212    0.8891    0.8410    0.7210    0.7911    0.8831
+    0.7986    0.9173    0.7746    0.9411    0.7369    0.8212    0.0010    0.8439    0.8573    0.9027    0.8310    0.8144
+    0.8780    0.9152    0.8124    0.9283    0.8799    0.8891    0.8439    0.0010    0.8738    0.9136    0.8381    0.9312
+    0.7283    0.8693    0.7193    0.8105    0.8587    0.8410    0.8573    0.8738    0.0010    0.8587    0.7400    0.9071
+    0.7975    0.6859    0.8200    0.9454    0.8621    0.7210    0.9027    0.9136    0.8587    0.0010    0.8070    0.8488
+    0.7041    0.8364    0.6698    0.8555    0.8183    0.7911    0.8310    0.8381    0.7400    0.8070    0.0010    0.8618
+    0.8614    0.9022    0.8620    0.9627    0.9212    0.8831    0.8144    0.9312    0.9071    0.8488    0.8618    0.0010
+    0.7749    0.8534    0.7151    0.9295    0.8517    0.7746    0.8356    0.8494    0.8240    0.8293    0.7844    0.8640
+    0.7689    0.8642    0.7830    0.9278    0.8492    0.7500    0.8683    0.9119    0.8384    0.8296    0.7362    0.8148
+    0.8635    0.8687    0.8666    0.9367    0.9157    0.7928    0.9102    0.9327    0.9109    0.7674    0.8188    0.8854
+    0.7706    0.9158    0.7447    0.8108    0.6988    0.8635    0.7989    0.8507    0.7460    0.8975    0.7411    0.9556
+    0.8489    0.8803    0.7866    0.9251    0.8332    0.8833    0.8829    0.8692    0.8114    0.8920    0.8444    0.9555
+    0.8530    0.8782    0.7698    0.9122    0.7914    0.7768    0.7859    0.8082    0.8364    0.8157    0.7673    0.8821
+    0.8006    0.9169    0.7903    0.8720    0.8603    0.8805    0.9034    0.9029    0.7335    0.9035    0.7483    0.9362
+
+  Columns 13 through 19
+
+    0.7749    0.7689    0.8635    0.7706    0.8489    0.8530    0.8006
+    0.8534    0.8642    0.8687    0.9158    0.8803    0.8782    0.9169
+    0.7151    0.7830    0.8666    0.7447    0.7866    0.7698    0.7903
+    0.9295    0.9278    0.9367    0.8108    0.9251    0.9122    0.8720
+    0.8517    0.8492    0.9157    0.6988    0.8332    0.7914    0.8603
+    0.7746    0.7500    0.7928    0.8635    0.8833    0.7768    0.8805
+    0.8356    0.8683    0.9102    0.7989    0.8829    0.7859    0.9034
+    0.8494    0.9119    0.9327    0.8507    0.8692    0.8082    0.9029
+    0.8240    0.8384    0.9109    0.7460    0.8114    0.8364    0.7335
+    0.8293    0.8296    0.7674    0.8975    0.8920    0.8157    0.9035
+    0.7844    0.7362    0.8188    0.7411    0.8444    0.7673    0.7483
+    0.8640    0.8148    0.8854    0.9556    0.9555    0.8821    0.9362
+    0.0010    0.8382    0.8319    0.8349    0.8467    0.7316    0.8507
+    0.8382    0.0010    0.8303    0.8677    0.9143    0.8525    0.8661
+    0.8319    0.8303    0.0010    0.9217    0.9427    0.8223    0.9557
+    0.8349    0.8677    0.9217    0.0010    0.8194    0.7706    0.7597
+    0.8467    0.9143    0.9427    0.8194    0.0010    0.8266    0.8255
+    0.7316    0.8525    0.8223    0.7706    0.8266    0.0010    0.8683
+    0.8507    0.8661    0.9557    0.7597    0.8255    0.8683    0.0010
+
+confusion_matrix(confusion_matrix==0.01)=min(confusion_matrix(:));
+imagesc(1./confusion_matrix)
+close all
+imagesc(1./confusion_matrix)
+colorbar
+confusion_matrix(confusion_matrix==0.01)=9.2;
+confusion_matrix(confusion_matrix==9.2)=0.9;
+imagesc(1./confusion_matrix)
+colorbar
+dbcont
