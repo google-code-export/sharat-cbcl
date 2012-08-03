@@ -1,0 +1,265 @@
+---------------------
+Pair wise measure:
+---------------------
+Anacardiaceae,Annonaceae:NaN +- NaN
+Anacardiaceae,Apocynaceae:NaN +- NaN
+Anacardiaceae,Betulaceae:NaN +- NaN
+Anacardiaceae,Celastraceae:NaN +- NaN
+Anacardiaceae,Combretaceae:NaN +- NaN
+Anacardiaceae,Ericaceae:NaN +- NaN
+Anacardiaceae,Fabaceae:NaN +- NaN
+Anacardiaceae,Fagaceae:NaN +- NaN
+Anacardiaceae,Lauraceae:NaN +- NaN
+Anacardiaceae,Malvaceae:NaN +- NaN
+Anacardiaceae,Melastomataceae:NaN +- NaN
+Anacardiaceae,Myrtaceae:NaN +- NaN
+Anacardiaceae,Passifloraceae:NaN +- NaN
+Anacardiaceae,Phyllanthaceae:NaN +- NaN
+Anacardiaceae,Rosaceae:NaN +- NaN
+Anacardiaceae,Rubiaceae:NaN +- NaN
+Anacardiaceae,Salicaceae:NaN +- NaN
+Anacardiaceae,Sapindaceae:NaN +- NaN
+Annonaceae,Apocynaceae:0.035723 +- 0.015262
+Annonaceae,Betulaceae:0.000006 +- 0.000001
+Annonaceae,Celastraceae:0.016623 +- 0.007254
+Annonaceae,Combretaceae:0.035145 +- 0.012192
+Annonaceae,Ericaceae:0.010276 +- 0.005242
+Annonaceae,Fabaceae:0.059297 +- 0.008363
+Annonaceae,Fagaceae:0.026630 +- 0.008049
+Annonaceae,Lauraceae:0.084927 +- 0.017003
+Annonaceae,Malvaceae:0.024074 +- 0.011799
+Annonaceae,Melastomataceae:0.000004 +- 0.000001
+Annonaceae,Myrtaceae:0.016339 +- 0.007191
+Annonaceae,Passifloraceae:0.005888 +- 0.005882
+Annonaceae,Phyllanthaceae:0.022775 +- 0.006834
+Annonaceae,Rosaceae:0.006786 +- 0.004523
+Annonaceae,Rubiaceae:0.044947 +- 0.012438
+Annonaceae,Salicaceae:0.028700 +- 0.009862
+Annonaceae,Sapindaceae:0.019510 +- 0.005326
+Apocynaceae,Betulaceae:0.000005 +- 0.000001
+Apocynaceae,Celastraceae:0.054853 +- 0.024545
+Apocynaceae,Combretaceae:0.014292 +- 0.014286
+Apocynaceae,Ericaceae:0.100049 +- 0.041682
+Apocynaceae,Fabaceae:0.087355 +- 0.026590
+Apocynaceae,Fagaceae:0.000004 +- 0.000001
+Apocynaceae,Lauraceae:0.016672 +- 0.016667
+Apocynaceae,Malvaceae:0.038262 +- 0.020284
+Apocynaceae,Melastomataceae:0.000004 +- 0.000001
+Apocynaceae,Myrtaceae:0.106875 +- 0.041788
+Apocynaceae,Passifloraceae:0.020005 +- 0.020000
+Apocynaceae,Phyllanthaceae:0.012505 +- 0.012500
+Apocynaceae,Rosaceae:0.065761 +- 0.041204
+Apocynaceae,Rubiaceae:0.063944 +- 0.027532
+Apocynaceae,Salicaceae:0.050687 +- 0.022722
+Apocynaceae,Sapindaceae:0.000005 +- 0.000001
+Betulaceae,Celastraceae:0.000005 +- 0.000001
+Betulaceae,Combretaceae:0.000003 +- 0.000001
+Betulaceae,Ericaceae:0.000004 +- 0.000001
+Betulaceae,Fabaceae:0.060322 +- 0.030197
+Betulaceae,Fagaceae:0.067697 +- 0.024715
+Betulaceae,Lauraceae:0.000005 +- 0.000001
+Betulaceae,Malvaceae:0.018060 +- 0.013103
+Betulaceae,Melastomataceae:0.000007 +- 0.000001
+Betulaceae,Myrtaceae:0.006671 +- 0.006667
+Betulaceae,Passifloraceae:0.006671 +- 0.006667
+Betulaceae,Phyllanthaceae:0.006673 +- 0.006667
+Betulaceae,Rosaceae:0.113480 +- 0.024615
+Betulaceae,Rubiaceae:0.018061 +- 0.013103
+Betulaceae,Salicaceae:0.032149 +- 0.013400
+Betulaceae,Sapindaceae:0.027141 +- 0.014081
+Celastraceae,Combretaceae:0.033340 +- 0.033333
+Celastraceae,Ericaceae:0.116672 +- 0.048432
+Celastraceae,Fabaceae:0.058339 +- 0.039382
+Celastraceae,Fagaceae:0.000004 +- 0.000001
+Celastraceae,Lauraceae:0.000005 +- 0.000001
+Celastraceae,Malvaceae:0.058338 +- 0.039382
+Celastraceae,Melastomataceae:0.000006 +- 0.000001
+Celastraceae,Myrtaceae:0.058339 +- 0.039382
+Celastraceae,Passifloraceae:0.000004 +- 0.000001
+Celastraceae,Phyllanthaceae:0.000004 +- 0.000001
+Celastraceae,Rosaceae:0.133338 +- 0.101835
+Celastraceae,Rubiaceae:0.083340 +- 0.043033
+Celastraceae,Salicaceae:0.150004 +- 0.106719
+Celastraceae,Sapindaceae:0.000005 +- 0.000001
+Combretaceae,Ericaceae:NaN +- NaN
+Combretaceae,Fabaceae:NaN +- NaN
+Combretaceae,Fagaceae:NaN +- NaN
+Combretaceae,Lauraceae:NaN +- NaN
+Combretaceae,Malvaceae:NaN +- NaN
+Combretaceae,Melastomataceae:NaN +- NaN
+Combretaceae,Myrtaceae:NaN +- NaN
+Combretaceae,Passifloraceae:NaN +- NaN
+Combretaceae,Phyllanthaceae:NaN +- NaN
+Combretaceae,Rosaceae:NaN +- NaN
+Combretaceae,Rubiaceae:NaN +- NaN
+Combretaceae,Salicaceae:NaN +- NaN
+Combretaceae,Sapindaceae:NaN +- NaN
+Ericaceae,Fabaceae:0.141591 +- 0.037333
+Ericaceae,Fagaceae:0.011115 +- 0.011111
+Ericaceae,Lauraceae:0.000005 +- 0.000001
+Ericaceae,Malvaceae:0.012504 +- 0.012500
+Ericaceae,Melastomataceae:0.016672 +- 0.016667
+Ericaceae,Myrtaceae:0.020005 +- 0.020000
+Ericaceae,Passifloraceae:0.000005 +- 0.000001
+Ericaceae,Phyllanthaceae:0.000005 +- 0.000001
+Ericaceae,Rosaceae:0.036670 +- 0.024570
+Ericaceae,Rubiaceae:0.000006 +- 0.000001
+Ericaceae,Salicaceae:0.113974 +- 0.052122
+Ericaceae,Sapindaceae:0.000005 +- 0.000001
+Fabaceae,Fagaceae:0.020149 +- 0.005203
+Fabaceae,Lauraceae:0.011289 +- 0.002664
+Fabaceae,Malvaceae:0.032383 +- 0.004472
+Fabaceae,Melastomataceae:0.009206 +- 0.003521
+Fabaceae,Myrtaceae:0.033209 +- 0.003658
+Fabaceae,Passifloraceae:0.009794 +- 0.002093
+Fabaceae,Phyllanthaceae:0.034491 +- 0.004583
+Fabaceae,Rosaceae:0.041781 +- 0.006200
+Fabaceae,Rubiaceae:0.029976 +- 0.004255
+Fabaceae,Salicaceae:0.045994 +- 0.005104
+Fabaceae,Sapindaceae:0.022017 +- 0.002968
+Fagaceae,Lauraceae:0.006673 +- 0.006667
+Fagaceae,Malvaceae:0.052148 +- 0.025908
+Fagaceae,Melastomataceae:0.000005 +- 0.000001
+Fagaceae,Myrtaceae:0.028650 +- 0.015835
+Fagaceae,Passifloraceae:0.016672 +- 0.016666
+Fagaceae,Phyllanthaceae:0.010004 +- 0.010000
+Fagaceae,Rosaceae:0.047622 +- 0.019863
+Fagaceae,Rubiaceae:0.058564 +- 0.026586
+Fagaceae,Salicaceae:0.040877 +- 0.023214
+Fagaceae,Sapindaceae:0.080555 +- 0.032159
+Lauraceae,Malvaceae:0.022805 +- 0.009919
+Lauraceae,Melastomataceae:0.016338 +- 0.009114
+Lauraceae,Myrtaceae:0.043558 +- 0.016768
+Lauraceae,Passifloraceae:0.011760 +- 0.008162
+Lauraceae,Phyllanthaceae:0.127786 +- 0.015721
+Lauraceae,Rosaceae:0.000006 +- 0.000001
+Lauraceae,Rubiaceae:0.015078 +- 0.008595
+Lauraceae,Salicaceae:0.043393 +- 0.012876
+Lauraceae,Sapindaceae:0.008518 +- 0.005678
+Malvaceae,Melastomataceae:0.009096 +- 0.009091
+Malvaceae,Myrtaceae:0.016672 +- 0.016667
+Malvaceae,Passifloraceae:0.000005 +- 0.000001
+Malvaceae,Phyllanthaceae:0.000006 +- 0.000001
+Malvaceae,Rosaceae:0.025400 +- 0.017096
+Malvaceae,Rubiaceae:0.010006 +- 0.010000
+Malvaceae,Salicaceae:0.071235 +- 0.025684
+Malvaceae,Sapindaceae:0.048389 +- 0.028542
+Melastomataceae,Myrtaceae:0.058125 +- 0.018686
+Melastomataceae,Passifloraceae:0.046553 +- 0.017012
+Melastomataceae,Phyllanthaceae:0.020006 +- 0.014229
+Melastomataceae,Rosaceae:0.000005 +- 0.000001
+Melastomataceae,Rubiaceae:0.000006 +- 0.000001
+Melastomataceae,Salicaceae:0.051977 +- 0.016831
+Melastomataceae,Sapindaceae:0.007148 +- 0.007143
+Myrtaceae,Passifloraceae:0.027870 +- 0.009323
+Myrtaceae,Phyllanthaceae:0.051462 +- 0.010423
+Myrtaceae,Rosaceae:0.020822 +- 0.006974
+Myrtaceae,Rubiaceae:0.023551 +- 0.007290
+Myrtaceae,Salicaceae:0.068877 +- 0.012698
+Myrtaceae,Sapindaceae:0.021237 +- 0.007682
+Passifloraceae,Phyllanthaceae:0.000004 +- 0.000001
+Passifloraceae,Rosaceae:0.009096 +- 0.009091
+Passifloraceae,Rubiaceae:0.000005 +- 0.000001
+Passifloraceae,Salicaceae:0.029097 +- 0.021030
+Passifloraceae,Sapindaceae:0.016672 +- 0.016666
+Phyllanthaceae,Rosaceae:0.005272 +- 0.003513
+Phyllanthaceae,Rubiaceae:0.011003 +- 0.004599
+Phyllanthaceae,Salicaceae:0.106184 +- 0.010994
+Phyllanthaceae,Sapindaceae:0.003981 +- 0.002674
+Rosaceae,Rubiaceae:0.019096 +- 0.012745
+Rosaceae,Salicaceae:0.098504 +- 0.023394
+Rosaceae,Sapindaceae:0.094060 +- 0.018327
+Rubiaceae,Salicaceae:0.068627 +- 0.008915
+Rubiaceae,Sapindaceae:0.071090 +- 0.006920
+Salicaceae,Sapindaceae:0.013834 +- 0.005102
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: Java heap space
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:09 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:13 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+{Operation terminated by user during <a href="matlab:helpUtils.errorDocCallback('prepare',
+'/usr/local/matlab/toolbox/matlab/graphics/private/prepare.m', 44)"
+style="font-weight:bold">prepare</a> (<a href="matlab:
+opentoline('/usr/local/matlab/toolbox/matlab/graphics/private/prepare.m',44,0)">line 44</a>)
+
+In <a href="matlab:helpUtils.errorDocCallback('print>LocalPrint',
+'/usr/local/matlab/toolbox/matlab/graphics/print.m', 268)"
+style="font-weight:bold">print>LocalPrint</a> (<a href="matlab:
+opentoline('/usr/local/matlab/toolbox/matlab/graphics/print.m',268,0)">line 268</a>)
+        pj = prepare( pj, h );
+
+In <a href="matlab:helpUtils.errorDocCallback('print',
+'/usr/local/matlab/toolbox/matlab/graphics/print.m', 237)" style="font-weight:bold">print</a> (<a
+href="matlab: opentoline('/usr/local/matlab/toolbox/matlab/graphics/print.m',237,0)">line 237</a>)
+    LocalPrint(pj);
+
+In <a href="matlab:helpUtils.errorDocCallback('report_results>report_pairs',
+'/home/sharat/open-source/sharat-cbcl/leaves/report_results.m', 89)"
+style="font-weight:bold">report_results>report_pairs</a> (<a href="matlab:
+opentoline('/home/sharat/open-source/sharat-cbcl/leaves/report_results.m',89,0)">line 89</a>)
+	print(gcf, '-djpeg100', fullfile(date, [what '-' method '.jpg']));
+
+In <a href="matlab:helpUtils.errorDocCallback('report_results',
+'/home/sharat/open-source/sharat-cbcl/leaves/report_results.m', 8)"
+style="font-weight:bold">report_results</a> (<a href="matlab:
+opentoline('/home/sharat/open-source/sharat-cbcl/leaves/report_results.m',8,0)">line 8</a>)
+    report_pairs(jobname, 'family_confusion', 'pairwise_confusion');
+} 
+
+
+
+
+
+close all;
+{Error using request_close (line 194)
+Failed to retrieve Exception Message
+
+
+Error in /usr/local/matlab/toolbox/matlab/graphics/close.p>close (line 100)
+
+
+Caused by:
+    Error while evaluating figure CloseRequestFcn
+} 
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:42 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:43 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:44 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:45 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:46 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "Timer-1" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Feb 19, 2012 6:29:49 PM sun.awt.X11.XToolkit processException
+WARNING: Exception on Toolkit thread
+java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-XAWT" java.lang.IllegalMonitorStateException
+	at java.util.concurrent.locks.ReentrantLock$Sync.tryRelease(Unknown Source)
+	at java.util.concurrent.locks.AbstractQueuedSynchronizer.release(Unknown Source)
+	at java.util.concurrent.locks.ReentrantLock.unlock(Unknown Source)
+	at sun.awt.SunToolkit.awtUnlock(Unknown Source)
+	at sun.awt.X11.XToolkit.run(Unknown Source)
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception

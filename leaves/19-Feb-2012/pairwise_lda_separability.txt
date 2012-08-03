@@ -1,0 +1,223 @@
+---------------------
+Pair wise measure:
+---------------------
+Anacardiaceae,Annonaceae:0.032126 +- 0.000366
+Anacardiaceae,Apocynaceae:0.022497 +- 0.000517
+Anacardiaceae,Betulaceae:0.263955 +- 0.016338
+Anacardiaceae,Celastraceae:0.146191 +- 0.003796
+Anacardiaceae,Combretaceae:0.085819 +- 0.003339
+Anacardiaceae,Ericaceae:0.080694 +- 0.002081
+Anacardiaceae,Fabaceae:0.010260 +- 0.000110
+Anacardiaceae,Fagaceae:0.069275 +- 0.002667
+Anacardiaceae,Lauraceae:0.046837 +- 0.000800
+Anacardiaceae,Malvaceae:0.050514 +- 0.001759
+Anacardiaceae,Melastomataceae:0.237540 +- 0.007290
+Anacardiaceae,Myrtaceae:0.024223 +- 0.000361
+Anacardiaceae,Passifloraceae:0.259412 +- 0.010138
+Anacardiaceae,Phyllanthaceae:0.038794 +- 0.000595
+Anacardiaceae,Rosaceae:0.054593 +- 0.001118
+Anacardiaceae,Rubiaceae:0.023966 +- 0.000316
+Anacardiaceae,Salicaceae:0.022037 +- 0.000280
+Anacardiaceae,Sapindaceae:0.040374 +- 0.000631
+Annonaceae,Apocynaceae:0.027606 +- 0.000341
+Annonaceae,Betulaceae:0.138347 +- 0.002034
+Annonaceae,Celastraceae:0.047548 +- 0.000677
+Annonaceae,Combretaceae:0.030608 +- 0.000459
+Annonaceae,Ericaceae:0.054097 +- 0.000910
+Annonaceae,Fabaceae:0.017014 +- 0.000088
+Annonaceae,Fagaceae:0.048425 +- 0.000371
+Annonaceae,Lauraceae:0.011571 +- 0.000086
+Annonaceae,Malvaceae:0.033024 +- 0.000263
+Annonaceae,Melastomataceae:0.065641 +- 0.000855
+Annonaceae,Myrtaceae:0.022109 +- 0.000215
+Annonaceae,Passifloraceae:0.052715 +- 0.000543
+Annonaceae,Phyllanthaceae:0.017570 +- 0.000156
+Annonaceae,Rosaceae:0.051056 +- 0.000738
+Annonaceae,Rubiaceae:0.025994 +- 0.000186
+Annonaceae,Salicaceae:0.019367 +- 0.000114
+Annonaceae,Sapindaceae:0.039076 +- 0.000403
+Apocynaceae,Betulaceae:0.089096 +- 0.001449
+Apocynaceae,Celastraceae:0.027486 +- 0.000547
+Apocynaceae,Combretaceae:0.031867 +- 0.000701
+Apocynaceae,Ericaceae:0.028754 +- 0.000383
+Apocynaceae,Fabaceae:0.005690 +- 0.000034
+Apocynaceae,Fagaceae:0.034274 +- 0.000352
+Apocynaceae,Lauraceae:0.026469 +- 0.000204
+Apocynaceae,Malvaceae:0.020561 +- 0.000319
+Apocynaceae,Melastomataceae:0.072182 +- 0.000922
+Apocynaceae,Myrtaceae:0.012283 +- 0.000105
+Apocynaceae,Passifloraceae:0.059884 +- 0.001072
+Apocynaceae,Phyllanthaceae:0.024383 +- 0.000236
+Apocynaceae,Rosaceae:0.032407 +- 0.000384
+Apocynaceae,Rubiaceae:0.013697 +- 0.000162
+Apocynaceae,Salicaceae:0.009334 +- 0.000105
+Apocynaceae,Sapindaceae:0.026791 +- 0.000477
+Betulaceae,Celastraceae:0.271907 +- 0.011707
+Betulaceae,Combretaceae:0.277769 +- 0.009259
+Betulaceae,Ericaceae:0.266913 +- 0.007378
+Betulaceae,Fabaceae:0.022794 +- 0.000150
+Betulaceae,Fagaceae:0.089237 +- 0.001644
+Betulaceae,Lauraceae:0.124701 +- 0.000910
+Betulaceae,Malvaceae:0.072292 +- 0.001426
+Betulaceae,Melastomataceae:0.458420 +- 0.014440
+Betulaceae,Myrtaceae:0.085888 +- 0.000994
+Betulaceae,Passifloraceae:0.571194 +- 0.022292
+Betulaceae,Phyllanthaceae:0.125883 +- 0.001084
+Betulaceae,Rosaceae:0.050541 +- 0.001192
+Betulaceae,Rubiaceae:0.052782 +- 0.000364
+Betulaceae,Salicaceae:0.037229 +- 0.000324
+Betulaceae,Sapindaceae:0.061921 +- 0.000886
+Celastraceae,Combretaceae:0.089181 +- 0.003452
+Celastraceae,Ericaceae:0.042207 +- 0.001130
+Celastraceae,Fabaceae:0.008148 +- 0.000100
+Celastraceae,Fagaceae:0.090645 +- 0.002741
+Celastraceae,Lauraceae:0.045189 +- 0.000706
+Celastraceae,Malvaceae:0.067112 +- 0.001716
+Celastraceae,Melastomataceae:0.213401 +- 0.007040
+Celastraceae,Myrtaceae:0.025099 +- 0.000314
+Celastraceae,Passifloraceae:0.223520 +- 0.012385
+Celastraceae,Phyllanthaceae:0.051027 +- 0.000662
+Celastraceae,Rosaceae:0.038211 +- 0.000910
+Celastraceae,Rubiaceae:0.013944 +- 0.000186
+Celastraceae,Salicaceae:0.012021 +- 0.000068
+Celastraceae,Sapindaceae:0.049329 +- 0.000619
+Combretaceae,Ericaceae:0.070745 +- 0.001072
+Combretaceae,Fabaceae:0.014879 +- 0.000124
+Combretaceae,Fagaceae:0.084252 +- 0.001541
+Combretaceae,Lauraceae:0.025605 +- 0.000529
+Combretaceae,Malvaceae:0.052307 +- 0.001175
+Combretaceae,Melastomataceae:0.124776 +- 0.003358
+Combretaceae,Myrtaceae:0.021470 +- 0.000296
+Combretaceae,Passifloraceae:0.102231 +- 0.002093
+Combretaceae,Phyllanthaceae:0.015478 +- 0.000171
+Combretaceae,Rosaceae:0.061289 +- 0.000869
+Combretaceae,Rubiaceae:0.027516 +- 0.000213
+Combretaceae,Salicaceae:0.013320 +- 0.000207
+Combretaceae,Sapindaceae:0.068316 +- 0.000669
+Ericaceae,Fabaceae:0.006135 +- 0.000048
+Ericaceae,Fagaceae:0.073663 +- 0.001634
+Ericaceae,Lauraceae:0.054353 +- 0.000757
+Ericaceae,Malvaceae:0.058509 +- 0.001140
+Ericaceae,Melastomataceae:0.121549 +- 0.002259
+Ericaceae,Myrtaceae:0.022441 +- 0.000234
+Ericaceae,Passifloraceae:0.269459 +- 0.003107
+Ericaceae,Phyllanthaceae:0.038206 +- 0.000493
+Ericaceae,Rosaceae:0.043962 +- 0.000994
+Ericaceae,Rubiaceae:0.021116 +- 0.000226
+Ericaceae,Salicaceae:0.013339 +- 0.000167
+Ericaceae,Sapindaceae:0.057783 +- 0.000864
+Fabaceae,Fagaceae:0.011011 +- 0.000073
+Fabaceae,Lauraceae:0.018503 +- 0.000110
+Fabaceae,Malvaceae:0.007696 +- 0.000060
+Fabaceae,Melastomataceae:0.036360 +- 0.000188
+Fabaceae,Myrtaceae:0.009297 +- 0.000054
+Fabaceae,Passifloraceae:0.031155 +- 0.000233
+Fabaceae,Phyllanthaceae:0.015605 +- 0.000067
+Fabaceae,Rosaceae:0.008404 +- 0.000065
+Fabaceae,Rubiaceae:0.008721 +- 0.000038
+Fabaceae,Salicaceae:0.004991 +- 0.000019
+Fabaceae,Sapindaceae:0.013515 +- 0.000080
+Fagaceae,Lauraceae:0.042320 +- 0.000500
+Fagaceae,Malvaceae:0.045681 +- 0.000779
+Fagaceae,Melastomataceae:0.186773 +- 0.003565
+Fagaceae,Myrtaceae:0.031424 +- 0.000307
+Fagaceae,Passifloraceae:0.169648 +- 0.003371
+Fagaceae,Phyllanthaceae:0.041095 +- 0.000437
+Fagaceae,Rosaceae:0.038186 +- 0.001062
+Fagaceae,Rubiaceae:0.018870 +- 0.000251
+Fagaceae,Salicaceae:0.019729 +- 0.000146
+Fagaceae,Sapindaceae:0.028336 +- 0.000464
+Lauraceae,Malvaceae:0.031885 +- 0.000361
+Lauraceae,Melastomataceae:0.054326 +- 0.000805
+Lauraceae,Myrtaceae:0.021769 +- 0.000187
+Lauraceae,Passifloraceae:0.045246 +- 0.000764
+Lauraceae,Phyllanthaceae:0.011239 +- 0.000104
+Lauraceae,Rosaceae:0.047029 +- 0.000429
+Lauraceae,Rubiaceae:0.024030 +- 0.000170
+Lauraceae,Salicaceae:0.013791 +- 0.000086
+Lauraceae,Sapindaceae:0.042785 +- 0.000403
+Malvaceae,Melastomataceae:0.108562 +- 0.002455
+Malvaceae,Myrtaceae:0.027759 +- 0.000409
+Malvaceae,Passifloraceae:0.075576 +- 0.002622
+Malvaceae,Phyllanthaceae:0.025638 +- 0.000285
+Malvaceae,Rosaceae:0.033537 +- 0.000657
+Malvaceae,Rubiaceae:0.021864 +- 0.000162
+Malvaceae,Salicaceae:0.011754 +- 0.000169
+Malvaceae,Sapindaceae:0.027931 +- 0.000346
+Melastomataceae,Myrtaceae:0.038880 +- 0.000349
+Melastomataceae,Passifloraceae:0.211595 +- 0.008934
+Melastomataceae,Phyllanthaceae:0.037142 +- 0.000821
+Melastomataceae,Rosaceae:0.139603 +- 0.002178
+Melastomataceae,Rubiaceae:0.065987 +- 0.000449
+Melastomataceae,Salicaceae:0.032752 +- 0.000208
+Melastomataceae,Sapindaceae:0.116329 +- 0.001620
+Myrtaceae,Passifloraceae:0.029797 +- 0.000560
+Myrtaceae,Phyllanthaceae:0.013208 +- 0.000176
+Myrtaceae,Rosaceae:0.025845 +- 0.000243
+Myrtaceae,Rubiaceae:0.015938 +- 0.000124
+Myrtaceae,Salicaceae:0.007214 +- 0.000060
+Myrtaceae,Sapindaceae:0.026248 +- 0.000177
+Passifloraceae,Phyllanthaceae:0.028144 +- 0.000252
+Passifloraceae,Rosaceae:0.132212 +- 0.003626
+Passifloraceae,Rubiaceae:0.049963 +- 0.000323
+Passifloraceae,Salicaceae:0.021815 +- 0.000273
+Passifloraceae,Sapindaceae:0.093834 +- 0.001163
+Phyllanthaceae,Rosaceae:0.046455 +- 0.000553
+Phyllanthaceae,Rubiaceae:0.033559 +- 0.000219
+Phyllanthaceae,Salicaceae:0.009886 +- 0.000067
+Phyllanthaceae,Sapindaceae:0.056641 +- 0.000434
+Rosaceae,Rubiaceae:0.016899 +- 0.000194
+Rosaceae,Salicaceae:0.013559 +- 0.000191
+Rosaceae,Sapindaceae:0.024692 +- 0.000210
+Rubiaceae,Salicaceae:0.008650 +- 0.000050
+Rubiaceae,Sapindaceae:0.012936 +- 0.000157
+Salicaceae,Sapindaceae:0.018720 +- 0.000126
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.nio.CharBuffer.wrap(Unknown Source)
+	at sun.nio.cs.StreamEncoder.implWrite(Unknown Source)
+	at sun.nio.cs.StreamEncoder.write(Unknown Source)
+	at sun.nio.cs.StreamEncoder.write(Unknown Source)
+	at java.io.OutputStreamWriter.write(Unknown Source)
+	at com.icl.saxon.output.XMLEmitter.startElement(XMLEmitter.java:216)
+	at com.icl.saxon.output.ProxyEmitter.startElement(ProxyEmitter.java:80)
+	at com.icl.saxon.output.XMLIndenter.startElement(XMLIndenter.java:60)
+	at com.icl.saxon.output.ProxyEmitter.startElement(ProxyEmitter.java:80)
+	at com.icl.saxon.output.NamespaceEmitter.startElement(NamespaceEmitter.java:95)
+	at com.icl.saxon.ContentEmitter.startElement(ContentEmitter.java:121)
+	at com.icl.saxon.DOMDriver.walkNode(DOMDriver.java:304)
+	at com.icl.saxon.DOMDriver.walkNode(DOMDriver.java:306)
+	at com.icl.saxon.DOMDriver.parse(DOMDriver.java:177)
+	at com.icl.saxon.DOMDriver.parse(DOMDriver.java:146)
+	at com.icl.saxon.IdentityTransformer.transform(IdentityTransformer.java:90)
+	at com.mathworks.xml.XMLUtils.serializeXML(XMLUtils.java:175)
+	at com.mathworks.widgets.desk.Desktop.saveLayout(Desktop.java:4625)
+	at com.mathworks.widgets.desk.Desktop$38.call(Desktop.java:3691)
+	at com.mathworks.widgets.desk.Desktop$38.call(Desktop.java:3679)
+	at com.mathworks.widgets.desk.Desktop.deferredCall(Desktop.java:7245)
+	at com.mathworks.widgets.desk.Desktop.saveLayout(Desktop.java:3679)
+	at com.mathworks.widgets.desk.DTLayoutSaveManager.performSave(DTLayoutSaveManager.java:127)
+	at com.mathworks.widgets.desk.DTLayoutSaveManager.access$500(DTLayoutSaveManager.java:18)
+	at com.mathworks.widgets.desk.DTLayoutSaveManager$1.actionPerformed(DTLayoutSaveManager.java:47)
+	at javax.swing.Timer.fireActionPerformed(Unknown Source)
+	at javax.swing.Timer$DoPostEvent.run(Unknown Source)
+	at java.awt.event.InvocationEvent.dispatch(Unknown Source)
+	at java.awt.EventQueue.dispatchEvent(Unknown Source)
+	at java.awt.EventDispatchThread.pumpOneEventForFilters(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForFilter(Unknown Source)
+	at java.awt.EventDispatchThread.pumpEventsForHierarchy(Unknown Source)
+Exception in thread "RequestQueue for GenericFileList" java.lang.OutOfMemoryError: GC overhead limit exceeded
+	at java.lang.StringBuilder.toString(Unknown Source)
+	at com.mathworks.matlab.api.explorer.FileLocation.<init>(FileLocation.java:118)
+	at com.mathworks.mlwidgets.explorer.model.realfs.StatToEntryAdapter.receive(StatToEntryAdapter.java:44)
+	at com.mathworks.mlwidgets.explorer.model.realfs.StatToEntryAdapter.receive(StatToEntryAdapter.java:14)
+	at com.mathworks.util.NativeJava.listFiles(Native Method)
+	at com.mathworks.mlwidgets.explorer.model.realfs.RealFileList.readFilesAndFolders(RealFileList.java:46)
+	at com.mathworks.mlwidgets.explorer.model.genericfs.SimpleFileList.readFolders(SimpleFileList.java:37)
+	at com.mathworks.mlwidgets.explorer.model.realfs.RealFileList.readFolders(RealFileList.java:62)
+	at com.mathworks.mlwidgets.explorer.model.genericfs.GenericFileList$7.run(GenericFileList.java:534)
+	at com.mathworks.util.RequestQueue.execute(RequestQueue.java:87)
+	at com.mathworks.util.RequestQueue.access$000(RequestQueue.java:22)
+	at com.mathworks.util.RequestQueue$1.run(RequestQueue.java:58)
+	at java.lang.Thread.run(Unknown Source)
+Exception in thread "TimerQueue" java.lang.OutOfMemoryError: GC overhead limit exceeded
+Exception in thread "AWT-EventQueue-0" java.lang.OutOfMemoryError: Java heap space
