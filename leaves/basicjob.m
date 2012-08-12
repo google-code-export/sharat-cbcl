@@ -14,12 +14,12 @@ function p=basicjob
     p.splits=10;          % 
     %this function is called for each image in the db
     %dummy_function can be used to test
-    %p.callback='dummy_function'; 
-    %p.ftrlen=400;
+    p.callback='dummy_function'; 
+    p.ftrlen=400;
     %use this function as default feature extraction 
     %Alternate: hmax
-    p.callback='callback_hist_leaves'; %in code/
-    p.ftrlen  =192;
+    %p.callback='callback_hist_leaves'; %in code/
+    %p.ftrlen  =384;
     %use this function to call pyramidal HoG features
     %
     %p.callback='call_phog'; %in code/
@@ -27,25 +27,24 @@ function p=basicjob
     %classifier specificatoin
     p.classifier='rls'; %(can be rls,liblinear,libsvm)
                            %recommend rls
-    p.minCount=100; %classes with fewer than these number of images
+    p.minCount= 100; %classes with fewer than these number of images
                     %are ignored
     p.tasks={};
     p.desc='';
 
-    %split the files
+    %initialize
     t=struct;
-    t.name='split'
+    t.name='initialize'
     t.args=struct;
-    t.func='split_default';
+    t.func='initialize_default';
     p.tasks{end+1}=t;
-
 
     %dictionary learning
     t=struct;
     t.name='flearn'
     t.args=struct;
     t.func='flearn_default'
-    t.depends={'split'};
+    t.depends={'initialize'};
     p.tasks{end+1}=t;
 
 
@@ -54,40 +53,40 @@ function p=basicjob
     t.name='fextract';
     t.args=struct;
     t.func='fextract_default'
-    t.depends={'flearn'};
+    t.depends={'initialize','flearn'};
     p.tasks{end+1}=t;
 
     %classification by family
     t=struct;
     t.name='family';
-    t.args=struct;
-    t.func='classify_family'
-    t.depends={'fextract'};
+    t.args=struct('label_field','familyid');
+    t.func='classify_default'
+    t.depends={'initialize','fextract'};
     p.tasks{end+1}=t;
 
     %classification by family
     t=struct;
     t.name='randomFamily';
-    t.args=struct;
-    t.func='random_family'
-    t.depends={'fextract'};
+    t.args=struct('label_field','random_familyid');
+    t.func='classify_default'
+    t.depends={'initialize','fextract'};
     p.tasks{end+1}=t;
 
 
     %classification by order
     t=struct;
     t.name='order';
-    t.args=struct;
-    t.func='classify_order'
-    t.depends={'fextract'};
+    t.args=struct('label_field','orderid');
+    t.func='classify_default'
+    t.depends={'initialize', 'fextract'};
     p.tasks{end+1}=t;
 
     %classification by order
     t=struct;
     t.name='randomOrder';
-    t.args=struct;
-    t.func='random_order'
-    t.depends={'fextract'};
+    t.args=struct('label_field','random_familyid');
+    t.func='classify_default'
+    t.depends={'initialize','fextract'};
     p.tasks{end+1}=t;
 
     %get pairwise classification
@@ -96,6 +95,6 @@ function p=basicjob
     t.args=struct
     t.func='all_pairs'
     t.depends={'fextract'}
-    p.tasks{end+1}=t
+    %p.tasks{end+1}=t
    
 

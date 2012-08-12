@@ -5,22 +5,19 @@ function t=fextract_default(varargin)
     t.combine=@combine_fextract;
 
 %-----------------------------------------------
-function a=start_fextract(p,a,input)
-   %isolate train/test
-   idx=find(~input.isHold);
-   fnames=fieldnames(input);
-   for i=1:length(fnames)
-       a.(fnames{i})=input.(fnames{i})(idx);
-   end;
-   a.count=length(a.(fnames{1}));
+% input contains the results of initialize_default
+function a=start_fextract(p,a,input,dictionary)
+   a.count=length(input.data.familyid);
    a.batchSize=100;
 
 %-----------------------------------------------
-function r=item_fextract(p,a,input)
-  img=readLeafImage(p.home,char(a.filename(a.itemNo)));
+function r=item_fextract(p,a,input, dictionary)
+  img=readLeafImage(p.home,char(input.data.filename(a.itemNo)));
   %copy fields
   try
-      ftr=feval(p.callback,img,a.familyid(a.itemNo),a.orderid(a.itemNo));
+      ftr=feval(p.callback,img,...
+								input.data.familyid(a.itemNo),...
+								input.data.orderid(a.itemNo));
       r.X=ftr(:);
       r.good=1;
   catch
@@ -33,7 +30,7 @@ function r=item_fextract(p,a,input)
 %end function
 
 %-----------------------------------------------
-function r=combine_fextract(p,a,input)
+function r=combine_fextract(p,a,input, dictionary)
    r=a;
    r=rmfield(r,'items'); 
    r.X=a.items.X;
