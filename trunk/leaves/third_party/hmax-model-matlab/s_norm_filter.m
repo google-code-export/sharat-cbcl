@@ -32,7 +32,7 @@ for b = 1:num_bands
       tmp      = conv2(c_tmp(:,:,d),patch(end:-1:1,end:-1:1,d),'valid');
       res_tmp  = res_tmp+tmp;
     end;
-    res_tmp    = abs(res_tmp./sqrt(img2+ ~img2));
+    res_tmp    = abs(res_tmp./sqrt(img2+ eps));
     res_tmp    = padarray(res_tmp,[floor((pht-1)/2),floor((pwt-1)/2)],'pre');
     res_tmp    = padarray(res_tmp,[ceil((pht-1)/2),ceil((pwt-1)/2)],'post');
     s{b}(:,:,p)= res_tmp;

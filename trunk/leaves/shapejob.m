@@ -17,7 +17,7 @@ function p=basicjob
     p.ftrlen=264;
 
     %classifier specificatoin
-    p.classifier='libsvm'; %(can be rls,liblinear,libsvm)
+    p.classifier='rls'; %(can be rls,liblinear,libsvm)
                            %recommend rls
     p.minCount=100; %classes with fewer than these number of images
                     %are ignored

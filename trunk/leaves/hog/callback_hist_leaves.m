@@ -2,13 +2,13 @@
 %
 %sharat@mit.edu
 function ftr=callback_hist_leaves(img,varargin);
-    out         = preprocess(img);
+    %out         = preprocess(img);
     %[out,shape] = cleanup(img);
-    load('patches_gabor','patches_gabor');
-    c0Patches=patches_gabor;
-    [ht,wt,ndim]= size(out);
-    img         = rescaleHeight(out,800);
+    c0Patches= gabor_patches(15, 8);
+    [ht,wt,ndim]= size(img);
+    img         = rescaleHeight(img,800);
     ftr         = callback_c1_leaves(img,c0Patches);
+		keyboard;
     c1          = ftr{2};clear ftr;
     c1b = [];
     for b=1:length(c1)
