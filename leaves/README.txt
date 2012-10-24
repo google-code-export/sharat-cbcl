@@ -4,6 +4,7 @@ classification can be done in parallel thanks to Jim Mutch's DMAKE matlab
 framework. The evaluation pipeline is divided into the following stages:
 
 a) Split creation: This stage divides the input images into training 
+and testing.
 
 b) Building feature dictionary: The previous stage also puts aside 
 a small portion of images for extracting a feature dictionary. This 
@@ -47,24 +48,25 @@ If you start matlab from the the 'leaves' folders, the startup.m file is execute
 Setting variables (Edit the following files):
 -------------------
 Set the path in the following order.
-a)homedir.m -This serves as the base folder of the data and result. 
-b)datadir.m -Location that contains the leaves database. It is assumed
-             that each order is located in a separate folder.
-c)featdir.m -Where the feature vectors are stored (will take lot of storage)            
+a)vars/homedir.m -This serves as the base folder of the data and result. 
+b)vars/datadir.m -Location that contains the leaves database. It is assumed that each order is located in a separate folder.
+c)vars/featdir.m -Where the feature vectors are stored (will take lot of storage)            
+
+Instead of copying the data folder to a new location, the locations can also be set to existing copies. A simple way of doing it is to create symbolic links in the current folder and retain the defaults.
+
+cd /path/to/leaves
+ln -s /some/big/folder/data .
+ln -s /some/big/folder/feat .
+
 Debug run
 ----------
 %Follow setup instructions
 %Set p.callback='dummy_function' in basicjob.m
 cd /path/to/leaves
 startup
-cj trial basic job
+cj trial basicjob
 rj trial
-report_results('trial')Creating and running jobs
-Note:
-A simple way of doing it is to create symbolic links in the current folder and retain the defaults.
-ln -s /some/big/folder/data .
-ln -s /some/big/folder/feat .
-ln -s /
+report_results('trial')
 
 Creating new jobs
 --------------------------
