@@ -1,12 +1,16 @@
 %-----------------------------------------------------------------
 %
 %sharat@mit.edu
-%high pass filter on the image.
+%
 function out=preprocess(img)
-	 sigma = 3;
-	 img = im2double(img);
-   filt=fspecial('gaussian', 3 * sigma, sigma);
-	 hsz = (size(filt, 1)-1)/2;
-	 out = conv2(img, filt, 'valid');
-   out = img(hsz + 1:end - hsz, hsz + 1:end- hsz) - out;
+   filt=fspecial('gaussian',35,5);
+   filt=sum(filt);
+   if(isrgb(img))
+       img=im2double(rgb2gray(img));
+   end;
+   num =conv2(filt,filt,img);
+   den =conv2(filt,filt,ones(size(img)));
+   out =num./den;
+   out =out-mean(out(:));
+   out =out./(std(out(:))+1e-4);
 %end function
