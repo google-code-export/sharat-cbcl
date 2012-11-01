@@ -7,7 +7,7 @@ function p=basicjob
     %parameters
     p=struct;
     p.func=''
-    p.home='imagedb';
+    p.home=datadir;
     p.holdFraction=0.05; % porition of images used for
                          % learning feature dictionary
     p.splits=3;          % 
