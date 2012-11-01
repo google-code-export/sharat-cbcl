@@ -1,17 +1,11 @@
 function report_results(jobname)
-    output_folder = date;
-    mkdir(output_folder);
+  output_folder = date;
+  mkdir(output_folder);
 	close all;
-	if(1)
 	delete(fullfile(date, '*'))
-    figure;report(jobname,'family');
-    figure;report(jobname,'order');
-    report_pairs(jobname, 'pairs', 'pairwise_accuray', '1./x.^2');
-    report_pairs(jobname, 'fda', 'pairwise_lda_separability', '1./sqrt(x)');
-	end;
-	report_correlation(jobname, 'pairwise_accuray', 'family-pairs', '1./(x+eps)', 'x')
-	report_correlation(jobname, 'pairwise_lda_separability', 'family-pairs', '-log(x+eps)', 'sqrt(x)')
-	%report_correlation(jobname, 'family_confusion_matrix', 'family-pairs', '(x+eps)', '-(x+eps)')
+  figure;report(jobname,'family');
+  figure;report(jobname,'order');
+	report_correlation(jobname, 'family_confusion_matrix', 'family-pairs', '(x+eps)', '-(x+eps)')
 
 function scores = load_pair_distances(filename)
 	pairs = importdata(filename, ',', 0);
